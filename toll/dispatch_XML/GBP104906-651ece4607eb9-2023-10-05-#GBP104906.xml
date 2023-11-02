@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>2304</SequenceNumber>
+    <ToBePackedDate>2023-10-05T14:32:01Z</ToBePackedDate>
+    <ToDispatchDate>2023-10-05T14:37:10Z</ToDispatchDate>
+    <DispatchDate>2023-10-05T14:46:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5fc6f6e6-b5d0-4cb0-abce-d070f8c8e264</DispatchId>
+    <CourierService/>
+    <Weight>0.48</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jawaher Alajmy</ShipToAttention>
+    <DeliveryAddressLine1>Zone 74, street 744, house no.10</DeliveryAddressLine1>
+    <InterfaceRecordId>9c962829-5bbf-4ef3-93a8-b692c56dc503</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Doha</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>QA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0097455988811</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jawaheralajmy@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP104906</SalesOrderNumber>
+    <SalesOrderReference>GE4615866542GB</SalesOrderReference>
+    <DispatchNumber>002645</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1517258050</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-10-05T14:23:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>304d245f-9763-4a26-9ff8-920aa483ab65</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321581</ProductCode>
+      <EAN>731788321581</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8d6a101d-a89c-4fc6-bdf5-213c29ad158e</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322243</ProductCode>
+      <EAN>731788322243</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

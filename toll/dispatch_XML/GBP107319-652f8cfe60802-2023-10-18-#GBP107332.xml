@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>2777</SequenceNumber>
+    <ToBePackedDate>2023-10-18T05:47:09Z</ToBePackedDate>
+    <ToDispatchDate>2023-10-18T07:37:25Z</ToDispatchDate>
+    <DispatchDate>2023-10-18T07:39:30Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9e1a7f8e-8321-45ca-8104-0651e350e1e8</DispatchId>
+    <CourierService/>
+    <Weight>0.26</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tina Pompey</ShipToAttention>
+    <DeliveryAddressLine1>212 M Street SW</DeliveryAddressLine1>
+    <InterfaceRecordId>5ca052b5-d4d9-44a1-959b-20ccf9cab81e</InterfaceRecordId>
+    <DeliveryAddressLine2>#30</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Washington</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>20024</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(925) 2000509</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tpompey@me.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP107319</SalesOrderNumber>
+    <SalesOrderReference>GE4679868112GB</SalesOrderReference>
+    <DispatchNumber>003119</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2723772763</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-10-18T05:44:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b0a356eb-d657-40b3-a557-c57bd54f0972</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022974544</ProductCode>
+      <EAN>724022974544</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KQ64 12GG 90% WO / 10% WS WYSTERIA/BLACK/CREAM M</ProductDescription>
+      <ProductColour>WYSTERIA/BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

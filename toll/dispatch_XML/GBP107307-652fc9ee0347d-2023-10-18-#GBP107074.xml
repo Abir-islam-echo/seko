@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>2819</SequenceNumber>
+    <ToBePackedDate>2023-10-17T11:05:06Z</ToBePackedDate>
+    <ToDispatchDate>2023-10-17T19:29:46Z</ToDispatchDate>
+    <DispatchDate>2023-10-18T11:55:16Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>70848c95-a5da-4ce9-a99a-6f0772ec06fe</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Michaela Nygrdas</ShipToAttention>
+    <DeliveryAddressLine1>Tre Kronors vag 33</DeliveryAddressLine1>
+    <InterfaceRecordId>efaf10e2-1937-40ac-ae95-2a56314cbfff</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Nacka</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>131 31</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>SE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>46768317409</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>michaela.nygardas@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP107307</SalesOrderNumber>
+    <SalesOrderReference>GE4678344921GB</SalesOrderReference>
+    <DispatchNumber>003098</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5395004866</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-10-17T11:02:15Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c7cd1297-a99c-4fb2-8e3b-b51f61c27013</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>746935731960</ProductCode>
+      <EAN>746935731960</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS CREAM/NAVY/RED M</ProductDescription>
+      <ProductColour>CREAM/NAVY/RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>
