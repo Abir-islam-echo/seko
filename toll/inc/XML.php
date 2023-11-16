@@ -26,6 +26,7 @@ class XML
         } else {
             $orders = $this->api->getAllOrders()['orders'];
         }
+        
 
         if (empty($orders[0])) {
             return;
@@ -36,21 +37,61 @@ class XML
 
                 return false;
 
+            };
+
+            //check if the order contains only tattoo sheet, then it will not go to the seko end.
+            if(count($order['line_items']) === 1){
+                //need to change the tattoo sheet product id
+                if($order['line_items'][0]['product_id'] === 6886488473678){
+                    break;
+                }
+
+                //need to change the gift card product id
+                if($order['line_items'][0]['product_id'] === 1718097084531){
+                    break;
+                }
+            };
+    
+            $lineItemsArray = $order['line_items'];
+            $isPackageType7 = false;
+            $isSelectedJumper = array_filter($lineItemsArray, array($this, "checkedJumper"));
+            $isSelectedTattoos = array_filter($lineItemsArray, array($this, "checkedTattoo"));
+            $isSelectedGiftCard = array_filter($lineItemsArray, array($this, "checkedGiftCardItem"));
+            $isSelectedOtherItems = array_filter($lineItemsArray, array($this, "checkedOtherItems"));
+
+            if(count($isSelectedJumper) === 0 && count($isSelectedTattoos) >=1 && count($isSelectedOtherItems) >=1){
+                //no selected Jumpers but tattoo sheet and another items
+                $order = $this->removeTattoofromItems($order);          
+            };
+
+            if(count($isSelectedJumper) >= 1 && count($isSelectedTattoos) >=1 && count($isSelectedOtherItems) >=1){
+                //no selected Jumpers but tattoo sheet and another items
+                $order = $this->removeTattoofromItems($order); 
+            };
+
+            if(count($isSelectedJumper) >= 1 && count($isSelectedTattoos) >=1 && count($isSelectedOtherItems) === 0){
+                //no selected Jumpers but tattoo sheet and another items
+                $order = $this->removeTattoofromItems($order);
             }
 
-            echo '<pre>';
-            print_r($order);
+            if(count($isSelectedGiftCard) >= 1){
+                $order = $this->removeGiftCardfromItems($order);
+            }
+   
+            //if any order has seleceted jumpers then, specific package_type will be added.
+            if(count($isSelectedJumper) >=1){
+                $isPackageType7 = true;
+            }
             
             $xmlFile = APP_DIR . '/xml/SHOPIFY_' . date('Ymd_hms') . '_' . preg_replace('/[^A-Za-z0-9\-]/', '', $order['name']) . '.xml';
             $ordersXML = new \SimpleXMLElement('<Requests></Requests>');
 
-
+            
             if(isset($order['name']) && str_contains($order['name'], 'FF-')){
                 $order = $this->ffOrder($order);
             }
-            
 
-            if(isset($order['name']) && str_contains($order['name'], 'HR-')){
+             if(isset($order['name']) && str_contains($order['name'], 'HR-')){
                 $order = $this->hrOrder($order);
             }
       
@@ -59,27 +100,7 @@ class XML
 
             $ordersXML->Request->addChild('WebSalesOrder');
             isset($order['name']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderNumber', $order['name']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderNumber', ' ');
-            // if(str_contains($order['tags'], 'Globale::Approved') !== false){  
-                
-            //     $geOrderId = null; 
-
-            //     foreach ($order['note_attributes'] as $attribute) {
-            //         if ($attribute["name"] === "GEOrderId") {
-            //             $geOrderId = $attribute["value"];
-            //             break;
-            //         }
-            //     }
-
-            //     if ($geOrderId !== null) {
-            //         $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $geOrderId);
-            //     } else {
-            //         $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', '');
-            //     }
-
-            // }else{
-            //     isset($order['name']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $order['id']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', ' ');      
-            // }
-
+            
             if (!empty($order['note_attributes']) && str_contains($order['tags'], 'Globale::') !== false) {
                 foreach ($order['note_attributes'] as  $note_attribute) {
                     if($note_attribute['name'] == "GEOrderId"){
@@ -89,13 +110,12 @@ class XML
             } else{
                 isset($order['name']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $order['id']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', ' ');
             }
-            
+
             isset($order['created_at']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderDate', $order['created_at']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderDate', ' ');
             isset($order['currency']) ? $ordersXML->Request->WebSalesOrder->addChild('CurrencyCode', $order['currency']) : $ordersXML->Request->WebSalesOrder->addChild('CurrencyCode', ' ');
-            
 
-         
-                // in between 5th july to 12th July
+           
+                   // in between 5th july to 12th July
             if (str_contains($order['name'], '#GBP') !== false && str_contains($order['tags'], 'Globale::') === false) {
                 if(isset($order['shipping_lines']) && isset($order['shipping_lines'][0]['title']) && str_contains($order['shipping_lines'][0]['title'], 'Standard Delivery') !== false){
                     $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
@@ -114,6 +134,11 @@ class XML
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
                 }
                 if(isset($order['shipping_lines']) && isset($order['shipping_lines'][0]['title']) && str_contains($order['shipping_lines'][0]['title'], 'Seko Omni Returns Shipping charge') !== false){
+                    $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
+                    $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
+                }
+
+                if(count($isSelectedTattoos) >=1){
                     $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
                 }
@@ -172,7 +197,7 @@ class XML
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Customer Collect');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', ' ');
             } 
-    
+
             if(str_contains($order['name'], 'FF-') || str_contains($order['name'], 'HR-')){
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Customer Collect');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', ' '); 
@@ -181,7 +206,8 @@ class XML
             if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], '24S')) {
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Customer Collect');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', ' ');
-            } elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'IFCHIC')) {
+            } elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'IFCHIC')) { 
+                
                 $countryName = strtolower($order['shipping_address']['country']);
                
                 if (str_contains($countryName, 'taiwan') || str_contains($countryName, 'united states')) {
@@ -192,9 +218,9 @@ class XML
                     $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
                     $ordersXML->Request->WebSalesOrder->addChild('ShippingTerms', 'DDU');
-                }
-               
-            } else if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Shop Premium Outlets')) {
+                }      
+                
+            } else if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Shop Premium Outlets')) {  
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
             }
@@ -209,9 +235,6 @@ class XML
             }elseif(isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Faire')){
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', ' ');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', ' ');
-            }elseif(str_contains($order['name'], '#B2B') !== false){
-                $ordersXML->Request->WebSalesOrder->addChild('Notes', ' ');
-                $ordersXML->Request->WebSalesOrder->addChild('GroupReference', ' ');
             }elseif(isset($order['shipping_lines']) && isset($order['shipping_lines'][0]['title']) && str_contains($order['shipping_lines'][0]['title'], 'OFFICE') !== false){      
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
@@ -222,12 +245,18 @@ class XML
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_1');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_1');
+            }elseif(str_contains($order['name'], '#B2B') !== false){
+                $ordersXML->Request->WebSalesOrder->addChild('Notes', ' ');
+                $ordersXML->Request->WebSalesOrder->addChild('GroupReference', ' ');
+            }elseif($isPackageType7 === true){
+                $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_7');
+                $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_7');
             }else {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', $this->getPackageType($order));
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', $this->getPackageType($order));
             }
-
-     
+            
+           
             $ordersXML->Request->WebSalesOrder->addChild('OrderType', 'Web');
             $ordersXML->Request->addChild('DeliveryDetails');
 
@@ -238,8 +267,9 @@ class XML
             isset($order['shipping_address']['first_name']) ? $ordersXML->Request->DeliveryDetails->addChild('FirstName', $order['shipping_address']['first_name']) : $ordersXML->Request->DeliveryDetails->addChild('FirstName', ' ');
             isset($order['shipping_address']['last_name']) ? $ordersXML->Request->DeliveryDetails->addChild('LastName', $order['shipping_address']['last_name']) : $ordersXML->Request->DeliveryDetails->addChild('LastName', ' ');
 
-         
-            if(isset($order['shipping_address']['company']) && !empty($order['shipping_address']['company'])){
+
+    
+             if(isset($order['shipping_address']['company']) && !empty($order['shipping_address']['company'])){
    
                 $data1 = $this->checkSpecialCharacter($order['shipping_address']['company']);
                 $ordersXML->Request->DeliveryDetails->addChild('Line1',  $data1);
@@ -270,10 +300,8 @@ class XML
                 } 
             }
 
-          
-            
             isset($order['shipping_address']['phone']) ? $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', $order['shipping_address']['phone']) : $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', ' ');
-            isset($order['shipping_address']['zip']) ? $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', $order['shipping_address']['zip']) : $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', ' ');
+            isset($order['shipping_address']['zip']) && !empty($order['shipping_address']['zip']) ? $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', $order['shipping_address']['zip']) : $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', '00000');
 
  
             $ordersXML->Request->addChild('SalesOrderHeader');
@@ -283,38 +311,7 @@ class XML
 
             $order = $this->checkDuplicate($order);
 
-
-            
-
-           
-
-            // $refundItems = [];
-
-            // if(count($order['refunds']) > 0) {
-
-            //     foreach ($order['refunds'] as $line_refund_key => $line_refund_item) {
-            //         foreach($line_refund_item['refund_line_items'] as $line_key => $line_item){
-            //             if(isset($line_item['line_item_id'])){
-            //                 array_push($refundItems, $line_item['line_item_id']);
-            //             }
-            //         }
-            //     }
-
-            //     foreach ($order['line_items'] as $line_key => $line_item) {
-            //         $id = $line_item['id'];
-            //         foreach ($refundItems as $line_key_refund => $line_item_refund) {
-            //             if ($line_item_refund === $id) {
-            //                 unset($order['line_items'][$line_key]);
-            //             }
-            //         }
-            //     }
-
-            //     $order['line_items'] = array_values($order['line_items']);
-            // }
-
-
             foreach ($order['line_items'] as $line_key => $line_item) {
-
                 $ordersXML->Request->List->addChild('SalesOrderLineItem');
 
                 isset($line_item['price_set']['shop_money']['currency_code']) ? $ordersXML->Request->List->SalesOrderLineItem[$line_key]->addChild('CurrencyCode', $line_item['price_set']['shop_money']['currency_code']) : $ordersXML->Request->List->SalesOrderLineItem[$line_key]->addChild('CurrencyCode', ' ');
@@ -375,31 +372,26 @@ class XML
         $lineItemSkus = [];
         $duplicateArr = [];
         $flag = true;
-       
         foreach ($order['line_items'] as $line_key => $line_item) {
             $lineItemSkus[] = $line_item['sku'];
         }
-        
         $duplicateArrCounts = array_count_values($lineItemSkus);
-       
         foreach ($duplicateArrCounts as $key => $duplicateArrCount) {
             if ($duplicateArrCount > 1) {
                 $duplicateArr[$key] = $duplicateArrCount;
             }
         }
-
         foreach ($order['line_items'] as $line_key => $line_item) {
             foreach ($duplicateArr as $key => $duplicateCount) {
                 if ($line_item['sku'] == $key && $flag == true) {
                     $flag = false;
                     $order['line_items'][$line_key]['quantity'] = $line_item['quantity'] * $duplicateCount;
-                } elseif ($line_item['sku'] == $key && $flag == false) {         
+                } elseif ($line_item['sku'] == $key && $flag == false) {
                     unset($order['line_items'][$line_key]);
                     $flag = true;
                 }
             }
         }
-        
         $order['line_items'] = array_values($order['line_items']);
         return $order;
     }
@@ -607,7 +599,7 @@ class XML
         return $order;
     }
 
-      public function hrOrder($order){
+    public function hrOrder($order){
         $order['customer']['default_address']['city']= 'Milton Keynes';
         $order['customer']['default_address']['address1']= 'Harrods C/O Seko Logistics';
         $order['shipping_address']['country_code'] = 'GB';
@@ -630,5 +622,57 @@ class XML
        
 
         return $replacedString;
+    }
+
+    public function removeTattoofromItems($order){
+        foreach ($order['line_items'] as $line_key => $line_item) {
+            $id = $line_item['product_id'];
+            if ($id === 6886488473678) {
+                unset($order['line_items'][$line_key]);
+            }            
+        };
+        $order['line_items'] = array_values($order['line_items']);
+
+        return $order;
+    }
+
+    public function removeGiftCardfromItems($order){
+         foreach ($order['line_items'] as $line_key => $line_item) {
+            $id = $line_item['product_id'];
+            if ($id === 1718097084531) {
+                unset($order['line_items'][$line_key]);
+            }            
+        };
+        $order['line_items'] = array_values($order['line_items']);
+
+        return $order;
+    }
+
+    public function checkedJumper($number){
+        //need to change the selected two jumpers product ids
+        if($number['product_id'] === 6884976394318 || $number['product_id'] === 6884976328782){
+            return $number;
+        }
+    }
+
+    public function checkedTattoo($number){
+        //need to change the tatto sheet product id
+        if($number['product_id'] === 6886488473678){
+            return $number;
+        }
+    }
+
+    public function checkedOtherItems($number){
+        //need to change the tatto sheet, selected two jumpers product id
+        if($number['product_id'] !== 6884976394318 && $number['product_id'] !== 6884976328782 && $number['product_id'] !== 6886488473678){
+            return $number['product_id'];
+        }
+    }
+
+    public function checkedGiftCardItem($number){
+         //need to change the gift card product id
+        if($number['product_id'] === 1718097084531){
+            return $number;
+        }
     }
 }

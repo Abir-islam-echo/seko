@@ -13,7 +13,7 @@ $sftp = new \Toll_Integration\RemoteSFTP();
 //$sam = $api->getOrder('4777522724942');
 //print_r($sam);
 // print_r($api->getOrder('5255641235759'));
-$xml->generateOrdersXML('5000357281870');
+$xml->generateOrdersXML('5162106290278');
 // $api->test();
 // echo APP_DIR;
 // echo "<pre>";
