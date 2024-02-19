@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10308</SequenceNumber>
+    <ToBePackedDate>2024-01-09T12:16:29Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T12:21:37Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T12:22:48Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>76495e31-5801-4ce3-8044-2527ffea2ba4</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Magdalena Escalas</ShipToAttention>
+    <DeliveryAddressLine1>Passeig de Mallorca 8</DeliveryAddressLine1>
+    <InterfaceRecordId>2e47f396-a2f1-4570-9599-9e54c013fd9e</InterfaceRecordId>
+    <DeliveryAddressLine2>5a</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Palma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>07012</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>ES</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>690 10 56 96</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>magdalenaescalasgarcias@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114602</SalesOrderNumber>
+    <SalesOrderReference>GE5280466989GB</SalesOrderReference>
+    <DispatchNumber>010708</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1123772296</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T12:13:54Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d6ceafef-e408-4ea1-86e0-5d39d821ba80</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321765</ProductCode>
+      <EAN>731788321765</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS HOT PINK M</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>60227bb1-d86a-4602-b1f0-848d9b164ac1</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788300579</ProductCode>
+      <EAN>731788300579</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 90% W / 10% WS HOT PINK M</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

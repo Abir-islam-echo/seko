@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10882</SequenceNumber>
+    <ToBePackedDate>2024-01-14T12:47:30Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T13:14:27Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T13:15:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2ac4ab1b-eafb-4940-b0fa-70be520c9d56</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ornella Sanni</ShipToAttention>
+    <DeliveryAddressLine1>Viale San Giovanni Bosco,49</DeliveryAddressLine1>
+    <InterfaceRecordId>b552beab-415d-4265-a11d-546e5baf2e2d</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Roma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00175</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>3287120377</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>libridisangue@live.it</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115256</SalesOrderNumber>
+    <SalesOrderReference>GE5306923545GB</SalesOrderReference>
+    <DispatchNumber>011403</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6966653923</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T12:43:22Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>31889e78-291c-4f80-be09-1925d0f9fd17</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981740</ProductCode>
+      <EAN>724022981740</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS GREY MARL/CREAM/BLACK S</ProductDescription>
+      <ProductColour>GREY MARL/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>351e091b-2a69-42cf-9d8c-69aaf5cfc013</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022981986</ProductCode>
+      <EAN>724022981986</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI S</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

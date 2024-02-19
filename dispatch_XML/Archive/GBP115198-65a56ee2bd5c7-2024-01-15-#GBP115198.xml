@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11070</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T17:39:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:41:11Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>82031e2e-5b54-415d-a279-763222ba5ef9</DispatchId>
+    <CourierService/>
+    <Weight>0.56</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Roslyn  Scharf</ShipToAttention>
+    <DeliveryAddressLine1>23 Claridge Circle</DeliveryAddressLine1>
+    <InterfaceRecordId>81085ef1-cdaa-4cea-98ec-f8cfb4f167ad</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>manhasset</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11030</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(516) 8695552</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>metlady516@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115198</SalesOrderNumber>
+    <SalesOrderReference>GE5304496702GB</SalesOrderReference>
+    <DispatchNumber>011346</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5418850500</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:34:59Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4f60cbd5-8705-45cd-a421-c910972ac84d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972670</ProductCode>
+      <EAN>724022972670</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a10ea3c9-e0fc-4b55-9704-f1e8d8778393</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788300364</ProductCode>
+      <EAN>731788300364</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

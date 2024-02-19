@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9669</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T09:06:26Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T09:09:56Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0363033d-cb3f-4aa2-9b6d-3716769368c8</DispatchId>
+    <CourierService/>
+    <Weight>0.56</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tina Saratsopoulou</ShipToAttention>
+    <DeliveryAddressLine1>Kalpakiou 19</DeliveryAddressLine1>
+    <InterfaceRecordId>be751466-5464-4c55-95fc-961a896c5d2c</InterfaceRecordId>
+    <DeliveryAddressLine2>Psichiko</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Attiki</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>154 52</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 30 693 684 5615</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tinsar75@yahoo.gr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113951</SalesOrderNumber>
+    <SalesOrderReference>GE5252663006GB</SalesOrderReference>
+    <DispatchNumber>010041</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988870391I</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:25:50Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>032d410b-6145-476d-b813-ea415c8973e8</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321437</ProductCode>
+      <EAN>731788321437</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS TEAL XS</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b74c6fc3-2c8c-4010-82c4-530f5971733e</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321314</ProductCode>
+      <EAN>731788321314</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS JUNGLE GREEN XS</ProductDescription>
+      <ProductColour>JUNGLE GREEN</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10883</SequenceNumber>
+    <ToBePackedDate>2024-01-14T13:02:50Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T13:43:43Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T13:44:29Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>09d84f93-baac-470a-8d36-bdd18d3d54dc</DispatchId>
+    <CourierService/>
+    <Weight>1.13</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>lee jung hoon</ShipToAttention>
+    <DeliveryAddressLine1>44, Gyeryongro</DeliveryAddressLine1>
+    <InterfaceRecordId>72305df5-d076-4fba-a3da-b887fc3011a7</InterfaceRecordId>
+    <DeliveryAddressLine2>2nd floor</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Yuseonggu</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>34177</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>KR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>01036575438</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>2001-hohoho@hanmail.net</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115264</SalesOrderNumber>
+    <SalesOrderReference>GE5307138594GB</SalesOrderReference>
+    <DispatchNumber>011411</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6966675284</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T12:55:08Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2fa8b042-cdb6-44b0-85ec-78dca173c9aa</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788313104</ProductCode>
+      <EAN>731788313104</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2304 100% CO CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8eb215c6-d523-4ab2-9818-6e03dae9267e</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788312442</ProductCode>
+      <EAN>731788312442</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2350 7GG 90% WO 10% WS PINK/MULTI LL</ProductDescription>
+      <ProductColour>PINK/MULTI</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f52660b8-eea3-4bdf-b98a-e3d29bc8d783</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788328023</ProductCode>
+      <EAN>731788328023</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23106 12GG 90% WO 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a60c5652-870d-4d5c-9e29-eacd298d80c7</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788328184</ProductCode>
+      <EAN>731788328184</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23105 12GG 90% WO / 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

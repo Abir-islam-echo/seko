@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10992</SequenceNumber>
+    <ToBePackedDate>2024-01-15T06:25:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:12:10Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:13:03Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>7304f49a-2bb7-433b-a9c6-f68009a9e961</DispatchId>
+    <CourierService/>
+    <Weight>0.46</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Amanda Soares</ShipToAttention>
+    <DeliveryAddressLine1>52 Lyttelton road, Mid levels</DeliveryAddressLine1>
+    <InterfaceRecordId>2a8fd8c1-116f-4f8c-a3dd-8b387f4f2286</InterfaceRecordId>
+    <DeliveryAddressLine2>3D, Glory Heights</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Hong Kong</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>HK</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>852 5696 1556</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>amandagonji@outlook.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115296</SalesOrderNumber>
+    <SalesOrderReference>GE5308243230GB</SalesOrderReference>
+    <DispatchNumber>011443</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4671826795</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:13:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2cab6eff-9099-437d-b0fa-3e1f1dd0a477</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022975862</ProductCode>
+      <EAN>724022975862</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS LIGHT OATMEAL M</ProductDescription>
+      <ProductColour>LIGHT OATMEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3017e18a-7d52-49f4-8ce6-6df5631847c2</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788323486</ProductCode>
+      <EAN>731788323486</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS JUNGLE GREEN XS</ProductDescription>
+      <ProductColour>JUNGLE GREEN</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

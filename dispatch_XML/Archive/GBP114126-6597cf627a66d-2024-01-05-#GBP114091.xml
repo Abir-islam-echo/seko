@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9842</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:34:55Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:37:07Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>62e61c53-c78d-477d-b132-92ab40ccdd48</DispatchId>
+    <CourierService/>
+    <Weight>0.54</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Korwel Miroslawa</ShipToAttention>
+    <DeliveryAddressLine1>Sierpc</DeliveryAddressLine1>
+    <InterfaceRecordId>0b8191c5-54c7-44bc-a284-4d42c5883b8d</InterfaceRecordId>
+    <DeliveryAddressLine2>Traugutta 22</DeliveryAddressLine2>
+    <DeliveryAddressLine3>22</DeliveryAddressLine3>
+    <DeliveryAddressCity>Sierpc</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>09-200</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>PL</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>533 600 505</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>miroslawa.ewa.korwel@wp.pl</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114126</SalesOrderNumber>
+    <SalesOrderReference>GE5258246229GB</SalesOrderReference>
+    <DispatchNumber>010222</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036022200887</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:14:44Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>60236b36-ea15-4457-acad-fc467a9a1e90</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022970478</ProductCode>
+      <EAN>724022970478</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23103 7GG 90% WO / 10% WS NAVY M</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

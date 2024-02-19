@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10527</SequenceNumber>
+    <ToBePackedDate>2024-01-11T09:21:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T10:44:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:39:23Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c3799872-baa3-4d96-9a08-8664b865a4f0</DispatchId>
+    <CourierService/>
+    <Weight>0.99</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Viola Kemppi</ShipToAttention>
+    <DeliveryAddressLine1>Juholanmaentie </DeliveryAddressLine1>
+    <InterfaceRecordId>79b795cc-3c01-435a-9821-ba5ba9d9bbff</InterfaceRecordId>
+    <DeliveryAddressLine2>1</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Myllykoski</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>46800</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FI</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>358 50 4919621</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>violetta.kemppi@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114814</SalesOrderNumber>
+    <SalesOrderReference>GE5289821669GB</SalesOrderReference>
+    <DispatchNumber>010923</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754813164C</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T09:10:36Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5ddbe762-95bb-4857-ba0d-b126385a9a8c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>769807716148</ProductCode>
+      <EAN>769807716148</EAN>
+      <Quantity>4</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CEDAR STARS WITH DRAWSTRING BAG STARS NATURAL OS</ProductDescription>
+      <ProductColour>NATURAL</ProductColour>
+      <ProductGrossWeight>0.15</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a303e4b4-d803-4edc-a783-95e46816f512</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788318383</ProductCode>
+      <EAN>731788318383</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2318 7GG 100% WS PURE BLUE LL</ProductDescription>
+      <ProductColour>PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

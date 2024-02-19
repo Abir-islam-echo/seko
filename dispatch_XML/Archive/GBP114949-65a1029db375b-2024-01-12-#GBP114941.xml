@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10700</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T09:03:04Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T09:05:37Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c3393d2f-1b4d-42c9-8375-e822641093e0</DispatchId>
+    <CourierService/>
+    <Weight>0.65</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kasia Tarnowska</ShipToAttention>
+    <DeliveryAddressLine1>11 Brandon Square</DeliveryAddressLine1>
+    <InterfaceRecordId>86f3d27c-3326-46f7-8eee-a47433b4d3db</InterfaceRecordId>
+    <DeliveryAddressLine2>Waterville, Blancharddtown</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D15 V086</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>353864109303</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tarnosia@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114949</SalesOrderNumber>
+    <SalesOrderReference>GE5292935660GB</SalesOrderReference>
+    <DispatchNumber>011064</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042141101201</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:52:26Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c583ab3e-c3ef-48c7-95e2-6a2db7f3fc39</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329167</ProductCode>
+      <EAN>731788329167</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY01 3GG 100% LAMBSWOOL ENERGY BLUE M</ProductDescription>
+      <ProductColour>ENERGY BLUE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

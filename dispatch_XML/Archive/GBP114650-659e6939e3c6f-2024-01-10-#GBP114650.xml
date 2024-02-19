@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10389</SequenceNumber>
+    <ToBePackedDate>2024-01-10T07:48:18Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-10T09:44:02Z</ToDispatchDate>
+    <DispatchDate>2024-01-10T09:44:54Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2b8b6311-c6ca-4f3d-87af-dbaa903f1374</DispatchId>
+    <CourierService/>
+    <Weight>0.38</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>roslyn scharf</ShipToAttention>
+    <DeliveryAddressLine1>23 claridge circle</DeliveryAddressLine1>
+    <InterfaceRecordId>20828eb0-89dd-4256-908f-121da7666714</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>manhasset</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11030</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(516) 8695552</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>metlady516@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114650</SalesOrderNumber>
+    <SalesOrderReference>GE5282060990GB</SalesOrderReference>
+    <DispatchNumber>010757</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5827468076</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T07:41:55Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a295340d-0211-4600-80e8-cce00c0fcc7e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788323448</ProductCode>
+      <EAN>731788323448</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ec597c97-2b2c-4307-a5f4-7388c34340a9</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022971482</ProductCode>
+      <EAN>724022971482</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS NAVY M</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

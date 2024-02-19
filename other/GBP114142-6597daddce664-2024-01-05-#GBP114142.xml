@@ -1,0 +1,140 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9846</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T10:26:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T10:27:09Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4138fd0f-73ac-4b18-9e4f-0c1a01ac1c7a</DispatchId>
+    <CourierService/>
+    <Weight>1.72</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Karolina Jurczyk</ShipToAttention>
+    <DeliveryAddressLine1>Rue de leglise 15</DeliveryAddressLine1>
+    <InterfaceRecordId>7df36a94-82b5-4cef-851d-f6d1e8345dc0</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Charrat</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1906</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 41 78 862 56 44</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>karolajur@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114142</SalesOrderNumber>
+    <SalesOrderReference>GE5258830751GB</SalesOrderReference>
+    <DispatchNumber>010236</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8351943110</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:11:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>71918cc1-462d-4422-b3a4-af0048dc79e7</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022973233</ProductCode>
+      <EAN>724022973233</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>NAW2302 100% SILK POWDER PINK/CREAM M</ProductDescription>
+      <ProductColour>POWDER PINK/CREAM</ProductColour>
+      <ProductGrossWeight>0.35</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8cb024bb-7a69-4851-8734-50ea8667ad6d</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321109</ProductCode>
+      <EAN>731788321109</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1906ER 12GG 90% WO 10% WS PURE BLUE/MULTI M</ProductDescription>
+      <ProductColour>PURE BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8b4ae218-3179-485d-8d67-d54190051dea</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788320928</ProductCode>
+      <EAN>731788320928</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1907ER 12GG 90% WO 10% WS PURE BLUE/MULTI M</ProductDescription>
+      <ProductColour>PURE BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a7c6b948-369a-4f7d-838a-1f370b488f2b</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022981702</ProductCode>
+      <EAN>724022981702</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1039 12GG 90% WO / 10% WS BLACK/MULTI S/M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>S/M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4b0fd7f5-1f0b-49d6-832a-4aac318b4778</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>731788309947</ProductCode>
+      <EAN>731788309947</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPF2310 14GG 100% WS CREAM/MULTI M</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.15</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>01f850ce-6e88-42a0-88c4-1f60a4737257</LineInterfaceRecordId>
+      <LineNumber>6</LineNumber>
+      <ProductCode>731788327606</ProductCode>
+      <EAN>731788327606</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS PINE/NAVY M</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

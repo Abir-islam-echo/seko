@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9702</SequenceNumber>
+    <ToBePackedDate>2024-01-04T13:23:16Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T13:37:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T13:38:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>07c0530f-fa77-40e9-b7a2-2c50f4cdab26</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Katherine Penick</ShipToAttention>
+    <DeliveryAddressLine1>305 W 52nd St Apt </DeliveryAddressLine1>
+    <InterfaceRecordId>2c472704-4a11-4364-adca-2c10ec7bcfa8</InterfaceRecordId>
+    <DeliveryAddressLine2>Apt 2J</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>New York</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10019-6231</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2026414632</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kmpenick@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114059</SalesOrderNumber>
+    <SalesOrderReference>GE5256122705GB</SalesOrderReference>
+    <DispatchNumber>010151</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5155481015</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T13:18:46Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa5d3098-09d8-4c7f-ba55-d324a971a42d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972014</ProductCode>
+      <EAN>724022972014</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS POPPY S</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

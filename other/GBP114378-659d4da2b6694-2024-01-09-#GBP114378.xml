@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10097</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T10:05:35Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T10:07:37Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f6ab9540-9729-446f-93d9-8f6a43eb1c22</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Paola Michel</ShipToAttention>
+    <DeliveryAddressLine1>7304 Spruce Grove Way</DeliveryAddressLine1>
+    <InterfaceRecordId>8c2964db-304b-4205-8fea-e81c7d6efe0c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Whistler</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>V8E0E8</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(604) 6287979</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>paomichel@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114378</SalesOrderNumber>
+    <SalesOrderReference>GE5269824731GB</SalesOrderReference>
+    <DispatchNumber>010479</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1751999045</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:27:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>44d9690d-6cf2-4081-922d-20c2b3301912</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320966</ProductCode>
+      <EAN>731788320966</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS BLACK MULTI XS</ProductDescription>
+      <ProductColour>BLACK MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>daccc5e7-8df7-40a8-936a-6ac2068d0730</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788328184</ProductCode>
+      <EAN>731788328184</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23105 12GG 90% WO / 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f00b239e-3193-45b5-860e-26a006a0ff0f</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788328023</ProductCode>
+      <EAN>731788328023</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23106 12GG 90% WO 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

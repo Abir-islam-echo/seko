@@ -1,0 +1,123 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10391</SequenceNumber>
+    <ToBePackedDate>2024-01-10T07:48:18Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-10T10:11:02Z</ToDispatchDate>
+    <DispatchDate>2024-01-10T10:11:41Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>07b306c2-5350-4cc8-91cd-79bf26f991ff</DispatchId>
+    <CourierService/>
+    <Weight>0.95</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Flora Li</ShipToAttention>
+    <DeliveryAddressLine1>Room F, 1st Floor, Tower 18,</DeliveryAddressLine1>
+    <InterfaceRecordId>65d20061-322c-4eec-a1dd-cbbef71a4488</InterfaceRecordId>
+    <DeliveryAddressLine2>The Regent, No. 8 Shan Tong Road</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Tai Po District</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>HK</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>852 6378 1505</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>dan.li1981@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114676</SalesOrderNumber>
+    <SalesOrderReference>GE5283914078GB</SalesOrderReference>
+    <DispatchNumber>010783</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6859094476</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T07:42:25Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>18bb1637-b452-40d7-a1ba-5559b3c0c2e3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990346</ProductCode>
+      <EAN>724022990346</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK S</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d4fef4c2-ac10-4250-8f6b-70a56f092df5</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022971833</ProductCode>
+      <EAN>724022971833</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS FLAMINGO PINK S</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4c255d5d-a8a2-47b3-9d67-7299ee246102</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022990452</ProductCode>
+      <EAN>724022990452</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS OATMEAL MEL/CORAL XS</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>01e85673-2fbf-46bd-9434-28555d0e2f7a</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022989814</ProductCode>
+      <EAN>724022989814</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS OATMEAL MEL/CORAL M</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>09f423d6-c7e5-4015-8527-78b1ca516cdc</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>724022976913</ProductCode>
+      <EAN>724022976913</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23109 12GG 70%REC ME 30%WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.15</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

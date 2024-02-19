@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9464</SequenceNumber>
+    <ToBePackedDate>2024-01-02T11:58:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T13:27:59Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T13:28:39Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d591282e-54bb-4b3a-9de9-e6b3c5dbab0d</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Paula Traynor</ShipToAttention>
+    <DeliveryAddressLine1>12 serpentine park</DeliveryAddressLine1>
+    <InterfaceRecordId>558b0c58-2335-41bf-99b1-a8359e7625c0</InterfaceRecordId>
+    <DeliveryAddressLine2>Sandymount</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D04 E8X3</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+353 86 600 2512</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>paulamcclean@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113788</SalesOrderNumber>
+    <SalesOrderReference>GE5245397512GB</SalesOrderReference>
+    <DispatchNumber>009864</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4310718941</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T11:56:20Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>505baed0-c026-4acf-8917-d15f8b794c0a</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981757</ProductCode>
+      <EAN>724022981757</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS GREY MARL/CREAM/BLACK M</ProductDescription>
+      <ProductColour>GREY MARL/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

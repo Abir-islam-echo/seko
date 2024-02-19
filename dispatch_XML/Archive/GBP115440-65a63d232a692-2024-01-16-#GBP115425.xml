@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11177</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:40:50Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T08:16:13Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T08:17:09Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>64360af5-783f-4764-a7db-09f90303080a</DispatchId>
+    <CourierService/>
+    <Weight>0.73</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nicole Kotovos</ShipToAttention>
+    <DeliveryAddressLine1>Lesvou 20a</DeliveryAddressLine1>
+    <InterfaceRecordId>98c1ad1c-6f08-482b-9a38-d5093eb645bf</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Kifisia</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>145 62</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>695 609 1885</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>nkotovos@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115440</SalesOrderNumber>
+    <SalesOrderReference>GE5314770651GB</SalesOrderReference>
+    <DispatchNumber>011596</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214968694M</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:38:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b6a4496f-1e0b-4769-a15b-30c307a7737d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980903</ProductCode>
+      <EAN>724022980903</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2319 5GG 100% WS BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>39ca443c-be03-4bc7-bb6e-36dc359329ca</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>728238598563</ProductCode>
+      <EAN>728238598563</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

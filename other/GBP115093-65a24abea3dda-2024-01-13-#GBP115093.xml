@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10814</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T08:21:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T08:24:30Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>deca6748-c34d-4a71-b137-7d738fe7a005</DispatchId>
+    <CourierService/>
+    <Weight>0.62</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Stephanie  Cabrera</ShipToAttention>
+    <DeliveryAddressLine1>809 Noriega street </DeliveryAddressLine1>
+    <InterfaceRecordId>cf5bc067-724e-4bcc-aed4-4b59e9a74501</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>San Francisco</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94122</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(415) 7025530</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>stephpignot@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115093</SalesOrderNumber>
+    <SalesOrderReference>GE5300056430GB</SalesOrderReference>
+    <DispatchNumber>011241</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7986897192</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:07:38Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0b904407-d98f-498c-8fef-c29bd4041c1c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>706502203832</ProductCode>
+      <EAN>706502203832</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ215 CASHMERE GREY L</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.31</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d100cb83-7b3b-4e0b-9265-502e0d99a581</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>706502203894</ProductCode>
+      <EAN>706502203894</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ215 CASHMERE BLACK LL</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.31</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

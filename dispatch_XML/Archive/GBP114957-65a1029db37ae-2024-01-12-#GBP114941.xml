@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10701</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T09:06:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T09:09:24Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>685a074c-3c46-4397-a982-0de584e4af0a</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Whitney Freeman</ShipToAttention>
+    <DeliveryAddressLine1>25503 Rivergreen Park Court</DeliveryAddressLine1>
+    <InterfaceRecordId>d97fc248-604a-4766-b066-03a6b2f3aa73</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Katy</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>77494</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(513) 3145682</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>whitney.reising@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114957</SalesOrderNumber>
+    <SalesOrderReference>GE5293242859GB</SalesOrderReference>
+    <DispatchNumber>011072</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5295550735</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:44:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8ead037d-dfa0-4559-b245-dcaa248ce702</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788323028</ProductCode>
+      <EAN>731788323028</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS VIVID VIOLET M</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa737cf4-a50b-4ccf-8ba6-556fbf96f827</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788323394</ProductCode>
+      <EAN>731788323394</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2324 12GG 90% WO / 10% WS TEAL L</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fc1c5222-4636-470c-94f2-e4b01b19df3d</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022989647</ProductCode>
+      <EAN>724022989647</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS BLUE/OATMEAL MEL L</ProductDescription>
+      <ProductColour>BLUE/OATMEAL MEL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

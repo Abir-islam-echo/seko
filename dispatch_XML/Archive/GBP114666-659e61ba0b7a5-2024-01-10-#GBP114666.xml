@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10387</SequenceNumber>
+    <ToBePackedDate>2024-01-10T07:44:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-10T09:16:09Z</ToDispatchDate>
+    <DispatchDate>2024-01-10T09:16:55Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c7297e17-cf97-47bb-8aa9-5a24d74af4dc</DispatchId>
+    <CourierService/>
+    <Weight>0.26</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Alison Hortick</ShipToAttention>
+    <DeliveryAddressLine1>3230 Shadydale Court</DeliveryAddressLine1>
+    <InterfaceRecordId>a28e0fef-516a-4fb6-844a-c7596340139f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>West Bloomfield Township</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>48323</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(248) 8071468</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>abslovesu@aol.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114666</SalesOrderNumber>
+    <SalesOrderReference>GE5283009844GB</SalesOrderReference>
+    <DispatchNumber>010773</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5991322212</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T07:41:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b32ce1fd-8b54-4117-9e19-95549d3c18f1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980774</ProductCode>
+      <EAN>724022980774</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23107 12GG 70%REC ME 20%WS RED/MULTI XS</ProductDescription>
+      <ProductColour>RED/MULTI</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

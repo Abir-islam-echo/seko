@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10104</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:38:23Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:39:26Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>eb851b0b-926e-4335-b953-b3cec8a77694</DispatchId>
+    <CourierService/>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Vladlena Serie</ShipToAttention>
+    <DeliveryAddressLine1>Moritz von Schwind Str 14</DeliveryAddressLine1>
+    <InterfaceRecordId>733d6295-2117-4263-81f7-40d5cdbfa8d3</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Walldorf</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>69190</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 49 1514 2603021</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>friend.ebay@googlemail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114348</SalesOrderNumber>
+    <SalesOrderReference>GE5267476070GB</SalesOrderReference>
+    <DispatchNumber>010447</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602632799S</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:30:17Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3c8db631-65ff-47a7-abe8-20dfd1264d26</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327194</ProductCode>
+      <EAN>731788327194</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPF2330 14GG 85% SE 15% WS MUSTARD SEED L</ProductDescription>
+      <ProductColour>MUSTARD SEED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

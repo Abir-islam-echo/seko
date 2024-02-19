@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10159</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:29:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:30:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>1c5a4696-6c28-41d0-9b95-748ed0bc3f53</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Christian  Benner </ShipToAttention>
+    <DeliveryAddressLine1>Bahnstr. 4</DeliveryAddressLine1>
+    <InterfaceRecordId>abc8b537-46be-4d4c-89b9-474c35a0842f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Katzelsdorf</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2801</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 43 699 81497091</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>chrbandroid@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114446</SalesOrderNumber>
+    <SalesOrderReference>GE5272083279GB</SalesOrderReference>
+    <DispatchNumber>010547</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602693272Q</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:15:53Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4584d802-4f3d-4a9b-933d-ad38c293111e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320010</ProductCode>
+      <EAN>731788320010</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2315 5GG 90% WO 10% WS MEADOW/CREAM S</ProductDescription>
+      <ProductColour>MEADOW/CREAM</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

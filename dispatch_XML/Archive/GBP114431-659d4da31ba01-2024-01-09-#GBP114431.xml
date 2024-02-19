@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10157</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:21:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:22:28Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4e4c176e-803e-4c84-af29-57311f6dc8e4</DispatchId>
+    <CourierService/>
+    <Weight>0.83</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Robinson Trimble</ShipToAttention>
+    <DeliveryAddressLine1>90 West St</DeliveryAddressLine1>
+    <InterfaceRecordId>f2642d03-1fd8-4fd6-8606-139e19932d15</InterfaceRecordId>
+    <DeliveryAddressLine2>Apt 16F</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>New York</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10006</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(404) 4560230</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>rtrimble3@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114431</SalesOrderNumber>
+    <SalesOrderReference>GE5271452585GB</SalesOrderReference>
+    <DispatchNumber>010532</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6180667570</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:13:15Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0bc54221-9cfb-4a59-9fc4-a7c67cd3a7ea</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990162</ProductCode>
+      <EAN>724022990162</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS NAVY/BLUE S</ProductDescription>
+      <ProductColour>NAVY/BLUE</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f22e5406-4b2f-4df5-abb0-85a0a13708dc</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990469</ProductCode>
+      <EAN>724022990469</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS OATMEAL MEL/CORAL S</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>36b1e573-0d4a-48b8-85c2-91ed3a90bf9d</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022989562</ProductCode>
+      <EAN>724022989562</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK S</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

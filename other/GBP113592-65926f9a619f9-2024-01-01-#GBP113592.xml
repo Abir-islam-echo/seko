@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9298</SequenceNumber>
+    <ToBePackedDate>2023-12-30T20:08:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T07:40:16Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T07:41:05Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d693a3ff-0cf8-46a6-ad32-3c49743b68f6</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>DeLinda Duckett</ShipToAttention>
+    <DeliveryAddressLine1>3310 Barnetts Crossing place</DeliveryAddressLine1>
+    <InterfaceRecordId>e7ec5347-0506-4a51-8b76-a0e0d24b0408</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Triangle</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>22172</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(703) 2210761</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jeandelinda@netzero.net</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113592</SalesOrderNumber>
+    <SalesOrderReference>GE5234225925GB</SalesOrderReference>
+    <DispatchNumber>009662</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5723190163</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-12-30T20:03:43Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0df7ed5b-2482-4cbe-ada9-bab6af0adbbb</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971901</ProductCode>
+      <EAN>724022971901</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS MARIGOLD M</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f24b225b-39b3-4e48-83b5-2db6e4c139d4</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788313081</ProductCode>
+      <EAN>731788313081</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2304 100% CO CREAM S</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

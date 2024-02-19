@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10115</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:19:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:20:30Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>1ad59201-ac1e-4776-8b8b-43fffd2484d6</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Pramila Lala</ShipToAttention>
+    <DeliveryAddressLine1>flat 12, 90 Crummer Road</DeliveryAddressLine1>
+    <InterfaceRecordId>a9814cfa-aa73-42f7-a961-baa840e7f71b</InterfaceRecordId>
+    <DeliveryAddressLine2>Grey Lynn</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Auckland</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1021</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NZ</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 64 210 257 7285</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>pramila_aotearoa@yahoo.co.uk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114263</SalesOrderNumber>
+    <SalesOrderReference>GE5264089703GB</SalesOrderReference>
+    <DispatchNumber>010362</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5009278735</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:26:59Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c1ba3afd-44cc-44ba-8595-fda5b2c3fd02</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317096</ProductCode>
+      <EAN>731788317096</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2338 12GG 90% WO 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

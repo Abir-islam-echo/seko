@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10718</SequenceNumber>
+    <ToBePackedDate>2024-01-12T13:05:40Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T13:16:38Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T13:18:47Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c792ab2d-6c42-4858-af88-b1024fe77cf8</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kylie Blackwell</ShipToAttention>
+    <DeliveryAddressLine1>49 Cookson Street</DeliveryAddressLine1>
+    <InterfaceRecordId>96979598-c80d-4b68-ad84-d9a3abbfea04</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Camberwell</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>3124</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0414 799 455</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kylieblackwell@bigpond.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115015</SalesOrderNumber>
+    <SalesOrderReference>GE5296116387GB</SalesOrderReference>
+    <DispatchNumber>011160</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4818362485</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T13:04:12Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>bdbb23ab-b623-4ef0-b972-80dbe014a26d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329952</ProductCode>
+      <EAN>731788329952</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2399 12GG 90% WO / 10% WS NAVY/APPLE RED XS</ProductDescription>
+      <ProductColour>NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

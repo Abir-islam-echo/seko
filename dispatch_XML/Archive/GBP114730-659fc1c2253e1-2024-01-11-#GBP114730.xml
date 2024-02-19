@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10502</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T10:11:23Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T10:12:05Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>414ba2b6-bd8d-4494-8730-3de26ca24581</DispatchId>
+    <CourierService/>
+    <Weight>0.48</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Lizzeth Garza Mora</ShipToAttention>
+    <DeliveryAddressLine1>3703 San Daniel Street </DeliveryAddressLine1>
+    <InterfaceRecordId>88722289-648e-40df-afe9-36964bb2cc76</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mission</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78572</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(956) 4243972</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>lizzethgarza@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114730</SalesOrderNumber>
+    <SalesOrderReference>GE5285946519GB</SalesOrderReference>
+    <DispatchNumber>010838</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6372662203</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:03:59Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>dc2b29ed-fd56-4253-968b-c2906b0039b3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322823</ProductCode>
+      <EAN>731788322823</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS GREY XS</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2d5518d1-e9b8-4954-a730-cfd9a4fa5707</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321574</ProductCode>
+      <EAN>731788321574</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY S</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

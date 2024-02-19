@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10548</SequenceNumber>
+    <ToBePackedDate>2024-01-11T15:11:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T16:12:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T16:15:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0a32c9b8-7f4f-4326-99c5-afbf8140ee58</DispatchId>
+    <CourierService/>
+    <Weight>0.96</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>ali almayyas</ShipToAttention>
+    <DeliveryAddressLine1>Block 5  street 506  Home 1</DeliveryAddressLine1>
+    <InterfaceRecordId>af7d031a-3ebc-4e21-b10d-4a5c48a47853</InterfaceRecordId>
+    <DeliveryAddressLine2>2nd floor , flat 2B</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Al masayel</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>47360</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>KW</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 965 9988 0404</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>bianconero@me.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114691</SalesOrderNumber>
+    <SalesOrderReference>GE5285010081GB</SalesOrderReference>
+    <DispatchNumber>010799</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7563774912</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T11:18:33Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ff58da20-bc64-4173-b8b5-6201a70bae27</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321444</ProductCode>
+      <EAN>731788321444</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4c10e567-e42c-416e-8340-aef872b95a1c</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322779</ProductCode>
+      <EAN>731788322779</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fba58069-c42e-495f-b61d-42201879fbfd</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788321383</ProductCode>
+      <EAN>731788321383</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS VIVID VIOLET S</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>56d04d0b-f4fb-46be-a666-ae9358168efa</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788321819</ProductCode>
+      <EAN>731788321819</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS VIVID VIOLET S</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

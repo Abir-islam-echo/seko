@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10988</SequenceNumber>
+    <ToBePackedDate>2024-01-15T06:25:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T06:31:41Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T06:32:24Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9299701c-ceb0-4c4a-99e4-22337f9d0bd6</DispatchId>
+    <CourierService/>
+    <Weight>0.44</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>HEIDI BERTAGNOLLI</ShipToAttention>
+    <DeliveryAddressLine1>1106 OLIVIA STREET</DeliveryAddressLine1>
+    <InterfaceRecordId>d5972333-107e-4845-9b96-6cf14a560be5</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>WALNUT CREEK</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94597</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>9258903634</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>heidibertagnolli@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115352</SalesOrderNumber>
+    <SalesOrderReference>GE5309938887GB</SalesOrderReference>
+    <DispatchNumber>011499</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1965680824</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:22:11Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>eb4db549-e6cc-4e12-9e3e-2268940644b5</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022970614</ProductCode>
+      <EAN>724022970614</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23106 12GG 90% WO 10% WS FLAMINGO PINK/POPPY S</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5044f086-1a2a-4c0c-ae18-209903f69f52</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022971024</ProductCode>
+      <EAN>724022971024</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>AAW2308 7GG 90% WO / 10% WS FLAMINGO PINK OS</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.04</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6c0ab15a-c54c-4459-b365-44652cdfb4a9</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022977903</ProductCode>
+      <EAN>724022977903</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1907ER 12GG 90% WO / 10% WS FLAMINGO PINK/POPPY S</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

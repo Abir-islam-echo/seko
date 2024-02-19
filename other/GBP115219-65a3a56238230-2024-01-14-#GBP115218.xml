@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10875</SequenceNumber>
+    <ToBePackedDate>2024-01-14T06:32:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T09:06:48Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T09:07:50Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4e8aad07-09f5-4461-808d-c6c48d14402b</DispatchId>
+    <CourierService/>
+    <Weight>0.38</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ivana Vallianou</ShipToAttention>
+    <DeliveryAddressLine1>Thessalonikis 45</DeliveryAddressLine1>
+    <InterfaceRecordId>984f27c9-da61-44de-9d50-a8cf98b4003c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Oreokastro. Thessaloniki</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>570 13</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>698 397 9831</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>vallianou2010@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115219</SalesOrderNumber>
+    <SalesOrderReference>GE5305772931GB</SalesOrderReference>
+    <DispatchNumber>011366</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214512746Z</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:28:30Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a94102e4-2df9-4c65-9c98-9d81709c5c49</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972861</ProductCode>
+      <EAN>724022972861</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS MARIGOLD M</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

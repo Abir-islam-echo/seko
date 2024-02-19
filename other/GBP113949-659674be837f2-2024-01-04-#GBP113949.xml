@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9665</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T08:47:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T08:52:27Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5d2e9219-26b9-49e1-a596-bd244d3a5825</DispatchId>
+    <CourierService/>
+    <Weight>0.8</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tina Saratsopoulou</ShipToAttention>
+    <DeliveryAddressLine1>Kalpakiou 19</DeliveryAddressLine1>
+    <InterfaceRecordId>f538f117-5963-4bb2-b0fb-cfed05a91052</InterfaceRecordId>
+    <DeliveryAddressLine2>Psichiko</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Attiki</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>154 52</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 30 693 684 5615</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tinsar75@yahoo.gr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113949</SalesOrderNumber>
+    <SalesOrderReference>GE5252576676GB</SalesOrderReference>
+    <DispatchNumber>010038</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988867546P</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:26:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>21a08c77-1d83-4ee1-aeb7-2d0ce1521a02</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971840</ProductCode>
+      <EAN>724022971840</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS FLAMINGO PINK M</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ac2496f3-b0f2-4180-bebc-cb0879b40bd6</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022971963</ProductCode>
+      <EAN>724022971963</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS NAVY M</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9b868f3a-8eef-4c76-ad6b-87f9a1c8694b</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788322786</ProductCode>
+      <EAN>731788322786</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS TEAL M</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d5342785-3032-4034-906b-5a922fbededb</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788322724</ProductCode>
+      <EAN>731788322724</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS VIVID VIOLET M</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9548</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:07:04Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:08:19Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>3a60c531-73c9-4526-93b0-10ab75c98f1f</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Laura Soldini</ShipToAttention>
+    <DeliveryAddressLine1>Via Felice Poggi 7 </DeliveryAddressLine1>
+    <InterfaceRecordId>4077269c-72de-48c3-9c57-64f89dae26fd</InterfaceRecordId>
+    <DeliveryAddressLine2>Consegnare custode </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milano</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>20131</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>393 3538 5477</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>soldini.laura@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113844</SalesOrderNumber>
+    <SalesOrderReference>GE5248111184GB</SalesOrderReference>
+    <DispatchNumber>009932</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039885201129</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:11:22Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6b34f870-5f0c-4151-bea4-0dd6806b71bc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982020</ProductCode>
+      <EAN>724022982020</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI 3L</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

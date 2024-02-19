@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10098</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T10:11:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T10:12:39Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>922cf961-19c5-436c-ad6e-58e0e2ac9f24</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Louise Wallace</ShipToAttention>
+    <DeliveryAddressLine1>Mullins Lawyers</DeliveryAddressLine1>
+    <InterfaceRecordId>06c62caa-60d0-4ba6-b958-5d7a722a0e8d</InterfaceRecordId>
+    <DeliveryAddressLine2>Level 21 Riverside Centre </DeliveryAddressLine2>
+    <DeliveryAddressLine3>123 Eagle Street </DeliveryAddressLine3>
+    <DeliveryAddressCity>Brisbane</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0408 126 141</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>louiserwallace@yahoo.com.au</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114411</SalesOrderNumber>
+    <SalesOrderReference>GE5270935575GB</SalesOrderReference>
+    <DispatchNumber>010511</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7561673243</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:27:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6ca4187d-d33f-4f8e-9984-7672a3825a0d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989876</ProductCode>
+      <EAN>724022989876</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO / 10% WS GREEN/OATMEAL MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREEN/OATMEAL MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f8d763b3-9cee-4025-84f9-334f92119211</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022977491</ProductCode>
+      <EAN>724022977491</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1900ER 12GG 90% WO / 10% WS CREAM/FLAMINGO PINK/POPPY M</ProductDescription>
+      <ProductColour>CREAM/FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

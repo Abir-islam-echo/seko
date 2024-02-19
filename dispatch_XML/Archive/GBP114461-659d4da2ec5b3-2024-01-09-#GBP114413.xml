@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10162</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:39:00Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:39:50Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>8bd00608-fed8-491b-8760-e0292b6dbf91</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Yvonne Liss</ShipToAttention>
+    <DeliveryAddressLine1>Krappmuehlstr. 38</DeliveryAddressLine1>
+    <InterfaceRecordId>9354a74e-a7f2-4916-90a8-aad199b55639</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mannheim</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>68165</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 49 163 7818118</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>y.liss@web.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114461</SalesOrderNumber>
+    <SalesOrderReference>GE5272939304GB</SalesOrderReference>
+    <DispatchNumber>010562</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602700013B</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:12:06Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>550214dc-b030-404d-8688-f38496c6afcd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317034</ProductCode>
+      <EAN>731788317034</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS BLACK/CREAM S</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

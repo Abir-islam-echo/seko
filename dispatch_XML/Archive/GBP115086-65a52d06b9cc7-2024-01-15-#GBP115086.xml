@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11039</SequenceNumber>
+    <ToBePackedDate>2024-01-15T12:26:28Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T12:53:52Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T12:54:42Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2e83acde-0f16-4584-8585-fc7c644132c9</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Rachel Carley</ShipToAttention>
+    <DeliveryAddressLine1>Rachel Carley Ceramics</DeliveryAddressLine1>
+    <InterfaceRecordId>76bc0153-0f1c-4a5e-971b-442408e035b4</InterfaceRecordId>
+    <DeliveryAddressLine2>64b Seaview Terrace</DeliveryAddressLine2>
+    <DeliveryAddressLine3>Mt Albert</DeliveryAddressLine3>
+    <DeliveryAddressCity>Auckland</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1025</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NZ</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>649212541131</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>rachelcarleyceramics@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115086</SalesOrderNumber>
+    <SalesOrderReference>GE5299939254GB</SalesOrderReference>
+    <DispatchNumber>011545</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2238912955</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T12:23:40Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a06f5657-e5c7-4b4d-bcba-95b95cda7c75</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990421</ProductCode>
+      <EAN>724022990421</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS NAVY/BRIGHT PINK L</ProductDescription>
+      <ProductColour>NAVY/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

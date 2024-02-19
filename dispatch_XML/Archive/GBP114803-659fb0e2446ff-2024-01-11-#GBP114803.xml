@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10497</SequenceNumber>
+    <ToBePackedDate>2024-01-11T06:22:48Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T09:03:44Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T09:04:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>77d0def7-70fd-4af3-98e7-a83fb61fdfe4</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Rita Lynn</ShipToAttention>
+    <DeliveryAddressLine1>206 Piping Rock Rd Locust Valley NY</DeliveryAddressLine1>
+    <InterfaceRecordId>a4f0b84f-7700-4047-8e54-4c01e5891ee0</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Locust Valley</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11560</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(310) 4908175</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>doc.rita@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114803</SalesOrderNumber>
+    <SalesOrderReference>GE5288694044GB</SalesOrderReference>
+    <DispatchNumber>010912</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2550488765</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T06:21:40Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1ec0e030-054e-43b4-b64a-98d2311d0538</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989609</ProductCode>
+      <EAN>724022989609</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK 3L</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

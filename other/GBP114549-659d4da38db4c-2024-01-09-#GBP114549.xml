@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10297</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T11:21:19Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T11:22:14Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>91cede2b-24ea-4aa9-9c39-29e56ae962d7</DispatchId>
+    <CourierService/>
+    <Weight>1.7</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Linel Ortiz</ShipToAttention>
+    <DeliveryAddressLine1>313 W Jersey St. Apt 312</DeliveryAddressLine1>
+    <InterfaceRecordId>fc5957e4-70d7-452b-a7da-09a1bf581bbc</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Elizabeth</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>07202</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(917) 4959653</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>linel.ortiz@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114549</SalesOrderNumber>
+    <SalesOrderReference>GE5277726739GB</SalesOrderReference>
+    <DispatchNumber>010654</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8987967262</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:19:43Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8c18ab30-4b40-479c-9200-2a34334303d6</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971499</ProductCode>
+      <EAN>724022971499</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS NAVY L</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cb2141ac-4b47-49f4-ae60-44d5e1cc1f77</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321895</ProductCode>
+      <EAN>731788321895</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS TEAL L</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f697ba7f-d282-46f0-8f54-1e026c0542f9</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788329174</ProductCode>
+      <EAN>731788329174</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY01 3GG 100% LAMBSWOOL ENERGY BLUE L</ProductDescription>
+      <ProductColour>ENERGY BLUE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3177d70a-79d5-45d8-adfb-0299ad82e8e6</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022981160</ProductCode>
+      <EAN>724022981160</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KX015GG 5GG 90% WO / 10% WS EDEN GREEN L</ProductDescription>
+      <ProductColour>EDEN GREEN</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

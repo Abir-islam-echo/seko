@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10872</SequenceNumber>
+    <ToBePackedDate>2024-01-14T06:32:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T08:42:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T08:43:33Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0ad982e5-6723-4022-968f-ab5f68a6719e</DispatchId>
+    <CourierService/>
+    <Weight>0.54</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Georgia Psilopanagioti</ShipToAttention>
+    <DeliveryAddressLine1>Karias 62</DeliveryAddressLine1>
+    <InterfaceRecordId>f7045bf1-f818-4e3f-b7ce-17e66c2819cc</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Patra</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>265 00</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>697 430 7165</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>psilopangeorgia@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115203</SalesOrderNumber>
+    <SalesOrderReference>GE5304944260GB</SalesOrderReference>
+    <DispatchNumber>011351</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214509334D</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:22:09Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a5b57204-8e69-47b3-9ff3-1bdfec3a457f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022970461</ProductCode>
+      <EAN>724022970461</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23103 7GG 90% WO / 10% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

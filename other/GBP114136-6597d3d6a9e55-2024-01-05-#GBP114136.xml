@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9845</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:48:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:51:37Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4c4d99b4-db80-4d12-aefc-661b13f562e5</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Viktoria Komuves</ShipToAttention>
+    <DeliveryAddressLine1>Na souvrati 2</DeliveryAddressLine1>
+    <InterfaceRecordId>5caa9d89-0d41-4daa-a088-d6ba64ebdb60</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Praha</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>162 00</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CZ</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>420602684567</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>vikikomuves@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114136</SalesOrderNumber>
+    <SalesOrderReference>GE5258484364GB</SalesOrderReference>
+    <DispatchNumber>010230</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036022240292</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:12:18Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4716ba24-ac1e-4279-bc65-586306480752</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788319014</ProductCode>
+      <EAN>731788319014</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2372 100% MERINO BLACK MULTI S</ProductDescription>
+      <ProductColour>BLACK MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

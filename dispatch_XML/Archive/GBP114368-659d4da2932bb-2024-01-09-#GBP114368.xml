@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10102</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:06:34Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:07:51Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>84da0e41-1a30-47b6-b247-c0aaa613c0ef</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Zlatina Stefanova</ShipToAttention>
+    <DeliveryAddressLine1>Anton Mitov 2</DeliveryAddressLine1>
+    <InterfaceRecordId>691ac381-754e-45e5-899e-08a872481ca9</InterfaceRecordId>
+    <DeliveryAddressLine2>Apt 2</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Plovdiv</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>BG</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 359 89 444 4214</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>zlat_georgieva@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114368</SalesOrderNumber>
+    <SalesOrderReference>GE5268595256GB</SalesOrderReference>
+    <DispatchNumber>010468</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602640025D</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:30:36Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c3528141-2ab7-48ad-8be1-953e94ebe37c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971833</ProductCode>
+      <EAN>724022971833</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS FLAMINGO PINK S</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3eb0bd75-8843-4d55-bda1-4f1e1ecba696</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972809</ProductCode>
+      <EAN>724022972809</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS FLAMINGO PINK M</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

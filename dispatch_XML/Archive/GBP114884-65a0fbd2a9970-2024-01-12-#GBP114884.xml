@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10694</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:31:19Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:35:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>8c6f1f4d-5203-4b0a-8bb4-4b3bc44a2963</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ursula Pochhammer</ShipToAttention>
+    <DeliveryAddressLine1>Mommsenstrasse 57</DeliveryAddressLine1>
+    <InterfaceRecordId>7fd17840-4077-411a-91e5-d940a4d053e3</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Berlin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10629</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>491716219236</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>upo@wassily.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114884</SalesOrderNumber>
+    <SalesOrderReference>GE5290851615GB</SalesOrderReference>
+    <DispatchNumber>010998</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754941740X</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:45:20Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7f21fd10-aa1a-461a-9991-7452d3b4388b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971697</ProductCode>
+      <EAN>724022971697</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS MARIGOLD 3L</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fd15ffa4-08fa-4a07-a074-94b1fb3250bd</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022978245</ProductCode>
+      <EAN>724022978245</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ220 12GG 100% WS SOFT TRUFFLE 3L</ProductDescription>
+      <ProductColour>SOFT TRUFFLE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0f53f9c0-336b-458f-ad59-4407862ead5d</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022971758</ProductCode>
+      <EAN>724022971758</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS NAVY 3L</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10808</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:24:40Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:28:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c4cb67d7-6371-4226-9729-7c939dfb052f</DispatchId>
+    <CourierService/>
+    <Weight>0.91</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Megan Osmundsen</ShipToAttention>
+    <DeliveryAddressLine1>7304 Cherokee Dr</DeliveryAddressLine1>
+    <InterfaceRecordId>97128af1-05cf-4347-9672-cd8c38b1cfa5</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Prairie Village</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>66208</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>8167295399</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>megan.sinclair@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115038</SalesOrderNumber>
+    <SalesOrderReference>GE5296871920GB</SalesOrderReference>
+    <DispatchNumber>011188</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4901117885</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:09:51Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>611e7ca6-9977-4fef-9db9-c6a51bd7188e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981283</ProductCode>
+      <EAN>724022981283</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KQ103 7GG 90% WO / 10% WS BRIGHT PINK L</ProductDescription>
+      <ProductColour>BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e8b64ff0-51f7-4a70-9fcc-1773ca7363a3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322557</ProductCode>
+      <EAN>731788322557</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS GREY L</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0f25ca80-90d1-4005-af82-d046a32ff61a</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788321598</ProductCode>
+      <EAN>731788321598</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY L</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

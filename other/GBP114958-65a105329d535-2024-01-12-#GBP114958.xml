@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10702</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T09:09:59Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T09:12:11Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2d898777-2ab1-4d65-901a-5b3c5bf4b02e</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Elia Castro</ShipToAttention>
+    <DeliveryAddressLine1>Calle Lago de la Baa 6</DeliveryAddressLine1>
+    <InterfaceRecordId>e049a804-cb3d-4a80-892c-21d10f2b18a1</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Ponferrada</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>24400</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>ES</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>647 58 21 28</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>eliacastrogomez999@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114958</SalesOrderNumber>
+    <SalesOrderReference>GE5293261095GB</SalesOrderReference>
+    <DispatchNumber>011073</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042141148057</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:43:15Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f232801f-3746-4484-964a-871d78b208d7</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317577</ProductCode>
+      <EAN>731788317577</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2345 5GG 90% WO / 10% WS CREAM/MULTI S</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

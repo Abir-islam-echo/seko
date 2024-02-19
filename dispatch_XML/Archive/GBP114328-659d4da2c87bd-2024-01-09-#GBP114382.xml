@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10101</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T10:24:15Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T10:25:20Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>63cc3e4f-2ed6-4cf7-abbc-60c3c038d27f</DispatchId>
+    <CourierService/>
+    <Weight>0.65</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Caroline Varenne</ShipToAttention>
+    <DeliveryAddressLine1>3 quater rue Quinault</DeliveryAddressLine1>
+    <InterfaceRecordId>61a895fe-02eb-4d22-bff8-48cf2eb48adc</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>St Germain en Laye</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78100</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>33671268124</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>caroline.varenne99@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114328</SalesOrderNumber>
+    <SalesOrderReference>GE5266865358GB</SalesOrderReference>
+    <DispatchNumber>010427</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602625927W</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:30:59Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a2efd6a1-5103-4931-b878-349bff18c6b4</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981146</ProductCode>
+      <EAN>724022981146</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KX015GG 5GG 90% WO / 10% WS EDEN GREEN S</ProductDescription>
+      <ProductColour>EDEN GREEN</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

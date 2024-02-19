@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10881</SequenceNumber>
+    <ToBePackedDate>2024-01-14T12:47:30Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T13:08:00Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T13:10:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>72251e7d-80ef-4001-b425-6e628981e5c5</DispatchId>
+    <CourierService/>
+    <Weight>0.04</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jacalyn  Blake Fealy</ShipToAttention>
+    <DeliveryAddressLine1>Breaghmore</DeliveryAddressLine1>
+    <InterfaceRecordId>5f9637fd-eed9-4ef6-afdc-9626903a7fe2</InterfaceRecordId>
+    <DeliveryAddressLine2>Clareen</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Birr</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>R42 TH93</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>086 089 1051</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jackiemblake@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115253</SalesOrderNumber>
+    <SalesOrderReference>GE5306894154GB</SalesOrderReference>
+    <DispatchNumber>011400</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214530877K</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T12:45:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d49c4d43-b533-4c02-bd9e-46feb3729f35</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971055</ProductCode>
+      <EAN>724022971055</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>AAW2308 7GG 90% WO / 10% WS POPPY OS</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.04</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

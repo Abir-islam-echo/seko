@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10998</SequenceNumber>
+    <ToBePackedDate>2024-01-15T07:02:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T08:06:57Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T08:07:41Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c4e04173-8aa6-4a74-b608-2d3259dffe1c</DispatchId>
+    <CourierService/>
+    <Weight>0.54</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Katrina Sherer</ShipToAttention>
+    <DeliveryAddressLine1>24 marvin ave</DeliveryAddressLine1>
+    <InterfaceRecordId>66e2b111-6362-45c3-950e-e07ff620fb80</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>los altos</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94022</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(650) 3330112</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>katrina.sherer@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115373</SalesOrderNumber>
+    <SalesOrderReference>GE5310719834GB</SalesOrderReference>
+    <DispatchNumber>011520</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1973737054</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:56:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>eabfab5b-d7f8-4123-bc7e-5d9184ae11dd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788326043</ProductCode>
+      <EAN>731788326043</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2361 53% CV/28% PL/19% ME GOLD LUREX M</ProductDescription>
+      <ProductColour>GOLD LUREX</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

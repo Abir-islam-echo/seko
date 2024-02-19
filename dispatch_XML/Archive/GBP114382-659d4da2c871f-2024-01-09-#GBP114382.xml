@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10100</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T10:20:43Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T10:21:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f488f219-0122-4253-8605-f7517fceceff</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Debs Koning</ShipToAttention>
+    <DeliveryAddressLine1>Streekbos 8</DeliveryAddressLine1>
+    <InterfaceRecordId>ef8d71db-4734-44df-92d0-3504b98898ab</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Almere</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1358 ES</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NL</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00310682420045</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>debskoning@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114382</SalesOrderNumber>
+    <SalesOrderReference>GE5269965575GB</SalesOrderReference>
+    <DispatchNumber>010483</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602652360U</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:26:49Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ee515649-7091-4d6c-b1a5-bae0a892fa3f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317058</ProductCode>
+      <EAN>731788317058</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS BLACK/CREAM L</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

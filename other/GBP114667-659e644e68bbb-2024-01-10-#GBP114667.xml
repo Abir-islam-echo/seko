@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10388</SequenceNumber>
+    <ToBePackedDate>2024-01-10T07:48:46Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-10T09:21:19Z</ToDispatchDate>
+    <DispatchDate>2024-01-10T09:22:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e664c4a6-cd10-4424-97b4-49cb9414891e</DispatchId>
+    <CourierService/>
+    <Weight>0.66</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Elena Karnaby</ShipToAttention>
+    <DeliveryAddressLine1>3901 Island Estates Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>ce974b48-dfc7-4079-8711-fea5e25a2f2c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Miami</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>33160</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(917) 9712776</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>emkarnaby@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114667</SalesOrderNumber>
+    <SalesOrderReference>GE5283112470GB</SalesOrderReference>
+    <DispatchNumber>010774</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5991345290</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T07:40:27Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c6d4e112-8a92-4707-b6dc-37dcab2d28e5</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317386</ProductCode>
+      <EAN>731788317386</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2369 12GG 90% WO 10% WS BLACK/MULTI XS</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7256b719-34f2-4362-91ee-a883c55dbd62</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022979624</ProductCode>
+      <EAN>724022979624</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2440 12GG 100% WS CREAM XS</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>88acb93d-1c9a-43be-8b86-9263f028ecc2</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>728238970512</ProductCode>
+      <EAN>728238970512</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE CREAM XS</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

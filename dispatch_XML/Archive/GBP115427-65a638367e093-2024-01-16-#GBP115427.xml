@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11173</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:38:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T07:55:49Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T07:57:07Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>529d19b4-aefb-48dc-8d6f-9e5acdebcdb7</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kinny Eggink</ShipToAttention>
+    <DeliveryAddressLine1>Overtuin</DeliveryAddressLine1>
+    <InterfaceRecordId>35686d74-ad9e-4058-8974-dcfd8a3de825</InterfaceRecordId>
+    <DeliveryAddressLine2>1</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Terborg</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>7061 DH</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NL</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>31 6 23204220</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kinnyeggink@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115427</SalesOrderNumber>
+    <SalesOrderReference>GE5313908418GB</SalesOrderReference>
+    <DispatchNumber>011584</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214949595A</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:33:09Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>208f3fba-d974-44f4-a9d9-a38e2508c367</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300142</ProductCode>
+      <EAN>731788300142</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 90% W / 10% WS HOT PINK LL</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

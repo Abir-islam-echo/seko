@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10995</SequenceNumber>
+    <ToBePackedDate>2024-01-15T07:02:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:53:26Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:54:43Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>3d1f9e3f-05f8-4c67-9b0a-9ae076de3a30</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Rocio Dewey</ShipToAttention>
+    <DeliveryAddressLine1>600 Congress Avenue </DeliveryAddressLine1>
+    <InterfaceRecordId>a7f2cb38-c1fb-4295-ae09-f13f2ad2f67a</InterfaceRecordId>
+    <DeliveryAddressLine2>Floor 14</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Austin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78701</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(210) 2597892</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>rocio@elansisu.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115377</SalesOrderNumber>
+    <SalesOrderReference>GE5311177189GB</SalesOrderReference>
+    <DispatchNumber>011524</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1422071125</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T07:00:04Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c5d7043d-29a4-406d-9c28-e26d43eaa016</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972137</ProductCode>
+      <EAN>724022972137</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS MARIGOLD S</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>49ead458-3f0a-4323-8c8b-a56e40c6e575</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972847</ProductCode>
+      <EAN>724022972847</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS MARIGOLD XS</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

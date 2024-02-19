@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10114</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:14:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:15:59Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>cff0514e-a867-4312-99d3-1bcc6947f295</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Anne Reimann</ShipToAttention>
+    <DeliveryAddressLine1>7 Gort Uaine</DeliveryAddressLine1>
+    <InterfaceRecordId>da42747b-5a39-41c4-a92d-71216eb37c9f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Clogherhead</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>A92 X4Y7</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>087 261 7671</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>annereimann@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114249</SalesOrderNumber>
+    <SalesOrderReference>GE5263587243GB</SalesOrderReference>
+    <DispatchNumber>010347</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036025553457</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:25:41Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>508c33c6-c2bb-4ab0-ac4f-7d7a9a7a1f0b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329860</ProductCode>
+      <EAN>731788329860</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23104 12GG 90% WO / 10% WS NAVY/CORAL PINK L</ProductDescription>
+      <ProductColour>NAVY/CORAL PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fae91fd6-66f8-4b9a-a2e5-a82a2d43bac3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022973639</ProductCode>
+      <EAN>724022973639</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS CREAM/BLUE L</ProductDescription>
+      <ProductColour>CREAM/BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

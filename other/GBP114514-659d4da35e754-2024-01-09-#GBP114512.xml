@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10275</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T10:03:05Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T10:03:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>6baa70f0-baed-43e5-9ad0-1384db27f673</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>danielle corey</ShipToAttention>
+    <DeliveryAddressLine1>621  lansdowne avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>02efb41f-0eed-47a0-a3f4-88f5cf553713</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>westmount</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>H3Y2V7</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(514) 4899612</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>rcory@sympatico.ca</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114514</SalesOrderNumber>
+    <SalesOrderReference>GE5275512035GB</SalesOrderReference>
+    <DispatchNumber>010619</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3420548751</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:18:06Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>083da1ba-eeae-4815-bd21-bf6b4aefb3e9</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989821</ProductCode>
+      <EAN>724022989821</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS OATMEAL MEL/CORAL L</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>129010f3-502d-46ff-acdc-6988f52ae423</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788316877</ProductCode>
+      <EAN>731788316877</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2337 12GG 90% WO 10% WS BLUE/MULTI L</ProductDescription>
+      <ProductColour>BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

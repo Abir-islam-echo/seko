@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10697</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:50:48Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:52:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0801e78d-0855-4b16-8681-79e574aa1564</DispatchId>
+    <CourierService/>
+    <Weight>0.65</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tiffany  Frocione </ShipToAttention>
+    <DeliveryAddressLine1>6171 Shapleigh Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>6ea6d112-7928-4b0f-bcc2-3fa8ef4842e1</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Syracuse</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>13224</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(315) 3955735</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tiffanym813@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114897</SalesOrderNumber>
+    <SalesOrderReference>GE5291206247GB</SalesOrderReference>
+    <DispatchNumber>011013</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1185480052</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:49:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>367e8981-0e2c-4a79-adc1-fa1b8d6128e1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316976</ProductCode>
+      <EAN>731788316976</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2335 3GG 90% WO 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

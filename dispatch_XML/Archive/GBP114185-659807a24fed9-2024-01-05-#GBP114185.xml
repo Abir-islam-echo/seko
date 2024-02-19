@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9863</SequenceNumber>
+    <ToBePackedDate>2024-01-05T13:13:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T13:30:40Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T13:33:56Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>ae376085-9bf5-4a7e-b6c2-ca699828986a</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ines Rudolph</ShipToAttention>
+    <DeliveryAddressLine1>Loretoweg 3</DeliveryAddressLine1>
+    <InterfaceRecordId>bfd8d350-5b7a-4b2c-b822-475f05505fb9</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Landshut</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>84024</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>491705555188</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>serissa_ines.rudolph@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114185</SalesOrderNumber>
+    <SalesOrderReference>GE5261089687GB</SalesOrderReference>
+    <DispatchNumber>010282</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602389859y</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T13:10:31Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e6e4505e-367f-4801-973d-2d93031d1709</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981276</ProductCode>
+      <EAN>724022981276</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KQ103 7GG 90% WO / 10% WS BRIGHT PINK M</ProductDescription>
+      <ProductColour>BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ac1d2769-f3c9-44a5-90f6-475059d8ded2</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022976913</ProductCode>
+      <EAN>724022976913</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23109 12GG 70%REC ME 30%WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.15</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

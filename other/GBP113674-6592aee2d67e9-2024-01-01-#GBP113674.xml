@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9303</SequenceNumber>
+    <ToBePackedDate>2024-01-01T09:36:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T12:10:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T12:11:42Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>fee1078b-38a4-4056-85d4-79e13c02ccd1</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Claudia  Giovanazzi </ShipToAttention>
+    <DeliveryAddressLine1>Bockhornstrasse 22</DeliveryAddressLine1>
+    <InterfaceRecordId>9051d594-4d70-440f-8939-23b9ceb868d2</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Zurich</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>8047</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>41797792584</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>snoopina@bluewin.ch</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113674</SalesOrderNumber>
+    <SalesOrderReference>GE5238357737GB</SalesOrderReference>
+    <DispatchNumber>009745</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3700736432</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-01T09:30:41Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d9ec79c7-394c-4ea0-9cb7-a950dc53fd8d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990438</ProductCode>
+      <EAN>724022990438</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS NAVY/BRIGHT PINK LL</ProductDescription>
+      <ProductColour>NAVY/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e93817f8-c78a-4ba1-a3ca-826e52117f3b</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788328429</ProductCode>
+      <EAN>731788328429</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2396 12GG 90% WO / 10% WS BLACK 3L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

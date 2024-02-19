@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9701</SequenceNumber>
+    <ToBePackedDate>2024-01-04T13:31:06Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T13:35:34Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T13:36:19Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2daf50d6-c405-40d8-9d60-ca26aa759db3</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sandra Haley</ShipToAttention>
+    <DeliveryAddressLine1>3108 Overhill Road</DeliveryAddressLine1>
+    <InterfaceRecordId>649ff135-49b0-41d3-83f4-2a432ee3f836</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mountain Brook</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>35223</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2055676443</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>oxford55120@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113918</SalesOrderNumber>
+    <SalesOrderReference>GE5251259610GB</SalesOrderReference>
+    <DispatchNumber>010005</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9481237861</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T09:54:32Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c38bd8e5-48c4-462c-b628-2b2d20dbd9b2</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989999</ProductCode>
+      <EAN>724022989999</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO / 10% WS CORAL/CREAM/BRIGHT PINK M</ProductDescription>
+      <ProductColour>CORAL/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

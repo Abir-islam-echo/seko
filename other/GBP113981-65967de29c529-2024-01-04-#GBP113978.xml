@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9674</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T09:35:07Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T09:37:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0869fd29-cd66-40c0-9aab-5bf0e062e7c8</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Susi Collas</ShipToAttention>
+    <DeliveryAddressLine1>unit 742 Grandview Grove</DeliveryAddressLine1>
+    <InterfaceRecordId>9d40e2ca-9809-48a0-ad14-26995b8a107b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Prahran</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>3181</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0477 705 701</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>susicollas@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113981</SalesOrderNumber>
+    <SalesOrderReference>GE5254120431GB</SalesOrderReference>
+    <DispatchNumber>010071</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9814702041</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:30:55Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0f50a162-31fc-4be9-8c4a-4b3edf56ccb6</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972922</ProductCode>
+      <EAN>724022972922</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS NAVY M</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>21ebe715-accd-4dce-b815-a4a365543d86</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788329976</ProductCode>
+      <EAN>731788329976</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2399 12GG 90% WO / 10% WS NAVY/APPLE RED M</ProductDescription>
+      <ProductColour>NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

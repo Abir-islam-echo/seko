@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11059</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T17:03:39Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:05:36Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>88e24d46-4819-4c6f-b4e3-50a415da94ea</DispatchId>
+    <CourierService/>
+    <Weight>0.66</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Zofia Maciorowski </ShipToAttention>
+    <DeliveryAddressLine1>23 bis Bd Arago</DeliveryAddressLine1>
+    <InterfaceRecordId>2a1716a8-3177-4ae8-8dcc-75c7482e6482</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Paris</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>75013</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>33684868098</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>zosiamaciorowski@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115152</SalesOrderNumber>
+    <SalesOrderReference>GE5302495495GB</SalesOrderReference>
+    <DispatchNumber>011301</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214488293T</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:35:42Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>06b67cf7-3d15-4ed9-a332-77646d14b60b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321444</ProductCode>
+      <EAN>731788321444</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f59161ae-b7e0-461d-98da-43506e813713</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972915</ProductCode>
+      <EAN>724022972915</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

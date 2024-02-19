@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9554</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:49:45Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:50:49Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4cc7f203-be03-489d-9b28-ee596236db8e</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sheelagh Kelly</ShipToAttention>
+    <DeliveryAddressLine1>Oo</DeliveryAddressLine1>
+    <InterfaceRecordId>2df86cb2-6082-4a90-85be-5e18c46c6c6e</InterfaceRecordId>
+    <DeliveryAddressLine2>Blackrath House</DeliveryAddressLine2>
+    <DeliveryAddressLine3>Athgarvan</DeliveryAddressLine3>
+    <DeliveryAddressCity>Newbridge</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>W12 X968</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>086 814 6100</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sheelaghtreacy.kelly@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113848</SalesOrderNumber>
+    <SalesOrderReference>GE5248575038GB</SalesOrderReference>
+    <DispatchNumber>009936</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988528280q</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:16:38Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1c702a9d-d13a-4e4c-9570-9cef7d14fe04</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990377</ProductCode>
+      <EAN>724022990377</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK LL</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

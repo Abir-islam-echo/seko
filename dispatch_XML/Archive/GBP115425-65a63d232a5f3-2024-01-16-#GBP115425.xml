@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11176</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:40:50Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T08:14:09Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T08:15:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>774ceb6a-17f8-4590-96ee-9c5a4f42a321</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Marietta Alvarez</ShipToAttention>
+    <DeliveryAddressLine1>14365 SW 162 ST</DeliveryAddressLine1>
+    <InterfaceRecordId>9b708337-9321-429f-9b1e-17e57a5a4c58</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>MIAMI</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>33177</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(305) 4794207</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>barbierimarietta@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115425</SalesOrderNumber>
+    <SalesOrderReference>GE5313569985GB</SalesOrderReference>
+    <DispatchNumber>011581</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5140476165</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:39:23Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6204cc95-4b0b-4887-87de-8e8684a0c63a</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982105</ProductCode>
+      <EAN>724022982105</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK S</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>212d6e6a-b8a1-40f1-98d9-c33dfd6b9d25</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788320973</ProductCode>
+      <EAN>731788320973</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS BLACK MULTI S</ProductDescription>
+      <ProductColour>BLACK MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9a66a171-41a3-4c92-8b20-414d355ef9cd</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788329846</ProductCode>
+      <EAN>731788329846</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23104 12GG 90% WO / 10% WS NAVY/CORAL PINK S</ProductDescription>
+      <ProductColour>NAVY/CORAL PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

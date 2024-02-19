@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10143</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T13:28:27Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T13:29:15Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>468e88a0-9b18-4856-be6a-0fdb36316c6e</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jill Campbell</ShipToAttention>
+    <DeliveryAddressLine1>310 NW 70th St</DeliveryAddressLine1>
+    <InterfaceRecordId>394bb7d3-e589-4a19-8eaf-49ae696cd931</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Seattle</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>98117-5041</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>12062358996</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jill_house@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114449</SalesOrderNumber>
+    <SalesOrderReference>GE5272273981GB</SalesOrderReference>
+    <DispatchNumber>010550</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8941662450</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:15:03Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>88cc610e-25fd-4c32-95c6-25a6a834cc7e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312411</ProductCode>
+      <EAN>731788312411</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2350 7GG 90% WO 10% WS PINK/MULTI S</ProductDescription>
+      <ProductColour>PINK/MULTI</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

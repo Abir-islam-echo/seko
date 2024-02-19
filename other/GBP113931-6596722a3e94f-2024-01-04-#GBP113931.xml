@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9663</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T08:42:52Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T08:44:54Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>36ece7c8-deb0-487a-a7de-7c370faf6476</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Colma Ryan</ShipToAttention>
+    <DeliveryAddressLine1>14 Clontarf Road</DeliveryAddressLine1>
+    <InterfaceRecordId>0e6cb55c-3ef6-478e-94eb-1643f618c76b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Clontarf</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D03 K029</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>086 165 7137</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>wysecolma@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113931</SalesOrderNumber>
+    <SalesOrderReference>GE5251964315GB</SalesOrderReference>
+    <DispatchNumber>010020</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039888274414</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:28:41Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8b0c7261-8162-4282-978d-4d377dad0a28</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>769807739604</ProductCode>
+      <EAN>769807739604</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

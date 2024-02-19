@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9854</SequenceNumber>
+    <ToBePackedDate>2024-01-05T09:58:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T11:36:22Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T11:38:55Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>01b4dbbd-7b0a-49a7-a038-55df2dad64f2</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Elisabeth AuerspergBreunner</ShipToAttention>
+    <DeliveryAddressLine1>Berghof</DeliveryAddressLine1>
+    <InterfaceRecordId>94665571-e6e8-49a0-ada3-bb12cacd462f</InterfaceRecordId>
+    <DeliveryAddressLine2>Unterburgau, 1</DeliveryAddressLine2>
+    <DeliveryAddressLine3>Berghof</DeliveryAddressLine3>
+    <DeliveryAddressCity>Unterach am Attersee</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4866</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>438925545461</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>a.deutsch@fides-fo.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114164</SalesOrderNumber>
+    <SalesOrderReference>GE5260274984GB</SalesOrderReference>
+    <DispatchNumber>010258</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3283016774</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T09:52:33Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>48b04450-9fa0-41d0-902d-e20a44cde64f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316846</ProductCode>
+      <EAN>731788316846</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2337 12GG 90% WO 10% WS BLUE/MULTI XS</ProductDescription>
+      <ProductColour>BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d6332e9c-3d74-49e2-8f13-ad92000cfadb</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022989852</ProductCode>
+      <EAN>724022989852</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO / 10% WS GREEN/OATMEAL MEL/BRIGHT PINK XS</ProductDescription>
+      <ProductColour>GREEN/OATMEAL MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10547</SequenceNumber>
+    <ToBePackedDate>2024-01-11T15:11:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T16:08:54Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T16:10:01Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>a5e184a4-5906-46af-a6c4-a1b81ea51c32</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Luana Perilli</ShipToAttention>
+    <DeliveryAddressLine1>prllnu81c50h501w</DeliveryAddressLine1>
+    <InterfaceRecordId>7d3e0e7c-00cd-47ad-a51b-0d313789ec90</InterfaceRecordId>
+    <DeliveryAddressLine2>Piazza Ugo da Como, 1</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Roma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00139</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>393384313272</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>luana.perilli@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114681</SalesOrderNumber>
+    <SalesOrderReference>GE5284617716GB</SalesOrderReference>
+    <DispatchNumber>010789</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754484164S</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T11:18:10Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>aa2a7655-96f2-4682-bd2c-2431359f7c0b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788326579</ProductCode>
+      <EAN>731788326579</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPF2330 14GG 85% SE 15% WS BEGONIA S</ProductDescription>
+      <ProductColour>BEGONIA</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>943caefd-f060-4bc2-9f6f-e3c305770eaf</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327880</ProductCode>
+      <EAN>731788327880</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2390 12GG 100% WS BLACK/SAFFRON XS</ProductDescription>
+      <ProductColour>BLACK/SAFFRON</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

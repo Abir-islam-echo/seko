@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9551</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:26:02Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:26:47Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>91359ce6-f675-40b7-9d21-66d51605b992</DispatchId>
+    <CourierService/>
+    <Weight>0.46</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Aranzazu Lazaro</ShipToAttention>
+    <DeliveryAddressLine1>Bosque de Guanacastes 61</DeliveryAddressLine1>
+    <InterfaceRecordId>6659a15f-7a62-4eeb-9856-2559c6450b31</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Bosques de las Lomas</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11700</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>MX</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>55 1320 6569</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>arantxie@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113817</SalesOrderNumber>
+    <SalesOrderReference>GE5246681307GB</SalesOrderReference>
+    <DispatchNumber>009894</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9022527441</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:15:20Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>efd5d394-e442-4056-9f69-765ffdf7bc15</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989562</ProductCode>
+      <EAN>724022989562</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK S</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0b3d82f8-5f29-4528-b073-af4068a3c4da</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788319267</ProductCode>
+      <EAN>731788319267</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2320 16GG 100% MERINO WO BLACK/MULTI XS</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

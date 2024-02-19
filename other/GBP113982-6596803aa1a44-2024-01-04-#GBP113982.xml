@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9675</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:23:22Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T09:38:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T09:42:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e3161dc9-9a81-4bb7-829e-3637573415e2</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>oriana koutso</ShipToAttention>
+    <DeliveryAddressLine1>chalet sandra</DeliveryAddressLine1>
+    <InterfaceRecordId>7b07d7d9-eb0f-45a0-bc95-34701ee1870f</InterfaceRecordId>
+    <DeliveryAddressLine2>Grubenstrasse 134</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Schonried</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>3778</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>9175382218</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>oriana.k.nyc@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113982</SalesOrderNumber>
+    <SalesOrderReference>GE5254159425GB</SalesOrderReference>
+    <DispatchNumber>010072</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9814713580</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:17:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f0c82f24-038b-4e60-8bec-3b562210aae4</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971710</ProductCode>
+      <EAN>724022971710</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f2e69e85-5af7-4a92-93e0-4cf821f114a3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972922</ProductCode>
+      <EAN>724022972922</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS NAVY M</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

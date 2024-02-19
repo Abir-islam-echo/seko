@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10156</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:17:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:18:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>78317702-0a83-4965-bdd3-cca7f77d5bc6</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nina Qureshi</ShipToAttention>
+    <DeliveryAddressLine1>22 wade dr. </DeliveryAddressLine1>
+    <InterfaceRecordId>98a54878-6888-49a5-8569-c8579154084b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Summit</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>07901</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>3022992137</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ninagq11@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114372</SalesOrderNumber>
+    <SalesOrderReference>GE5268961625GB</SalesOrderReference>
+    <DispatchNumber>010473</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4348847156</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:12:49Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>93dfe830-4c37-4844-ae9f-a8a1dbed9eb4</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321833</ProductCode>
+      <EAN>731788321833</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS VIVID VIOLET L</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>654510d2-9600-4745-a5aa-503244cba0a8</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322557</ProductCode>
+      <EAN>731788322557</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS GREY L</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>96fdc84d-a543-457b-b55e-8498ebdd8afa</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788300470</ProductCode>
+      <EAN>731788300470</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

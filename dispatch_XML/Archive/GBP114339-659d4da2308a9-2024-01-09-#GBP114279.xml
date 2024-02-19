@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10153</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:49:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T13:43:09Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T13:44:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4a3b2962-aef2-4a1a-994c-d989a793122f</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mary Cyganiak</ShipToAttention>
+    <DeliveryAddressLine1>9397 North Fairway Circle</DeliveryAddressLine1>
+    <InterfaceRecordId>5943f035-607f-4b59-a989-27fc2226fbd6</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Bayside</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>53217</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(414) 4161659</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>marycyganiak@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114339</SalesOrderNumber>
+    <SalesOrderReference>GE5267088943GB</SalesOrderReference>
+    <DispatchNumber>010438</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4598158040</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:34:44Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>73163787-0d23-401a-9819-d220ed610dd0</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981955</ProductCode>
+      <EAN>724022981955</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2402 12GG 90% WO / 10% WS TIDAL BLUE/CREAM/BLACK LL</ProductDescription>
+      <ProductColour>TIDAL BLUE/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

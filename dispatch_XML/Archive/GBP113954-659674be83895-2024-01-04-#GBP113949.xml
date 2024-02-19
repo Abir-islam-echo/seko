@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9666</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T08:53:44Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T08:59:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f7859a7a-ee2e-41af-9dd8-add36320c5b8</DispatchId>
+    <CourierService/>
+    <Weight>1.07</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>kelly papandreou</ShipToAttention>
+    <DeliveryAddressLine1>mavromixali 8</DeliveryAddressLine1>
+    <InterfaceRecordId>134f263f-084f-444f-9a8c-e9e33be1edf2</InterfaceRecordId>
+    <DeliveryAddressLine2>voula</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>athens</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>166 73</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 30 694 783 0863</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kpapandreou@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113954</SalesOrderNumber>
+    <SalesOrderReference>GE5252739636GB</SalesOrderReference>
+    <DispatchNumber>010044</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039888728801</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:28:24Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fe291b53-8826-43bf-9b1a-b2fd5e00abc9</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>769807716155</ProductCode>
+      <EAN>769807716155</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CASHMERE COMB N/A NATURAL OS</ProductDescription>
+      <ProductColour>NATURAL</ProductColour>
+      <ProductGrossWeight>0.05</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>76f88005-f33c-4868-b051-a2e29b7dc1c2</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788329501</ProductCode>
+      <EAN>731788329501</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TQ44 100% ORGANIC COTTON CREAM/NAVY/APPLE RED S</ProductDescription>
+      <ProductColour>CREAM/NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e5961f15-d9fa-40bd-b0fa-9209e98374e9</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788317331</ProductCode>
+      <EAN>731788317331</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2342 5GG 90% WO 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0bd63ce1-2ddf-4510-86f4-9fa03de7cde4</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022989159</ProductCode>
+      <EAN>724022989159</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KK27B 5GG 90% WO / 10% WS BLACK/RED S</ProductDescription>
+      <ProductColour>BLACK/RED</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

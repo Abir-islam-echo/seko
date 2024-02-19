@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11041</SequenceNumber>
+    <ToBePackedDate>2024-01-15T13:02:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T13:09:13Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T13:10:33Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>008adbc4-0a47-4373-b731-f6451956e8e6</DispatchId>
+    <CourierService/>
+    <Weight>0.31</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Michelle  Barry </ShipToAttention>
+    <DeliveryAddressLine1>49 Granitefield </DeliveryAddressLine1>
+    <InterfaceRecordId>38f1be58-0c30-49bf-af95-ba50e15157d9</InterfaceRecordId>
+    <DeliveryAddressLine2>Dun Laoghaire </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>A96 NW18</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>353861610612</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>13michellebarry@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115400</SalesOrderNumber>
+    <SalesOrderReference>GE5312211306GB</SalesOrderReference>
+    <DispatchNumber>011554</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214738369J</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T12:52:35Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5615da9d-5061-4bf8-af23-6759cefa87fd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>769807271432</ProductCode>
+      <EAN>769807271432</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ215 7GG 100% WS BONE XS</ProductDescription>
+      <ProductColour>BONE</ProductColour>
+      <ProductGrossWeight>0.31</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

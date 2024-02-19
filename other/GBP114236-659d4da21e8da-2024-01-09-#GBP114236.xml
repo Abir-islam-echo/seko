@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10105</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:41:32Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:42:15Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>870b386d-a34f-45bb-ae52-af56f5815b8f</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Luz J Trejo</ShipToAttention>
+    <DeliveryAddressLine1>Frac Valle del Molino Margaritas 50</DeliveryAddressLine1>
+    <InterfaceRecordId>f75004e1-6f8b-4e1f-b764-fa03927ebaae</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Texcoco</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>56236</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>MX</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>525530455549</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jjackytre@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114236</SalesOrderNumber>
+    <SalesOrderReference>GE5262987395GB</SalesOrderReference>
+    <DispatchNumber>010335</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5812696245</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:33:53Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>47949ed2-b375-4208-b434-d07f2bda4d7e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788314835</ProductCode>
+      <EAN>731788314835</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2302 100% CO CREAM LL</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8c72c17c-0976-47b1-9b9e-709320ce9aa8</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788316099</ProductCode>
+      <EAN>731788316099</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2394 12GG 90% WO / 10% WS HIGH RISK RED/ELF GREEN/CREAM L</ProductDescription>
+      <ProductColour>HIGH RISK RED/ELF GREEN/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

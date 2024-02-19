@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11174</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:38:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T07:59:54Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T08:00:43Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c7cedb22-0ef0-43f8-9c69-5659d1dcefb9</DispatchId>
+    <CourierService/>
+    <Weight>0.86</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jung Lee</ShipToAttention>
+    <DeliveryAddressLine1>225 Summer St</DeliveryAddressLine1>
+    <InterfaceRecordId>0842b61c-aeab-4d3e-b062-54d03e718554</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Hingham</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02043</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(617) 3782582</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ju.lee@neu.edu</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115423</SalesOrderNumber>
+    <SalesOrderReference>GE5313479387GB</SalesOrderReference>
+    <DispatchNumber>011579</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5140437396</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:34:27Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a5b50884-a216-424b-b9c5-eb18fdb02d59</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990315</ProductCode>
+      <EAN>724022990315</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK LL</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8d97a96d-7655-4230-8cca-286f2621c600</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788317249</ProductCode>
+      <EAN>731788317249</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2368 7GG 90% WO 10% WS CREAM/MULTI LL</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,70 @@
+<Response>
+    <Dispatch>
+      <IntegrationId>CCCHIN</IntegrationId>
+      <SequenceNumber>30</SequenceNumber>
+      <ToBePackedDate>2023-03-23T09:14:04Z</ToBePackedDate>
+      <ToDispatchDate>2023-07-06T09:07:42Z</ToDispatchDate>
+      <DispatchDate>2023-07-06T09:09:57Z</DispatchDate>
+      <TrackingUrl>https://www.dpd.co.uk/apps/tracking/?reference=JA484556445GB</TrackingUrl>
+      <DispatchId>53389eb4-ee47-40db-be73-703020fc368d</DispatchId>
+      <CourierService>DPD NEXT DAY</CourierService>
+      <Weight>0.45</Weight>
+      <WeightUOM>KG</WeightUOM>
+      <ShipToAttention>129 shantibag</ShipToAttention>
+      <DeliveryAddressLine1>desi apartment</DeliveryAddressLine1>
+      <InterfaceRecordId>e84e5523-bddc-4848-8aa5-a069f379c71b</InterfaceRecordId>
+      <DeliveryAddressLine2/>
+      <DeliveryAddressLine3/>
+      <DeliveryAddressCity>dhaka</DeliveryAddressCity>
+      <DeliveryAddressCounty/>
+      <DeliveryAddressPostCode>1217</DeliveryAddressPostCode>
+      <DeliveryAddressCountry>BD</DeliveryAddressCountry>
+      <DeliveryPhoneNumber/>
+      <DeliveryEmailAddress>bhsam787@gmail.com</DeliveryEmailAddress>
+      <SalesInvoiceNumber/>
+      <TrackingUrlReturn/>
+      <SalesOrderNumber>4920891408555</SalesOrderNumber>
+      <SalesOrderReference>#CPT-1276</SalesOrderReference>
+      <DispatchNumber>000019</DispatchNumber>
+      <CourierName>DPD</CourierName>
+      <CourierRef>JA484556445GB</CourierRef>
+      <DCCode>DCCL01</DCCode>
+      <BeingPickedDate>2023-07-06T09:03:58Z</BeingPickedDate>
+    </Dispatch>
+    <List>
+      <DispatchLineItem>
+        <LineInterfaceRecordId>8c0f300d-7f4b-472f-aa63-2f4504e84fd3</LineInterfaceRecordId>
+        <LineNumber>1</LineNumber>
+        <ProductCode>728238991487</ProductCode>
+        <EAN>728238991487</EAN>
+        <Quantity>1</Quantity>
+        <SerialNumber/>
+        <LotNumber/>
+        <OrderLineMessage/>
+        <RetailComplianceLabel/>
+        <ProductDescription>DEMI CARDIGAN</ProductDescription>
+        <ProductColour>MINT/CARAMEL</ProductColour>
+        <ProductGrossWeight>0.45</ProductGrossWeight>
+        <ProductSize>XS</ProductSize>
+        <BuildKit>false</BuildKit>
+        <IsComponentSKU>false</IsComponentSKU>
+      </DispatchLineItem>
+      <DispatchLineItem>
+        <LineInterfaceRecordId>8c0f300d-7f4b-472f-aa63-2f4504e84fd3</LineInterfaceRecordId>
+        <LineNumber>1</LineNumber>
+        <ProductCode>728238987329</ProductCode>
+        <EAN>728238987329</EAN>
+        <Quantity>1</Quantity>
+        <SerialNumber/>
+        <LotNumber/>
+        <OrderLineMessage/>
+        <RetailComplianceLabel/>
+        <ProductDescription>DEMI CARDIGAN</ProductDescription>
+        <ProductColour>MINT/CARAMEL</ProductColour>
+        <ProductGrossWeight>0.45</ProductGrossWeight>
+        <ProductSize>XS</ProductSize>
+        <BuildKit>false</BuildKit>
+        <IsComponentSKU>false</IsComponentSKU>
+      </DispatchLineItem>
+    </List>
+  </Response>

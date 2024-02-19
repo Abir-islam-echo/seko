@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9299</SequenceNumber>
+    <ToBePackedDate>2023-12-30T20:16:03Z</ToBePackedDate>
+    <ToDispatchDate>2023-12-30T21:12:27Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T07:51:07Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>3dd78909-0528-4545-bc08-6a216c7a1e07</DispatchId>
+    <CourierService/>
+    <Weight>1.05</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Karen McGranaghan</ShipToAttention>
+    <DeliveryAddressLine1>Maybrook, Barna gardens </DeliveryAddressLine1>
+    <InterfaceRecordId>08072f74-a97c-41a1-b20b-11e05d3ec83f</InterfaceRecordId>
+    <DeliveryAddressLine2>Barna road</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Galway</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>H91 ND25</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>353 86 385 5118</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>karconway@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113619</SalesOrderNumber>
+    <SalesOrderReference>GE5234926750GB</SalesOrderReference>
+    <DispatchNumber>009687</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039880179016</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-12-30T20:14:00Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>96c92769-a5b8-43c1-9a07-24293a19ebc8</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316075</ProductCode>
+      <EAN>731788316075</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2394 12GG 90% WO / 10% WS HIGH RISK RED/ELF GREEN/CREAM S</ProductDescription>
+      <ProductColour>HIGH RISK RED/ELF GREEN/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>af239d29-42ce-40a4-939b-8f130dc47da8</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788319663</ProductCode>
+      <EAN>731788319663</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2313 12GG 90% WO 10% WS RED/MULTI M</ProductDescription>
+      <ProductColour>RED/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0df0242e-a180-4ccb-a46d-6c72d5b5d9d3</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022977033</ProductCode>
+      <EAN>724022977033</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KX21 12GG 70%REC ME 30%WS EVENING GREY/CARMINE S</ProductDescription>
+      <ProductColour>EVENING GREY/CARMINE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

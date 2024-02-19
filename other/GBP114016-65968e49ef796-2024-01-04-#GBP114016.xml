@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9677</SequenceNumber>
+    <ToBePackedDate>2024-01-04T10:19:21Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T10:39:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T10:41:17Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2107bcf0-f469-4dcb-b84a-adf593fa2a44</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>kyungjin Lee</ShipToAttention>
+    <DeliveryAddressLine1>Gangnam gu, Apgujeong ro,42 gil 78</DeliveryAddressLine1>
+    <InterfaceRecordId>00606e89-a866-4f4f-ad5c-9d8783d81454</InterfaceRecordId>
+    <DeliveryAddressLine2>A 701</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Seoul</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>06020</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>KR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>821041012863</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kj2034@naver.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114016</SalesOrderNumber>
+    <SalesOrderReference>GE5255442638GB</SalesOrderReference>
+    <DispatchNumber>010107</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6739070284</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T10:14:10Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5850bc5c-5582-46e3-b791-755cae7eeffc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022978917</ProductCode>
+      <EAN>724022978917</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2412 12GG 90% WO 10% WS CREAM MULTI S</ProductDescription>
+      <ProductColour>CREAM MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10146</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:49:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T13:31:37Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T13:32:34Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5990dc83-7cd3-40a0-b0d3-6e241caca01f</DispatchId>
+    <CourierService/>
+    <Weight>0.82</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Grainne Murphy</ShipToAttention>
+    <DeliveryAddressLine1>13 Cherry Rise, Delgany Wood </DeliveryAddressLine1>
+    <InterfaceRecordId>acd035ef-5212-439b-b42f-d4d8b3906254</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Greystones</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>A63 YP86</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>087 250 4842</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>grainnedal@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114370</SalesOrderNumber>
+    <SalesOrderReference>GE5268822042GB</SalesOrderReference>
+    <DispatchNumber>010471</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602641523X</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:32:00Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>04cb2f46-df80-4d0d-993c-53098175d5ad</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788325893</ProductCode>
+      <EAN>731788325893</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2365 53% CV/28% PL/19% ME PINK LUREX S</ProductDescription>
+      <ProductColour>PINK LUREX</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>bc859905-1839-4989-8da0-6fa7baa28afa</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>787099417024</ProductCode>
+      <EAN>787099417024</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ220 CASHMERE BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

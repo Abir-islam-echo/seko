@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11053</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T16:38:45Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T16:50:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>84053b29-22ae-47b2-b10a-f15474fa17ee</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Katja Kanellos</ShipToAttention>
+    <DeliveryAddressLine1>Forststr. 2</DeliveryAddressLine1>
+    <InterfaceRecordId>7f0e4f9a-5ed4-460f-8588-a447917d4a82</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Berlin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>13467</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0173 9152289</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>katja@kanellos.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115135</SalesOrderNumber>
+    <SalesOrderReference>GE5301901564GB</SalesOrderReference>
+    <DispatchNumber>011284</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042144736488</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:38:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ad529970-f6de-4c17-8644-7d2e9b54f9c1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980064</ProductCode>
+      <EAN>724022980064</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY62 5GG 100% WS SOFT TRUFFLE M</ProductDescription>
+      <ProductColour>SOFT TRUFFLE</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

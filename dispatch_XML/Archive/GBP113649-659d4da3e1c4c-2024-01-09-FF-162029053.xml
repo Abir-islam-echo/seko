@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10127</SequenceNumber>
+    <ToBePackedDate>2024-01-08T12:05:47Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:38:39Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:38:39Z</DispatchDate>
+    <TrackingUrl>https://www.dhl.com/en/express/tracking.html?AWB=6223046001&amp;amp;brand=DHL</TrackingUrl>
+    <DispatchId>477366fe-3712-46d7-bebb-85112ab124ff</DispatchId>
+    <CourierService>Timed Next Day Remote</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Andreja Florjancic</ShipToAttention>
+    <DeliveryAddressLine1>Pristavska cesta 70</DeliveryAddressLine1>
+    <InterfaceRecordId>94fa84df-aa97-4d29-b96d-9a9268341284</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Trzic</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4290</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>SI</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 386 51 809 436</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>gepardinja@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113649</SalesOrderNumber>
+    <SalesOrderReference>5083110047822</SalesOrderReference>
+    <DispatchNumber>010601</DispatchNumber>
+    <CourierName>DHL</CourierName>
+    <CourierRef>6223046001</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T12:04:32Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2f61d993-bebd-4212-9048-fe596e3cd518</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320812</ProductCode>
+      <EAN>731788320812</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1900ER 12GG 90% WO 10% WS PURE BLUE/MULTI L</ProductDescription>
+      <ProductColour>PURE BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

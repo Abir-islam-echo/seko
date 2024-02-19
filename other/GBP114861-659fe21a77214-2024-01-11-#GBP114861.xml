@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10529</SequenceNumber>
+    <ToBePackedDate>2024-01-11T12:29:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T12:33:31Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T12:34:10Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>50cd6603-6705-4098-9958-09a12340f4fc</DispatchId>
+    <CourierService/>
+    <Weight>0.34</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Helene Farkas</ShipToAttention>
+    <DeliveryAddressLine1>Eisenstaedter Strasse 36</DeliveryAddressLine1>
+    <InterfaceRecordId>e59d5a81-382b-4872-86ec-4597965abf2d</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Siegendorf</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>7011</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>69912864864</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>hhfarkas@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114861</SalesOrderNumber>
+    <SalesOrderReference>GE5290419674GB</SalesOrderReference>
+    <DispatchNumber>010973</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9735645791</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T12:18:43Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1ec92ac3-2ce5-477b-b782-773a6b790e87</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022976029</ProductCode>
+      <EAN>724022976029</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KT41 12GG 70%REC ME 30%WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.34</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

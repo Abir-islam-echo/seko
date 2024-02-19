@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9699</SequenceNumber>
+    <ToBePackedDate>2024-01-04T13:06:00Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T13:24:31Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T13:25:11Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>1175d2ec-2467-434d-8f38-b819e7084bae</DispatchId>
+    <CourierService/>
+    <Weight>0.71</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>AYAKO SUZUKI</ShipToAttention>
+    <DeliveryAddressLine1>3 chome, 20, 39 Asahi</DeliveryAddressLine1>
+    <InterfaceRecordId>7a1c23a4-c383-4cc2-a29f-9c0573b5ef2c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Okegawa</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>363-0023</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>JP</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>09091031186</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>korokke1506@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114044</SalesOrderNumber>
+    <SalesOrderReference>GE5255907559GB</SalesOrderReference>
+    <DispatchNumber>010136</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7816486366</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T12:25:23Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6bcc7177-0dcd-47e6-be52-331432163c59</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317515</ProductCode>
+      <EAN>731788317515</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2345 5GG 90% WO / 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4882eca3-50a4-4f5f-b390-89b262441472</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788319274</ProductCode>
+      <EAN>731788319274</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2320 16GG 100% MERINO WO BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10112</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:10:16Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:10:54Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d58d4b01-e027-4149-8718-0e9ed06a3c7c</DispatchId>
+    <CourierService/>
+    <Weight>1.3</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Barbara Myers</ShipToAttention>
+    <DeliveryAddressLine1>168 Morrison Avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>232015c5-5411-4599-b065-a9724e47add8</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Somerville</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02144</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(203) 4510156</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>barbarabrinkmyers@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114224</SalesOrderNumber>
+    <SalesOrderReference>GE5262703476GB</SalesOrderReference>
+    <DispatchNumber>010321</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1302833383</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:25:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9939bfff-78a9-4bd8-98df-8b92d9a78714</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022973615</ProductCode>
+      <EAN>724022973615</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS CREAM/BLUE S</ProductDescription>
+      <ProductColour>CREAM/BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a86c20d1-5048-433b-adbb-fd04503cb840</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788317577</ProductCode>
+      <EAN>731788317577</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2345 5GG 90% WO / 10% WS CREAM/MULTI S</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5462150d-5625-4972-b3b9-f1c3aab52309</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788316488</ProductCode>
+      <EAN>731788316488</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2336 3GG 90% WO 10% WS CREAM/PURE BLUE XS</ProductDescription>
+      <ProductColour>CREAM/PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10526</SequenceNumber>
+    <ToBePackedDate>2024-01-11T09:21:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T11:36:33Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:37:28Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>12172374-e2a7-4676-a1e5-bf043015e2c3</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Susanna Sych</ShipToAttention>
+    <DeliveryAddressLine1>Merlinweg 157</DeliveryAddressLine1>
+    <InterfaceRecordId>4c2d438f-c222-4c2f-969a-f7f0a06e1f92</InterfaceRecordId>
+    <DeliveryAddressLine2>157</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Cologne</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>50997</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>04901 622163119</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>susanna.sych@web.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114816</SalesOrderNumber>
+    <SalesOrderReference>GE5289870945GB</SalesOrderReference>
+    <DispatchNumber>010925</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155037548171057</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T09:10:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>512441ac-a79b-41ae-846d-f8cf072b5c0b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982099</ProductCode>
+      <EAN>724022982099</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK XS</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

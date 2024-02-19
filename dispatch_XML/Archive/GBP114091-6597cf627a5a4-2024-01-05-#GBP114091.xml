@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9840</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:29:30Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:31:58Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>8c399a7a-8ad1-4c12-9c54-23d7ac2d052d</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Beata Brandt</ShipToAttention>
+    <DeliveryAddressLine1>Holzweg 78 </DeliveryAddressLine1>
+    <InterfaceRecordId>adea135d-9b68-4450-a948-d93d72716f61</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Elmshorn</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>25337</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0176 31249241</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>beatabea@live.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114091</SalesOrderNumber>
+    <SalesOrderReference>GE5256942743GB</SalesOrderReference>
+    <DispatchNumber>010185</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036021584060</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:11:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0fb505a2-e593-4140-acad-8b31f6036211</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316853</ProductCode>
+      <EAN>731788316853</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2337 12GG 90% WO 10% WS BLUE/MULTI S</ProductDescription>
+      <ProductColour>BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

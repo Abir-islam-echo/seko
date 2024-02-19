@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10761</SequenceNumber>
+    <ToBePackedDate>2024-01-12T14:29:43Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T15:45:43Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T23:11:26Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193007029GB</TrackingUrl>
+    <DispatchId>a2f1e031-043c-4cbd-a8ee-13a9c00be175</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Natalia Pellizzoni</ShipToAttention>
+    <DeliveryAddressLine1>5 Hegan Road</DeliveryAddressLine1>
+    <InterfaceRecordId>61bd4503-e9a0-44c0-98bf-1dbedce54428</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Bishops Stortford</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>CM23 1EP</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>7729756421</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>natalyag.contrast@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115017</SalesOrderNumber>
+    <SalesOrderReference>5093446058062</SalesOrderReference>
+    <DispatchNumber>011162</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193007029GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T14:20:04Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6575ebbb-425d-472d-90bf-e14520e72029</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300227</ProductCode>
+      <EAN>731788300227</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2324 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

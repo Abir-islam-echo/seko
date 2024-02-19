@@ -1,0 +1,123 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10163</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:41:57Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:42:35Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>bfa50dc5-4984-41da-89b3-a29c69bbca52</DispatchId>
+    <CourierService/>
+    <Weight>1.01</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Juan Du</ShipToAttention>
+    <DeliveryAddressLine1>710 Gordon Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>815fe099-bf9d-493d-8682-31792c4853f1</InterfaceRecordId>
+    <DeliveryAddressLine2>606</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Saskatoon</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>S7T 0J6</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(639) 9940208</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>1944228217@qq.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114430</SalesOrderNumber>
+    <SalesOrderReference>GE5271421739GB</SalesOrderReference>
+    <DispatchNumber>010531</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8941578332</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:11:29Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2e99936d-6d69-4b2d-97fa-7100915fc402</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329495</ProductCode>
+      <EAN>731788329495</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TQ44 100% ORGANIC COTTON CREAM/NAVY/APPLE RED XS</ProductDescription>
+      <ProductColour>CREAM/NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5baa4b21-88ef-483e-b89c-0aa7e5940f9a</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327668</ProductCode>
+      <EAN>731788327668</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS SOFT TRUFFLE/CHARCOAL M</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>679e66fd-070e-4988-8212-22035933c7ad</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022973608</ProductCode>
+      <EAN>724022973608</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS CREAM/BLUE XS</ProductDescription>
+      <ProductColour>CREAM/BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>109a748e-9e40-4a31-a337-c7d52eb97b94</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022976005</ProductCode>
+      <EAN>724022976005</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KT41 12GG 70%REC ME 30%WS BLACK XS</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.34</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8e1d4bc4-2058-4508-8df1-19262b5507e2</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>724022977064</ProductCode>
+      <EAN>724022977064</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23109 12GG 70%REC ME 30%WS PINK ZINNIA/CARMINE XS</ProductDescription>
+      <ProductColour>PINK ZINNIA/CARMINE</ProductColour>
+      <ProductGrossWeight>0.15</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9301</SequenceNumber>
+    <ToBePackedDate>2024-01-01T09:37:00Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T09:50:27Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T09:54:33Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>dccefec1-4e14-42dd-83ae-1c85744fcd6a</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Hee yeon Sung</ShipToAttention>
+    <DeliveryAddressLine1>342 Hauser Boulevard</DeliveryAddressLine1>
+    <InterfaceRecordId>f571a8b6-8874-47d1-8453-bf472122de2e</InterfaceRecordId>
+    <DeliveryAddressLine2>416</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Los Angeles</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>90036</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2135454766</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sheey81@naver.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113718</SalesOrderNumber>
+    <SalesOrderReference>GE5241158224GB</SalesOrderReference>
+    <DispatchNumber>009790</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4154565844</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-01T09:34:00Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b03b88b4-fabd-4825-afbc-9cf1a13c651e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990407</ProductCode>
+      <EAN>724022990407</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS NAVY/BRIGHT PINK S</ProductDescription>
+      <ProductColour>NAVY/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2e79d0b8-12c2-4928-bd81-efae1046da15</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327675</ProductCode>
+      <EAN>731788327675</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS SOFT TRUFFLE/CHARCOAL L</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>398f5fb6-fb2d-498c-83ae-cf24e9ba4989</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788327668</ProductCode>
+      <EAN>731788327668</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS SOFT TRUFFLE/CHARCOAL M</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

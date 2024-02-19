@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10879</SequenceNumber>
+    <ToBePackedDate>2024-01-14T11:37:22Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T12:19:41Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T12:21:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>6bccafe2-e4a7-40a9-8e7a-39c1ebd3a997</DispatchId>
+    <CourierService/>
+    <Weight>0.63</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mara Cereda</ShipToAttention>
+    <DeliveryAddressLine1>Bofa</DeliveryAddressLine1>
+    <InterfaceRecordId>d0373c15-8d66-4321-b839-c812d3721db1</InterfaceRecordId>
+    <DeliveryAddressLine2>Via Alessandro Manzoni 5</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milano</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>20121</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 44 7976 283038</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>mara_cereda@uahoo.it</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115241</SalesOrderNumber>
+    <SalesOrderReference>GE5306682209GB</SalesOrderReference>
+    <DispatchNumber>011388</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042145270050</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T11:31:15Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>228735ec-2b0c-4106-ac87-4ae9b1df31b4</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989579</ProductCode>
+      <EAN>724022989579</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK M</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>92376f8f-3db4-4d78-9147-74fe99c232d1</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990308</ProductCode>
+      <EAN>724022990308</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK L</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

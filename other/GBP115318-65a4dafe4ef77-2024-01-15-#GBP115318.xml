@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10990</SequenceNumber>
+    <ToBePackedDate>2024-01-15T06:25:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:04:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:05:51Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>75e46935-7da3-42cc-9744-7de5f66d29c5</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Donatella Abruzzese</ShipToAttention>
+    <DeliveryAddressLine1>ABRUZZESE SRL</DeliveryAddressLine1>
+    <InterfaceRecordId>5530d70d-0001-4251-921c-19bcaf1c7f9a</InterfaceRecordId>
+    <DeliveryAddressLine2>Via Giam Battista Castelli 110</DeliveryAddressLine2>
+    <DeliveryAddressLine3>PT</DeliveryAddressLine3>
+    <DeliveryAddressCity>Altamura</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>70022</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>080 310 2300</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>didostores@hotmail.it</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115318</SalesOrderNumber>
+    <SalesOrderReference>GE5308932512GB</SalesOrderReference>
+    <DispatchNumber>011465</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214560927A</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:21:22Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e9fe6282-774d-46a1-9e1f-bab15af7e306</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989104</ProductCode>
+      <EAN>724022989104</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KK27B 5GG 90% WO / 10% WS CREAM/RED S</ProductDescription>
+      <ProductColour>CREAM/RED</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

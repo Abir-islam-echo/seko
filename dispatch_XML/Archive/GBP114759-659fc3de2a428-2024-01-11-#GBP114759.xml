@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10505</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T10:20:40Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T10:21:25Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f6b76e5c-d7dd-46c5-a9ee-405a2b227893</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jaclynn Daniels</ShipToAttention>
+    <DeliveryAddressLine1>4 Stuart Avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>411cbe7c-5ea2-4454-909e-651243a14cc8</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Toronto</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>M2N 1B1</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(647) 2093249</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jackie.d@rogers.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114759</SalesOrderNumber>
+    <SalesOrderReference>GE5286946977GB</SalesOrderReference>
+    <DispatchNumber>010869</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2542796115</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:07:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e7f57130-f844-4460-b832-02bebb623f71</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981733</ProductCode>
+      <EAN>724022981733</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS GREY MARL/CREAM/BLACK XS</ProductDescription>
+      <ProductColour>GREY MARL/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

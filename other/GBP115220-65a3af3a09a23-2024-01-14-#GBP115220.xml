@@ -1,0 +1,140 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10877</SequenceNumber>
+    <ToBePackedDate>2024-01-14T06:32:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T09:49:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T09:50:35Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9070d0db-588c-4ade-bf26-b070e6f778a6</DispatchId>
+    <CourierService/>
+    <Weight>2.35</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Margaret Sheridan</ShipToAttention>
+    <DeliveryAddressLine1>315 Midland Ave</DeliveryAddressLine1>
+    <InterfaceRecordId>16566dd5-dfe3-4d6d-bc11-24d710ec2f8f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Aspen</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>81611</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>9144798216</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sunier@mindspring.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115220</SalesOrderNumber>
+    <SalesOrderReference>GE5305806590GB</SalesOrderReference>
+    <DispatchNumber>011367</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1174515764</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:22:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7cc75c97-8b6e-41f6-b43d-acdb1040c405</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990230</ProductCode>
+      <EAN>724022990230</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS CREAM/GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>CREAM/GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8a39820d-e641-48fa-89fe-3e28099eeb06</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022979150</ProductCode>
+      <EAN>724022979150</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2415 7GG 100% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1b5b4b0d-dd6c-4e5c-9b6b-9617efb201a6</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022990353</ProductCode>
+      <EAN>724022990353</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a9822f70-b083-4919-9de6-a8364d896632</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022990056</ProductCode>
+      <EAN>724022990056</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>95d05c5d-887e-42fe-a3e2-6e5304140c27</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>724022990179</ProductCode>
+      <EAN>724022990179</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS NAVY/BLUE M</ProductDescription>
+      <ProductColour>NAVY/BLUE</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a1171aea-1185-4986-9a4d-fa35be8a0b5c</LineInterfaceRecordId>
+      <LineNumber>6</LineNumber>
+      <ProductCode>724022981214</ProductCode>
+      <EAN>724022981214</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KQ103 7GG 90% WO / 10% WS EDEN GREEN M</ProductDescription>
+      <ProductColour>EDEN GREEN</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

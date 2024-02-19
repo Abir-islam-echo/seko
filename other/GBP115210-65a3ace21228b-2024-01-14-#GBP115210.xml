@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10876</SequenceNumber>
+    <ToBePackedDate>2024-01-14T06:32:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T09:38:41Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T09:39:26Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>16ac54c5-d4f3-4a4a-a088-d5dea3c4feb1</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Annie Appleton</ShipToAttention>
+    <DeliveryAddressLine1>8 Schocroft Ave</DeliveryAddressLine1>
+    <InterfaceRecordId>88dae500-970d-40ab-9eb5-582dc8214a6b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>CRAFERS</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>5152</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0402144902</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>annie_a@optusnet.com.au</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115210</SalesOrderNumber>
+    <SalesOrderReference>GE5305283372GB</SalesOrderReference>
+    <DispatchNumber>011358</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1530663315</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:25:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6acd12c9-4d72-4c06-a926-4a60d52d2595</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972915</ProductCode>
+      <EAN>724022972915</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS NAVY S</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ae350d54-5175-4dbb-9ee3-64cede340904</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788320928</ProductCode>
+      <EAN>731788320928</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1907ER 12GG 90% WO 10% WS PURE BLUE/MULTI M</ProductDescription>
+      <ProductColour>PURE BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b158ac89-6bb5-42fc-9234-8f85c53742e0</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788327477</ProductCode>
+      <EAN>731788327477</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS SOFT TRUFFLE/CHARCOAL S</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

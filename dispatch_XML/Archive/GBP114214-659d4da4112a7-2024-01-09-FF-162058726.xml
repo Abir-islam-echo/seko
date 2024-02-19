@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10117</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:22:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:22:48Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4a66a71b-f055-44a7-ae36-b9bc229f5223</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Cristina Lorentz</ShipToAttention>
+    <DeliveryAddressLine1>847 Creekside Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>4b94db2f-a495-4a5d-8ca3-56f091f19bc7</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Waterloo</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>N2V 2S7</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(519) 4988385</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tlorenc027@rogers.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114214</SalesOrderNumber>
+    <SalesOrderReference>GE5262265327GB</SalesOrderReference>
+    <DispatchNumber>010311</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7075339526</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:26:36Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ed2d36a9-057f-4f93-897e-4d5db41b2956</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327774</ProductCode>
+      <EAN>731788327774</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS PINE/NAVY S</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e426e35c-3469-40a6-a594-93a6c139e876</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327767</ProductCode>
+      <EAN>731788327767</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS PINE/NAVY XS</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

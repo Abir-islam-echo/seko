@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10528</SequenceNumber>
+    <ToBePackedDate>2024-01-11T12:29:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T12:30:06Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T12:31:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>431925bd-347a-4e1d-8d25-61bfe600a2bf</DispatchId>
+    <CourierService/>
+    <Weight>0.38</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Hilary Heelan</ShipToAttention>
+    <DeliveryAddressLine1>Apartment 46 Milltown Hall</DeliveryAddressLine1>
+    <InterfaceRecordId>4b5ece23-df1b-422e-b6da-5e0d18562526</InterfaceRecordId>
+    <DeliveryAddressLine2>Mount Saint Annes</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milltown</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D06 C446</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>087 299 0163</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>h.heelan@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114831</SalesOrderNumber>
+    <SalesOrderReference>GE5289991613GB</SalesOrderReference>
+    <DispatchNumber>010940</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155037548289890</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T12:15:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>33e9ed24-98fa-4125-bc97-6c66c2d081f8</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300227</ProductCode>
+      <EAN>731788300227</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2324 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>96f7803f-dc8c-4a73-8199-79be8af20051</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788300371</ProductCode>
+      <EAN>731788300371</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

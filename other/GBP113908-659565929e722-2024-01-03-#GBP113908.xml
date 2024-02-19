@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9568</SequenceNumber>
+    <ToBePackedDate>2024-01-03T13:23:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T13:31:39Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T13:32:46Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>30356a65-91bd-4c56-ae69-bfa11e1c2c59</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jacqueline Lemminger</ShipToAttention>
+    <DeliveryAddressLine1>Casinostrasse 32</DeliveryAddressLine1>
+    <InterfaceRecordId>ff13b43b-2abb-4f11-a7e7-850cf3911db4</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Kelmis</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4728</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>BE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 49 176 20136279</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jacqueline.lemminger@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113908</SalesOrderNumber>
+    <SalesOrderReference>GE5251007507GB</SalesOrderReference>
+    <DispatchNumber>009994</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039887075480</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T13:21:19Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>04b2cfda-d9f7-43e1-aa84-eada6754cec2</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300470</ProductCode>
+      <EAN>731788300470</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b74c354c-2924-4d4d-82d3-40e0766a0284</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788317041</ProductCode>
+      <EAN>731788317041</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2344 12GG 90% WO 10% WS BLACK/CREAM M</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>161a04f4-9472-4ec4-82f9-24fd08beeefb</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788326449</ProductCode>
+      <EAN>731788326449</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

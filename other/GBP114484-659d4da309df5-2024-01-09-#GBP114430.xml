@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10164</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:50:03Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:47:06Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:47:51Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>efd1a8e5-9c9d-4f16-bff6-84d8d35248d1</DispatchId>
+    <CourierService/>
+    <Weight>0.39</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Larraine Rosner</ShipToAttention>
+    <DeliveryAddressLine1>15500 High Knoll Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>a9f33cf4-e34d-42a1-8e7a-e2d737655e03</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Encino</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>91436</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>8182195411</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>lzrosner@aol.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114484</SalesOrderNumber>
+    <SalesOrderReference>GE5274332418GB</SalesOrderReference>
+    <DispatchNumber>010587</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9673056422</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:33:42Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f28fcfbd-39f5-4036-a117-3c8e9f5dd25c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788318475</ProductCode>
+      <EAN>731788318475</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2318 7GG 100% WS POWDER PINK S</ProductDescription>
+      <ProductColour>POWDER PINK</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,37 @@
+.toll-card{
+    background: #02817c !important;
+}
+.toll-button{
+    background: #02817c !important;
+    color:white !important;
+}
+.toll-button:hover {
+    background: #0d918b  !important;
+}
+.toll-title{
+    color:white !important;
+}
+.toll-hover{
+    background-color: #1b1b28 !important;
+}
+.card-toll{
+    box-shadow: 0px 0px 30px 0px rgb(82 63 105 / 5%);
+}
+.toll-table{
+    border: 1px solid #ECF0F3;
+}
+.toll-table tr {
+    border: 1px solid #ECF0F3 !important;
+}
+.toll-cross{
+    color: #02817c !important; 
+}
+input::placeholder {
+    font-size: 13px;
+  }
+input{
+      /* text-transform: uppercase; */
+}
+#basic-addon3{
+letter-spacing: 1.5 px;
+  }

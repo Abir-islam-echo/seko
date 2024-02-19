@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10525</SequenceNumber>
+    <ToBePackedDate>2024-01-11T09:21:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T11:35:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:36:01Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>53ab2b20-0dd7-4964-acf1-1ab89dbe63e4</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>David Alegre</ShipToAttention>
+    <DeliveryAddressLine1>Sur 71B #156, El Prado Iztapalapa</DeliveryAddressLine1>
+    <InterfaceRecordId>fb5413f5-dcd3-485e-be9f-a1e208a95c0f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mexico City</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>09480</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>MX</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>525555390617</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>allegredavid@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114825</SalesOrderNumber>
+    <SalesOrderReference>GE5289951940GB</SalesOrderReference>
+    <DispatchNumber>010934</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4999721786</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T09:17:39Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1d64b594-9739-4fb8-a0fd-5acab2f6ff94</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312336</ProductCode>
+      <EAN>731788312336</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2355 7GG 90% WO 10% WS BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

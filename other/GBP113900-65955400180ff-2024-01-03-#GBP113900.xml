@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9565</SequenceNumber>
+    <ToBePackedDate>2024-01-03T12:21:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T12:28:55Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T12:29:42Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>94b31ce0-988a-4263-8108-700c24f8759f</DispatchId>
+    <CourierService/>
+    <Weight>0.65</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mari Stefano</ShipToAttention>
+    <DeliveryAddressLine1>80 w concord</DeliveryAddressLine1>
+    <InterfaceRecordId>1c409b6d-1aae-4aee-b0f8-243b366cb238</InterfaceRecordId>
+    <DeliveryAddressLine2>Apt 5</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Boston</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02118</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(315) 5594178</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>mari.stefano@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113900</SalesOrderNumber>
+    <SalesOrderReference>GE5250850464GB</SalesOrderReference>
+    <DispatchNumber>009986</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6393683015</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T12:15:55Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5da92535-2bcd-45f5-bd33-c3a79723b3cd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316426</ProductCode>
+      <EAN>731788316426</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2336 3GG 90% WO 10% WS ACID KIWI/WYSTERIA XS</ProductDescription>
+      <ProductColour>ACID KIWI/WYSTERIA</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

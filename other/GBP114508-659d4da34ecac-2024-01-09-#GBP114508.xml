@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10273</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T09:55:10Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T09:55:53Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>a27a385a-7ac0-40b3-b15a-97c093df216d</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ruth Hegarty</ShipToAttention>
+    <DeliveryAddressLine1>PJ Hegarty  Sons</DeliveryAddressLine1>
+    <InterfaceRecordId>72fbd1b8-6cf2-4f4d-a658-0769bacfc3ca</InterfaceRecordId>
+    <DeliveryAddressLine2>Carrolls Quay </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Cork</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>T23 DH67</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>087 972 5432</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ruth.hegarty@pjhegarty.ie</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114508</SalesOrderNumber>
+    <SalesOrderReference>GE5275396993GB</SalesOrderReference>
+    <DispatchNumber>010613</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8433362195</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:21:00Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ab1ba462-1749-4c15-a2cf-797d60060a18</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989807</ProductCode>
+      <EAN>724022989807</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS OATMEAL MEL/CORAL S</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

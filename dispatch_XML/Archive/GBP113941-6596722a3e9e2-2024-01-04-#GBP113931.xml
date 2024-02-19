@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9664</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T08:45:29Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T08:46:59Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>b79a449d-50ba-4def-9522-094b4ad61a7b</DispatchId>
+    <CourierService/>
+    <Weight>0.26</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Laura Barrera</ShipToAttention>
+    <DeliveryAddressLine1>9026 Trail Dust</DeliveryAddressLine1>
+    <InterfaceRecordId>02349ecf-eb98-42f1-816b-05fe2c91e7e5</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>San Antonio</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78254-4669</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2108336702</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>guaguis@sbcglobal.net</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113941</SalesOrderNumber>
+    <SalesOrderReference>GE5252155793GB</SalesOrderReference>
+    <DispatchNumber>010030</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3718852421</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:26:28Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ac98d83e-0be3-4ac2-a5f1-ba1bad180d24</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022974735</ProductCode>
+      <EAN>724022974735</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KQ78 12GG 90% WO / 10% WS PURE BLUE/MULTI LL</ProductDescription>
+      <ProductColour>PURE BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

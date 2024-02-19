@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10407</SequenceNumber>
+    <ToBePackedDate>2024-01-10T12:19:47Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-10T12:41:15Z</ToDispatchDate>
+    <DispatchDate>2024-01-10T12:47:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>10243c3c-c208-47a4-8635-ce215bdf3962</DispatchId>
+    <CourierService/>
+    <Weight>0.9</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nathalie Jaudel</ShipToAttention>
+    <DeliveryAddressLine1>4 Rue Martel</DeliveryAddressLine1>
+    <InterfaceRecordId>dffe7e81-cf4e-433d-b26c-b4a6b81dc5cb</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Paris</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>75010</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>33609449882</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>natjaudel@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114707</SalesOrderNumber>
+    <SalesOrderReference>GE5285432710GB</SalesOrderReference>
+    <DispatchNumber>010816</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754574857C</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T12:13:58Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b1ec5a67-1438-4032-8b21-58d16767e6b3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980088</ProductCode>
+      <EAN>724022980088</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY62 5GG 100% WS SOFT TRUFFLE LL</ProductDescription>
+      <ProductColour>SOFT TRUFFLE</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a6eed81f-7f01-4ad4-afc3-58d7909c63f0</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022980996</ProductCode>
+      <EAN>724022980996</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2319 5GG 100% WS NAVY LL</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10276</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T10:06:32Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T10:07:33Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>980a429f-00b7-4bce-aeef-9dda832f4e80</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Amel SAUCE</ShipToAttention>
+    <DeliveryAddressLine1>246 avenue Aristide Briand </DeliveryAddressLine1>
+    <InterfaceRecordId>1449e6f2-5334-4122-99d0-adb20caaa7fb</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>RoquebruneCapMartin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>06190</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>06 16 34 22 68</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>amel.ayed@orange.fr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114527</SalesOrderNumber>
+    <SalesOrderReference>GE5275961533GB</SalesOrderReference>
+    <DispatchNumber>010632</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036029974072</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:21:16Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7d39e1d2-8703-4e44-9734-c7f2bc125c81</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788318161</ProductCode>
+      <EAN>731788318161</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ218 12GG 100% WS PURE BLUE XS</ProductDescription>
+      <ProductColour>PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

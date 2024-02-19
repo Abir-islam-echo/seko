@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9678</SequenceNumber>
+    <ToBePackedDate>2024-01-04T11:36:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T11:51:36Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T11:54:06Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e03777a2-efb2-491d-ae5e-7ca543f62cf0</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ida Madsen</ShipToAttention>
+    <DeliveryAddressLine1>Jens Jessens Vej 6, 2.th</DeliveryAddressLine1>
+    <InterfaceRecordId>8d82037e-9470-4d47-a423-f68f6da32610</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Frederiksberg</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DK</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>42 50 03 07</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ida_madsen@yahoo.dk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114032</SalesOrderNumber>
+    <SalesOrderReference>GE5255704732GB</SalesOrderReference>
+    <DispatchNumber>010124</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602002681M</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T11:30:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>be64949a-6935-4ea0-acdf-53d337c02fa3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317539</ProductCode>
+      <EAN>731788317539</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2345 5GG 90% WO / 10% WS BLACK/MULTI L</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

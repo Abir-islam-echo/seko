@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10993</SequenceNumber>
+    <ToBePackedDate>2024-01-15T06:25:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:16:12Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:16:54Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>3ec35e6a-5389-4a11-8a75-0acac4153ff5</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Caroline Cha</ShipToAttention>
+    <DeliveryAddressLine1>90A Glen Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>19d54842-3b86-40b9-8a86-e5d16d6d2b94</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Toronto</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>M4W 2V6</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(416) 4567945</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>carolineisme@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115293</SalesOrderNumber>
+    <SalesOrderReference>GE5308176106GB</SalesOrderReference>
+    <DispatchNumber>011440</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1114032172</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:12:57Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>69e4cbcd-e9e2-4079-a535-6804da658d02</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316846</ProductCode>
+      <EAN>731788316846</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2337 12GG 90% WO 10% WS BLUE/MULTI XS</ProductDescription>
+      <ProductColour>BLUE/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ba244ed4-2b23-4c03-8c2b-6c39734d87b4</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972601</ProductCode>
+      <EAN>724022972601</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS MARIGOLD XS</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9553</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:31:34Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:32:29Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c27e68e1-5497-469e-93e9-a6871ce21c6d</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Brittany  Madrid</ShipToAttention>
+    <DeliveryAddressLine1>14610 West 49th Street</DeliveryAddressLine1>
+    <InterfaceRecordId>d7998b58-0f63-4e26-b56a-bcf4d31a48d4</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Shawnee</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>66216</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(214) 7295917</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>hello@b-zen.tv</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113840</SalesOrderNumber>
+    <SalesOrderReference>GE5247674296GB</SalesOrderReference>
+    <DispatchNumber>009927</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8630580814</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:10:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2f67e5a1-c665-40d4-b5dc-321c15a49d5c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312329</ProductCode>
+      <EAN>731788312329</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2355 7GG 90% WO 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9676</SequenceNumber>
+    <ToBePackedDate>2024-01-04T10:19:21Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T10:26:02Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T10:27:50Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4c92b754-f46a-41c9-9c06-4ec1ba6db001</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Anna  Ylisuvanto </ShipToAttention>
+    <DeliveryAddressLine1>Rosvgen 3</DeliveryAddressLine1>
+    <InterfaceRecordId>6f8b7a05-99d4-4de6-b515-46bdfc828987</InterfaceRecordId>
+    <DeliveryAddressLine2>3</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Kolmarden</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>61831</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>SE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>070289 90 92</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>anna@stmsweden.se</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114014</SalesOrderNumber>
+    <SalesOrderReference>GE5255402092GB</SalesOrderReference>
+    <DispatchNumber>010105</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988960304G</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T10:14:26Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cc2820dc-f9de-4eca-a676-3af4adf720c5</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990414</ProductCode>
+      <EAN>724022990414</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS NAVY/BRIGHT PINK M</ProductDescription>
+      <ProductColour>NAVY/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

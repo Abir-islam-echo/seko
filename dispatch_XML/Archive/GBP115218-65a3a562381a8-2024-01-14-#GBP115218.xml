@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10874</SequenceNumber>
+    <ToBePackedDate>2024-01-14T06:32:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T09:02:23Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T09:03:04Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9e30fb41-c642-4c60-a6b5-cb9f8165365a</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>kristin davtyan</ShipToAttention>
+    <DeliveryAddressLine1>44 Blossom Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>d055a691-8deb-4958-9967-fe6771f46100</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Cranston</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02920</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(951) 5050033</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>emnor7@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115218</SalesOrderNumber>
+    <SalesOrderReference>GE5305700375GB</SalesOrderReference>
+    <DispatchNumber>011365</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1174493493</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:29:50Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9fc27f73-5762-4f60-a0c5-044a6a123efd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990353</ProductCode>
+      <EAN>724022990353</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f5e3025d-dd54-4afa-8f68-8bbea7c0f222</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788328399</ProductCode>
+      <EAN>731788328399</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2396 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

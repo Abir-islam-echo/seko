@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10261</SequenceNumber>
+    <ToBePackedDate>2024-01-09T07:01:45Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T07:05:16Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T07:06:04Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>866e34be-7fcd-42ab-a0dc-d4f6632a0ef0</DispatchId>
+    <CourierService/>
+    <Weight>0.98</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Annie Appleton</ShipToAttention>
+    <DeliveryAddressLine1>8 Schocroft Avenue </DeliveryAddressLine1>
+    <InterfaceRecordId>a1accf2a-5415-4cca-a58a-069e8a86cb26</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Crafers</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>5152</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0402 144 902</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>annie_a@optusnet.com.au</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114576</SalesOrderNumber>
+    <SalesOrderReference>GE5279404451GB</SalesOrderReference>
+    <DispatchNumber>010682</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1797480296</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:57:16Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3e8234cb-3d68-4f79-9975-24e11dd34f27</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972014</ProductCode>
+      <EAN>724022972014</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS POPPY S</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5c38cfd3-d8cf-43a4-80f9-ae450440afc0</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972250</ProductCode>
+      <EAN>724022972250</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS POPPY S</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d3e747cf-d238-408c-995c-ca4a0e137698</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022972977</ProductCode>
+      <EAN>724022972977</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS POPPY S</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3e343806-6b2f-4cc0-b229-84064f764738</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788327538</ProductCode>
+      <EAN>731788327538</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS NAVY/SAFFRON S</ProductDescription>
+      <ProductColour>NAVY/SAFFRON</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

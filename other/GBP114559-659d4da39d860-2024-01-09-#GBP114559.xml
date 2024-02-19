@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10295</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T11:13:37Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T11:14:17Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>334943ac-7723-4ca1-9af1-c4885c071c6a</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kirstin  Hayes</ShipToAttention>
+    <DeliveryAddressLine1>25 Ocean View Road</DeliveryAddressLine1>
+    <InterfaceRecordId>8e8c58e3-f917-430d-9c38-c1f9b0092ace</InterfaceRecordId>
+    <DeliveryAddressLine2>Milford</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Auckland</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>0620</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NZ</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>021 509 002</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kirstin.hayes@xtra.co.nz</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114559</SalesOrderNumber>
+    <SalesOrderReference>GE5278146167GB</SalesOrderReference>
+    <DispatchNumber>010664</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>9295786905</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:19:58Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>894b38a0-37e4-4436-adf5-38146116afa6</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327736</ProductCode>
+      <EAN>731788327736</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS NAVY/SAFFRON L</ProductDescription>
+      <ProductColour>NAVY/SAFFRON</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9e99384c-f570-4b8b-ba27-5adfd7d8477b</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022971338</ProductCode>
+      <EAN>724022971338</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2382 12GG 90% WO / 10% WS POPPY 3L</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

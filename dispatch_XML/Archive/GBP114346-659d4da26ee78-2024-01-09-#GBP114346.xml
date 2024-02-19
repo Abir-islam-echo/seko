@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10109</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:06:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:07:30Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>a75cb72e-f4eb-4e44-a261-415d53e9df9b</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sayaka Furuyama</ShipToAttention>
+    <DeliveryAddressLine1>2510 30th Road</DeliveryAddressLine1>
+    <InterfaceRecordId>1a44460c-3928-43f9-9e32-a7b0cee7495f</InterfaceRecordId>
+    <DeliveryAddressLine2>Apt 1P</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Queens</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11102</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(917) 5018953</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sayakaf@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114346</SalesOrderNumber>
+    <SalesOrderReference>GE5267436979GB</SalesOrderReference>
+    <DispatchNumber>010445</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4598204214</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:29:09Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7abf9f20-f733-4731-84ec-d92cf9701f24</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327729</ProductCode>
+      <EAN>731788327729</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS NAVY/SAFFRON M</ProductDescription>
+      <ProductColour>NAVY/SAFFRON</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3fa6ef7c-80a9-4aab-949e-e49b819a130b</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327668</ProductCode>
+      <EAN>731788327668</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS SOFT TRUFFLE/CHARCOAL M</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

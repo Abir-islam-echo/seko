@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10099</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T10:16:11Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T10:17:31Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5d8c5758-8042-4b92-ad0a-bbb4c7d2a93b</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sarah Daly Mulcahy</ShipToAttention>
+    <DeliveryAddressLine1>Chinese International School</DeliveryAddressLine1>
+    <InterfaceRecordId>e9dbe9e3-7e7e-43a3-af62-ddc4d7bbe353</InterfaceRecordId>
+    <DeliveryAddressLine2>Chinese International School</DeliveryAddressLine2>
+    <DeliveryAddressLine3>1 Hau Yuen Path</DeliveryAddressLine3>
+    <DeliveryAddressCity>Braemar Hill, Hong Kong</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>HK</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>852 6909 1273</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>slmulcahy@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114380</SalesOrderNumber>
+    <SalesOrderReference>GE5269903592GB</SalesOrderReference>
+    <DispatchNumber>010481</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1752017352</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:30:00Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b298716b-0350-4ed7-948a-037dc490f76a</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022971307</ProductCode>
+      <EAN>724022971307</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2382 12GG 90% WO / 10% WS POPPY M</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>dd81f972-b75a-4d0a-8df8-0176bd164fbf</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321765</ProductCode>
+      <EAN>731788321765</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS HOT PINK M</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

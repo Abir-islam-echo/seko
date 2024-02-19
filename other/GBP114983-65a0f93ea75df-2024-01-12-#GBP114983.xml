@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10693</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:40:21Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:21:49Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:27:23Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5ae0ed0f-69be-468a-85fd-29d709604d6f</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Carole Franchi</ShipToAttention>
+    <DeliveryAddressLine1>4 Gumwood Pl</DeliveryAddressLine1>
+    <InterfaceRecordId>f7638575-e264-4232-ae9a-d3a79d7a05d8</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Stoney Creek</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>L8J 2K7</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>9059282214</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>caroleminime@yahoo.ca</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114983</SalesOrderNumber>
+    <SalesOrderReference>GE5294344294GB</SalesOrderReference>
+    <DispatchNumber>011098</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1446882371</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:35:29Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9038fdd6-181c-4d3d-a471-d55affa60b03</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788306939</ProductCode>
+      <EAN>731788306939</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2347 12GG 90% W / 10% WS DENIM BLUE XS</ProductDescription>
+      <ProductColour>DENIM BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cd022239-1a03-4db3-98ff-661f343ce86a</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788306830</ProductCode>
+      <EAN>731788306830</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2347 12GG 90% W / 10% WS BUBBLEGUM XS</ProductDescription>
+      <ProductColour>BUBBLEGUM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c7699b25-4187-4f4f-92cd-01798a3948db</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788323486</ProductCode>
+      <EAN>731788323486</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2325 12GG 90% WO / 10% WS JUNGLE GREEN XS</ProductDescription>
+      <ProductColour>JUNGLE GREEN</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3dc5a139-070c-42ef-9ab5-8b97bff574e9</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022981986</ProductCode>
+      <EAN>724022981986</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI S</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

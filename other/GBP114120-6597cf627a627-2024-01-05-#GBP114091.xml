@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9841</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:32:28Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:34:20Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>70e18aef-e26d-4a48-abd0-1fcc1e7abda1</DispatchId>
+    <CourierService/>
+    <Weight>0.3</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Rita Lynn</ShipToAttention>
+    <DeliveryAddressLine1>206 Piping Rock Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>23155c73-4ba7-43ed-ad7c-06b324a3f681</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Locust Valley</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11560</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(310) 4908175</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>doc.rita@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114120</SalesOrderNumber>
+    <SalesOrderReference>GE5257736397GB</SalesOrderReference>
+    <DispatchNumber>010214</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1865675066</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:18:39Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>76aac874-f51a-4e24-b1ee-4d160ce475d5</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788328726</ProductCode>
+      <EAN>731788328726</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY08 7GG 90% W 10%WS BLACK/CREAM 3L</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.3</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

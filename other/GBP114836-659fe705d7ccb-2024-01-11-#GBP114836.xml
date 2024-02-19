@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10534</SequenceNumber>
+    <ToBePackedDate>2024-01-11T12:29:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T12:52:58Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T12:53:37Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>221f5da9-8506-4ab7-845a-f055fca07061</DispatchId>
+    <CourierService/>
+    <Weight>0.7</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Monique  Dickerson</ShipToAttention>
+    <DeliveryAddressLine1>187 Tanjong Rhu Road</DeliveryAddressLine1>
+    <InterfaceRecordId>1519e5b3-a307-4940-bb94-c612f21f5ab4</InterfaceRecordId>
+    <DeliveryAddressLine2>#1406 Sanctuary Green</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Singapore</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>436925</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>SG</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>6585307963</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>monique.dickerson@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114836</SalesOrderNumber>
+    <SalesOrderReference>GE5290043023GB</SalesOrderReference>
+    <DispatchNumber>010945</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5828862270</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T12:18:10Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ffba7d1f-4b87-4d01-bbc2-d647efe7c4bf</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788328573</ProductCode>
+      <EAN>731788328573</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY07 5GG 90% W 10% WS BLACK/CREAM M</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.4</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>29876caa-e8ef-4edb-929c-0fc2ffb64ff0</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788328702</ProductCode>
+      <EAN>731788328702</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY08 7GG 90% W 10%WS BLACK/CREAM L</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.3</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

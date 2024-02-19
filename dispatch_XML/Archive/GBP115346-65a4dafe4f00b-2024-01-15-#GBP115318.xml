@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10991</SequenceNumber>
+    <ToBePackedDate>2024-01-15T06:25:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:08:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:09:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d880c88c-d685-4e29-acf7-86146f5b081f</DispatchId>
+    <CourierService/>
+    <Weight>0.48</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ilaria Rigonat</ShipToAttention>
+    <DeliveryAddressLine1>Strada dei prati 7</DeliveryAddressLine1>
+    <InterfaceRecordId>0db53f08-0185-4231-a6d5-c3030447e033</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Moruzzo</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>33030</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>349 588 1616</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ilaria.rigonat@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115346</SalesOrderNumber>
+    <SalesOrderReference>GE5309789313GB</SalesOrderReference>
+    <DispatchNumber>011493</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214566248Q</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:14:36Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7d47104d-7ebe-4712-a10d-cf2c536b649e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322779</ProductCode>
+      <EAN>731788322779</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>94f1727d-a53a-4414-a81c-e6e0728f0313</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321444</ProductCode>
+      <EAN>731788321444</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

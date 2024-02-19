@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10279</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T10:24:10Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T10:25:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d8e552fb-a2f8-40f6-9cc0-e0289f6de794</DispatchId>
+    <CourierService/>
+    <Weight>0.38</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Bernardina Ribeiro</ShipToAttention>
+    <DeliveryAddressLine1>Praca da Republica, 20</DeliveryAddressLine1>
+    <InterfaceRecordId>6fc6728c-a38c-41e4-b890-0c3e6953e598</InterfaceRecordId>
+    <DeliveryAddressLine2>2 ESQ</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Porto</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4050-495</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>PT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>931 350 616</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>bernardinamr@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114574</SalesOrderNumber>
+    <SalesOrderReference>GE5278965720GB</SalesOrderReference>
+    <DispatchNumber>010680</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754112813X</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:27:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ddc80abd-56fd-4180-9552-c48ff1f0bcb2</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300500</ProductCode>
+      <EAN>731788300500</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 90% W / 10% WS ELECTRIC BLUE XS</ProductDescription>
+      <ProductColour>ELECTRIC BLUE</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

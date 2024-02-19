@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10813</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:48:44Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:49:27Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>512c7599-9a5a-44f5-9867-0feb555b65ac</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Luigia Abramovici</ShipToAttention>
+    <DeliveryAddressLine1>67 Groton Street</DeliveryAddressLine1>
+    <InterfaceRecordId>af6ed853-97b0-486b-b864-ee1ae4f3362e</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Forest Hills</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11375</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(917) 8228748</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>luigia52@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115098</SalesOrderNumber>
+    <SalesOrderReference>GE5300502242GB</SalesOrderReference>
+    <DispatchNumber>011246</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5603355634</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:14:54Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cbdf995e-8b16-496a-861f-03cd069f1bed</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327613</ProductCode>
+      <EAN>731788327613</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS PINE/NAVY L</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c3f3d93b-c0d7-4519-a9c9-6ea48ca94bcb</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022978917</ProductCode>
+      <EAN>724022978917</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2412 12GG 90% WO 10% WS CREAM MULTI S</ProductDescription>
+      <ProductColour>CREAM MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

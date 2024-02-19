@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10695</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:35:48Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:37:42Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c291dd63-35fe-4ed3-a8c9-962489931201</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jenny  Chang</ShipToAttention>
+    <DeliveryAddressLine1>200 East 83rd Street</DeliveryAddressLine1>
+    <InterfaceRecordId>17006be3-dd5d-407e-a087-a650e4da0de2</InterfaceRecordId>
+    <DeliveryAddressLine2>17B</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>New York</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10028</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(201) 5606779</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jiyunl328@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114891</SalesOrderNumber>
+    <SalesOrderReference>GE5291105949GB</SalesOrderReference>
+    <DispatchNumber>011006</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2300959356</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:43:42Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5cf20f3f-25e4-4a1b-afef-dc589479df16</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327590</ProductCode>
+      <EAN>731788327590</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS PINE/NAVY S</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

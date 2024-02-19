@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10809</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:28:55Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:32:23Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e9fc8a86-9ed7-4498-960d-4c8c24b0d139</DispatchId>
+    <CourierService/>
+    <Weight>0.68</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tina Saratsopoulou</ShipToAttention>
+    <DeliveryAddressLine1>Kalpakiou 19</DeliveryAddressLine1>
+    <InterfaceRecordId>ecdb9982-920c-4a2e-b783-6429034aea97</InterfaceRecordId>
+    <DeliveryAddressLine2>Psichiko</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Attiki</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>154 52</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00306936845615</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tinsar75@yahoo.gr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115063</SalesOrderNumber>
+    <SalesOrderReference>GE5298030488GB</SalesOrderReference>
+    <DispatchNumber>011213</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042144078571</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:08:14Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>65c446f1-5185-4cc4-8259-10d66ee48ec9</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321574</ProductCode>
+      <EAN>731788321574</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY S</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7c7836bf-605b-483b-a27e-859ff7152589</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322540</ProductCode>
+      <EAN>731788322540</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>999731a9-778e-462a-a1ef-293da6128b54</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022972021</ProductCode>
+      <EAN>724022972021</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% W / 10% WS POPPY M</ProductDescription>
+      <ProductColour>POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

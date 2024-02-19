@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10703</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T09:12:45Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T09:15:01Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f48dfd62-febe-4e49-b924-ba7c9d2ab44b</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Michael Dusseault</ShipToAttention>
+    <DeliveryAddressLine1>952400 Webb Place</DeliveryAddressLine1>
+    <InterfaceRecordId>a32868a1-1909-4228-9901-977a597e8c68</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Winnipeg</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>R3B 3J3</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2048993992</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>askkimberleyducey@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114959</SalesOrderNumber>
+    <SalesOrderReference>GE5293354312GB</SalesOrderReference>
+    <DispatchNumber>011074</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5295575762</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:46:30Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>819d194b-f1b3-48aa-a392-96e367fdf13e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981962</ProductCode>
+      <EAN>724022981962</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2402 12GG 90% WO / 10% WS TIDAL BLUE/CREAM/BLACK 3L</ProductDescription>
+      <ProductColour>TIDAL BLUE/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10816</SequenceNumber>
+    <ToBePackedDate>2024-01-13T11:43:25Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T12:26:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T12:26:46Z</DispatchDate>
+    <TrackingUrl>http://www.dpd.co.uk/apps/tracking/?reference=15504214468225</TrackingUrl>
+    <DispatchId>d35e57e7-15d8-4d29-8ca6-b8bdbe43100c</DispatchId>
+    <CourierService>DPD NEXT DAY</CourierService>
+    <Weight>0.98</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Heather Maginnis</ShipToAttention>
+    <DeliveryAddressLine1>34 Clogher Road</DeliveryAddressLine1>
+    <InterfaceRecordId>e669eab5-bbe2-4481-bec2-7b79ca6a0225</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Hillsborough</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>BT26 6PJ</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>07808 399070</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>heather.maginnis@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#CPT-1288</SalesOrderNumber>
+    <SalesOrderReference>5100944818347</SalesOrderReference>
+    <DispatchNumber>011268</DispatchNumber>
+    <CourierName>DPD</CourierName>
+    <CourierRef>15504214468225</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T11:33:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1ac4cd84-ecc0-4d1c-a22d-d9e3f8618415</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>728238991500</ProductCode>
+      <EAN>728238991500</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>Bardot-Blue Striped Cotton Sweater Test</ProductDescription>
+      <ProductColour>TIDAL BLUE/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

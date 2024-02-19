@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9444</SequenceNumber>
+    <ToBePackedDate>2024-01-02T07:04:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T08:58:27Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T08:59:10Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>74a14a25-fa19-4c95-8f33-f244d77aa438</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Caroline  ONeill</ShipToAttention>
+    <DeliveryAddressLine1>1845 Baseline Road</DeliveryAddressLine1>
+    <InterfaceRecordId>a58021fa-1809-4b25-a46a-324e23edfa3b</InterfaceRecordId>
+    <DeliveryAddressLine2>526</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Ottawa</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>K2C 3K4</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(613) 8986507</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>caroline.grace.oneill@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113773</SalesOrderNumber>
+    <SalesOrderReference>GE5243688566GB</SalesOrderReference>
+    <DispatchNumber>009847</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8731124220</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T07:03:53Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e8eb542e-6f40-4938-b5f4-22dc4da4c8bc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329969</ProductCode>
+      <EAN>731788329969</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2399 12GG 90% WO / 10% WS NAVY/APPLE RED S</ProductDescription>
+      <ProductColour>NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

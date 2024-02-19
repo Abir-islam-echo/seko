@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11175</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:38:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T08:08:39Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T08:09:27Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>6a387869-2592-473f-badc-757a977a6009</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Anamaria Orhei</ShipToAttention>
+    <DeliveryAddressLine1>1102 elm st</DeliveryAddressLine1>
+    <InterfaceRecordId>708129d8-1b01-473a-86ec-ad0007aa641b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Wisconsin Dells</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>53965</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>6088440621</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>aorhei@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115448</SalesOrderNumber>
+    <SalesOrderReference>GE5315504941GB</SalesOrderReference>
+    <DispatchNumber>011604</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4103572222</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:33:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>110a4108-08c8-44d7-839f-13d46d799ea3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312121</ProductCode>
+      <EAN>731788312121</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2353 12GG 90% WO 10% WS PINK M</ProductDescription>
+      <ProductColour>PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

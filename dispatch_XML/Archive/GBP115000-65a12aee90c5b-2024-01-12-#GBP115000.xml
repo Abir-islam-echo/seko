@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10705</SequenceNumber>
+    <ToBePackedDate>2024-01-12T10:45:24Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T11:50:22Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T11:53:29Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>386bae2f-670d-4293-af91-6aac11bc166a</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>monica beer</ShipToAttention>
+    <DeliveryAddressLine1>reisstrasse 3</DeliveryAddressLine1>
+    <InterfaceRecordId>544be39a-95c6-4566-bcef-bba7fe3a08e4</InterfaceRecordId>
+    <DeliveryAddressLine2>Lieferadresse deutschland</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Konstanz</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78467</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 41 79 279 99 37</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>monica.beer@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115000</SalesOrderNumber>
+    <SalesOrderReference>GE5295587640GB</SalesOrderReference>
+    <DispatchNumber>011117</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214185706G</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T10:28:58Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>bbb3e949-9818-45d2-8e6b-18024b6f1320</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989753</ProductCode>
+      <EAN>724022989753</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1f3b6514-0b3f-4220-8c3b-a6f9d76f1812</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990353</ProductCode>
+      <EAN>724022990353</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

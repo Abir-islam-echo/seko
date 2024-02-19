@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10530</SequenceNumber>
+    <ToBePackedDate>2024-01-11T12:29:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T12:37:15Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T12:37:56Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>764f8749-ddcc-4429-8f1e-9f0bbff0787d</DispatchId>
+    <CourierService/>
+    <Weight>0.9</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Alessandra Morra</ShipToAttention>
+    <DeliveryAddressLine1>Chemin de Marly 5</DeliveryAddressLine1>
+    <InterfaceRecordId>b995322e-c559-44a3-a600-64dbe2769530</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>CollongeBellerive</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1245</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>079 947 63 30</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ninetosix@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114837</SalesOrderNumber>
+    <SalesOrderReference>GE5290081532GB</SalesOrderReference>
+    <DispatchNumber>010946</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3808646376</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T12:13:24Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6c5db7c2-2238-4426-b539-e23f5ac1c5f3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>706502203818</ProductCode>
+      <EAN>706502203818</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ215 CASHMERE GREY S</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.31</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c720ab5f-f14c-40e6-92aa-641d9e5430bb</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022973073</ProductCode>
+      <EAN>724022973073</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>NAW2301 100% CO CREAM/MULTI S</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.35</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>beb36198-b567-4ad5-a45d-e193553d12e8</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022982389</ProductCode>
+      <EAN>724022982389</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TSS2401 100% CO CREAM/MULTI XS</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6529b7df-58d2-4538-a47b-4d5c02976bf3</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022982396</ProductCode>
+      <EAN>724022982396</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TSS2401 100% CO CREAM/MULTI S</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

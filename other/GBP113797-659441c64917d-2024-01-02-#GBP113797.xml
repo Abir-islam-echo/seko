@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9466</SequenceNumber>
+    <ToBePackedDate>2024-01-02T15:18:36Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T16:49:24Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T16:51:47Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>71d2d1a5-bec4-4baf-bd4d-83f551a34c89</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Fabrizia Da Giau</ShipToAttention>
+    <DeliveryAddressLine1>Via Cartoleria 17</DeliveryAddressLine1>
+    <InterfaceRecordId>ed8353a0-c3f9-48b9-a43c-e2c59d3ed33c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Bologna</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>40124</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>335 785 6380</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>fdagiau@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113797</SalesOrderNumber>
+    <SalesOrderReference>GE5245875528GB</SalesOrderReference>
+    <DispatchNumber>009874</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039882886760</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T15:14:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>463370aa-ed06-48ff-835a-0819b08aad41</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990452</ProductCode>
+      <EAN>724022990452</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS OATMEAL MEL/CORAL XS</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

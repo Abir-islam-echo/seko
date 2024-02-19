@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9713</SequenceNumber>
+    <ToBePackedDate>2024-01-04T18:02:02Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T20:15:01Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T20:48:38Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>906aae0d-7bd4-471d-82e9-2c18975fc705</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sean Langan</ShipToAttention>
+    <DeliveryAddressLine1>199 Victory Ship Way, Suite 1207</DeliveryAddressLine1>
+    <InterfaceRecordId>80884847-d2e1-4976-9a2f-f32a0e7cf05a</InterfaceRecordId>
+    <DeliveryAddressLine2>Buzzer 3106</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>North Vancouver</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>V7L 0E2</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CA</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(647) 2354557</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sandrayc@me.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114100</SalesOrderNumber>
+    <SalesOrderReference>GE5257166037GB</SalesOrderReference>
+    <DispatchNumber>010194</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>7601652892</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T17:54:01Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ac057512-9f14-495a-afa8-cc5fa96bf5d7</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989746</ProductCode>
+      <EAN>724022989746</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK S</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

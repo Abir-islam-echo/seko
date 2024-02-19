@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10103</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:34:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:35:49Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4c39b0dd-ab0b-4e8b-a807-eb6a6f1f069b</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nina Springsguth</ShipToAttention>
+    <DeliveryAddressLine1>Rotkehlchenweg 7a</DeliveryAddressLine1>
+    <InterfaceRecordId>2647ef3b-5b7c-4249-9b4e-9fc76aba04ec</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Leipzig</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>04159</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0176 66874623</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>nina.struessmann@gmx.net</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114286</SalesOrderNumber>
+    <SalesOrderReference>GE5265504545GB</SalesOrderReference>
+    <DispatchNumber>010385</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036025857929</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:28:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>311f202b-b72d-4ab2-96f8-2e4add8fae03</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022970706</ProductCode>
+      <EAN>724022970706</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23105 12GG 90% WO / 10% WS FLAMINGO PINK/POPPY M</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>15ae3fd1-5126-4965-aeeb-443db3d75dea</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022970621</ProductCode>
+      <EAN>724022970621</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23106 12GG 90% WO 10% WS FLAMINGO PINK/POPPY M</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

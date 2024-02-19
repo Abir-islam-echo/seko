@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9550</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:22:48Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:23:46Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>a91f364b-68c6-411d-a8fb-fdb80264e5c7</DispatchId>
+    <CourierService/>
+    <Weight>0.65</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Karen Oddo</ShipToAttention>
+    <DeliveryAddressLine1>3809 Valley View Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>c7dc8a54-0184-4cf4-8a0f-ffdd4d85f340</InterfaceRecordId>
+    <DeliveryAddressLine2>Bldg 9</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Austin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>78704</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(716) 5632362</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>koddo86@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113803</SalesOrderNumber>
+    <SalesOrderReference>GE5246142860GB</SalesOrderReference>
+    <DispatchNumber>009880</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5059945343</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:13:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>11f7b9df-2b4e-4336-a878-c94ec8a6a4ba</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788316426</ProductCode>
+      <EAN>731788316426</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2336 3GG 90% WO 10% WS ACID KIWI/WYSTERIA XS</ProductDescription>
+      <ProductColour>ACID KIWI/WYSTERIA</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

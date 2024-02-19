@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9837</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:46Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:18:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:20:46Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>eed30e02-d3cc-482f-a29a-23dd81683d11</DispatchId>
+    <CourierService/>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Georgia Brammer</ShipToAttention>
+    <DeliveryAddressLine1>unit 409 655 King Street</DeliveryAddressLine1>
+    <InterfaceRecordId>606d04c9-d0b5-4aed-899d-baf45cb3b00b</InterfaceRecordId>
+    <DeliveryAddressLine2>409</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Saint Peters</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2044</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0409 810 269</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>georgiabrammer@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114156</SalesOrderNumber>
+    <SalesOrderReference>GE5259672420GB</SalesOrderReference>
+    <DispatchNumber>010250</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1128427731</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:23:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>989e74c9-a597-4f0b-923f-714d80aaea3c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788314873</ProductCode>
+      <EAN>731788314873</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2305 100% CO CREAM LL</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

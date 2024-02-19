@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9844</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:46:06Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:48:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f27fa0f8-4eaa-4833-8062-d5e712b0c121</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>ILARIA RIGONAT</ShipToAttention>
+    <DeliveryAddressLine1>STRADA DEI PRATI 7</DeliveryAddressLine1>
+    <InterfaceRecordId>ae020495-bec3-456d-9ebf-ab0bbbf98d72</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>MORUZZO</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>33030</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>3495881616</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ilaria.rigonat@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114134</SalesOrderNumber>
+    <SalesOrderReference>GE5258463509GB</SalesOrderReference>
+    <DispatchNumber>010228</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036022236473</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:14:30Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ab233272-23dc-441f-aa8a-45f9eade56ec</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989814</ProductCode>
+      <EAN>724022989814</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS OATMEAL MEL/CORAL M</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

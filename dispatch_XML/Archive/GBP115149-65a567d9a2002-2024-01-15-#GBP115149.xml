@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11055</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T16:58:51Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:01:17Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>92a4c660-42df-4be0-b6d5-d2f38db4af98</DispatchId>
+    <CourierService/>
+    <Weight>0.04</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Catherine Eustace</ShipToAttention>
+    <DeliveryAddressLine1>Shournagh Hampstead </DeliveryAddressLine1>
+    <InterfaceRecordId>273c4cc2-f9ef-4cbe-999e-45d465422302</InterfaceRecordId>
+    <DeliveryAddressLine2>Glasnevin</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D09 W5W5</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>086 773 4072</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>catherine.eustace@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115149</SalesOrderNumber>
+    <SalesOrderReference>GE5302415373GB</SalesOrderReference>
+    <DispatchNumber>011298</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042144866274</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:39:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2f59ef7f-f187-41e1-8b13-31c78ab90bab</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788324667</ProductCode>
+      <EAN>731788324667</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>AAW2308 7GG 90% WO / 10% WS GREY OS</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.04</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

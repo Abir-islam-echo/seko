@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10807</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:20:44Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:24:01Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>b90859e8-8015-4243-bc6e-44db9fae6d07</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Caroline Fournier</ShipToAttention>
+    <DeliveryAddressLine1>23 </DeliveryAddressLine1>
+    <InterfaceRecordId>1b830c14-0bc1-44c2-8ac4-11ec4d465827</InterfaceRecordId>
+    <DeliveryAddressLine2>Rue du Commandant Riviere </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Colombes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>92700</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>06 82 99 41 68</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>caroline1fournier@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115034</SalesOrderNumber>
+    <SalesOrderReference>GE5296746596GB</SalesOrderReference>
+    <DispatchNumber>011184</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214309123R</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:12:50Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a6f0ccbb-7ded-4aef-bceb-c71b47901b21</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980156</ProductCode>
+      <EAN>724022980156</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TPS2402 100% ORGANIC COTTON CREAM S</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9232d51e-5ad2-41b8-986c-aed0a271e589</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022989982</ProductCode>
+      <EAN>724022989982</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO / 10% WS CORAL/CREAM/BRIGHT PINK S</ProductDescription>
+      <ProductColour>CORAL/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

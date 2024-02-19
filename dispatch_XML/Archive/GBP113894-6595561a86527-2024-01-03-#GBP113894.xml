@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9566</SequenceNumber>
+    <ToBePackedDate>2024-01-03T12:21:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T12:32:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T12:33:05Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>684c9f2f-32da-47e8-9ca8-53457b15c804</DispatchId>
+    <CourierService/>
+    <Weight>0.68</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tatjana Lempert </ShipToAttention>
+    <DeliveryAddressLine1>Alemannenstrae 33</DeliveryAddressLine1>
+    <InterfaceRecordId>fe157024-91e5-4a90-9c2e-55efda251486</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Koblenz</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>56072</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 49 170 8349242</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tatjana_2003@yahoo.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113894</SalesOrderNumber>
+    <SalesOrderReference>GE5250684497GB</SalesOrderReference>
+    <DispatchNumber>009980</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039886549345</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T12:14:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>83c955f0-37f5-4706-afd7-2d84811fb7c4</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788307196</ProductCode>
+      <EAN>731788307196</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2348 12GG 90% W / 10% WS DENIM BLUE S</ProductDescription>
+      <ProductColour>DENIM BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a22a07a0-8607-4de8-bb4b-98a6547c77d5</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321444</ProductCode>
+      <EAN>731788321444</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>52d03338-dc5b-4ee5-9d55-da56ae8f1f48</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788322779</ProductCode>
+      <EAN>731788322779</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS TEAL S</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

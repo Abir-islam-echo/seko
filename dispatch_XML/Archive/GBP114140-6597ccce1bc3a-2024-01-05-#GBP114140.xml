@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9838</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:48Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:25:09Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:26:40Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>ba8ec918-8fd0-4708-a8dc-52e8595e2d81</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Yayoi Vickovic</ShipToAttention>
+    <DeliveryAddressLine1>3709 South Anchovy Avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>a5cc2d1b-4dea-4eff-9f37-4f60d31b1c59</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>San pedro</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>90732</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(571) 5940444</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ramble_say0u@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114140</SalesOrderNumber>
+    <SalesOrderReference>GE5258696891GB</SalesOrderReference>
+    <DispatchNumber>010234</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8351917221</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:25:33Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>99c84527-2615-4f0d-b2e4-c2f98bdbf409</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982112</ProductCode>
+      <EAN>724022982112</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK M</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

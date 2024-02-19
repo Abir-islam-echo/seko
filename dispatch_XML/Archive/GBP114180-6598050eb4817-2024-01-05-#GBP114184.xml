@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9861</SequenceNumber>
+    <ToBePackedDate>2024-01-05T13:13:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T13:26:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T13:27:53Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c736492c-5ea1-4b7c-8604-141214930524</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Elena Degl Innocenti </ShipToAttention>
+    <DeliveryAddressLine1>Eulerstrasse 62</DeliveryAddressLine1>
+    <InterfaceRecordId>be375ea2-6db1-4e13-9577-83aacb220185</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Basel</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4051</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 41 79 259 79 24</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>deglinnocentielena@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114180</SalesOrderNumber>
+    <SalesOrderReference>GE5260930995GB</SalesOrderReference>
+    <DispatchNumber>010276</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5105377314</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T13:12:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8e3e756a-da11-4c2e-b96b-3e3a509deb7d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990056</ProductCode>
+      <EAN>724022990056</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

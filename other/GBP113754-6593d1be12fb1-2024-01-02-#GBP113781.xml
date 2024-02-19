@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9443</SequenceNumber>
+    <ToBePackedDate>2024-01-02T07:04:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T08:52:32Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T08:53:31Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>224dd782-d063-4cc6-abc6-108ceb6fe053</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Debbie Boyle</ShipToAttention>
+    <DeliveryAddressLine1>9 Ailesbury Road</DeliveryAddressLine1>
+    <InterfaceRecordId>6c0a0e27-bad6-4f50-b104-e7c415e48cf6</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D04 K8F8</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>083 1 013 1017</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>debbie.mss@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113754</SalesOrderNumber>
+    <SalesOrderReference>GE5242597704GB</SalesOrderReference>
+    <DispatchNumber>009828</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988087145c</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T07:00:47Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>673cff09-3caf-4a77-9274-06bcebfa38c1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788313340</ProductCode>
+      <EAN>731788313340</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ215 7GG 100% WS FUSCIA XS</ProductDescription>
+      <ProductColour>FUSCIA</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

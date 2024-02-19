@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9836</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:46Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:14:05Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:18:10Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>544125d0-30c6-42e0-aaba-0248a934df7a</DispatchId>
+    <CourierService/>
+    <Weight>0.97</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Lara Vujovic</ShipToAttention>
+    <DeliveryAddressLine1>381 APPLETON ST</DeliveryAddressLine1>
+    <InterfaceRecordId>cfbaa032-b15e-4aca-a119-395c006c598a</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>ARLINGTON</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02476</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>7818599042</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>obladila90@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114155</SalesOrderNumber>
+    <SalesOrderReference>GE5259548648GB</SalesOrderReference>
+    <DispatchNumber>010249</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8228357723</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:22:03Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e9321343-f01f-44b7-9427-646708da4e3c</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329518</ProductCode>
+      <EAN>731788329518</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TQ44 100% ORGANIC COTTON CREAM/NAVY/APPLE RED M</ProductDescription>
+      <ProductColour>CREAM/NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d6bfe815-092f-47a2-9971-caf556e355d3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788316983</ProductCode>
+      <EAN>731788316983</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2335 3GG 90% WO 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>84c44215-0b8b-41b7-acf1-eddae2fd7ab4</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788329808</ProductCode>
+      <EAN>731788329808</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23104 12GG 90% WO / 10% WS APPLE RED/CREAM M</ProductDescription>
+      <ProductColour>APPLE RED/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

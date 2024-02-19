@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10119</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:25:28Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:26:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>3e1947ee-3f56-48fd-8479-ecc7c42e67e8</DispatchId>
+    <CourierService/>
+    <Weight>0.7</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Beatrice Gargiulo</ShipToAttention>
+    <DeliveryAddressLine1>Viale Liegi</DeliveryAddressLine1>
+    <InterfaceRecordId>5e71a3b8-1143-4f76-a2dd-9660a7ae3610</InterfaceRecordId>
+    <DeliveryAddressLine2>33</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>ROMA</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00198</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>3357803545</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>beatrice.gargiulo03@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114211</SalesOrderNumber>
+    <SalesOrderReference>GE5262006725GB</SalesOrderReference>
+    <DispatchNumber>010308</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602499578M</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:26:24Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>847d3faf-e731-4110-9e80-c68e4dc85937</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022973578</ProductCode>
+      <EAN>724022973578</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>AU22 3GG 90% WO / 10% WS CREAM OS</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.07</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f569a01d-c97a-4302-86dd-0e9f1fe71eca</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990285</ProductCode>
+      <EAN>724022990285</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK S</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>68235dee-1b93-4a46-9ef1-617e470ab7f0</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022989623</ProductCode>
+      <EAN>724022989623</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS BLUE/OATMEAL MEL S</ProductDescription>
+      <ProductColour>BLUE/OATMEAL MEL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10880</SequenceNumber>
+    <ToBePackedDate>2024-01-14T12:47:30Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-14T13:04:15Z</ToDispatchDate>
+    <DispatchDate>2024-01-14T13:04:57Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>dce5ed22-afa8-46bb-b5c8-c595e0ead365</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sehee Choi</ShipToAttention>
+    <DeliveryAddressLine1>4 jamwonro 14gil, seocho gu</DeliveryAddressLine1>
+    <InterfaceRecordId>d1df213a-817e-4b35-8bea-44ae237ef104</InterfaceRecordId>
+    <DeliveryAddressLine2>101  1003 jamwon hyundai apt</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Seoul</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>06517</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>KR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>821048993403</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sehee2012@naver.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115252</SalesOrderNumber>
+    <SalesOrderReference>GE5306879604GB</SalesOrderReference>
+    <DispatchNumber>011399</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3439337576</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T12:46:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>be03fbbe-e329-4ec6-a42c-d478f4e15b8f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320492</ProductCode>
+      <EAN>731788320492</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2308 12GG 90% WO 10% WS CREAM/MULTI S</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

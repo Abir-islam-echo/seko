@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11062</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T17:09:58Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:12:13Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f1e6a318-a49c-4c7e-a1d6-33ec27909f79</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>EVGENIA BAZIAKA</ShipToAttention>
+    <DeliveryAddressLine1>20 PAVLOU MELA Str</DeliveryAddressLine1>
+    <InterfaceRecordId>73459989-b590-491b-9e35-72069a5b0a90</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>ATHENS  DAFNH</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>172 36</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>306977883493</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jenyb@freemail.gr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115182</SalesOrderNumber>
+    <SalesOrderReference>GE5303604302GB</SalesOrderReference>
+    <DispatchNumber>011330</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214502831H</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:40:30Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a04f1e40-d7cf-4a49-b94e-89b86fde2408</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320980</ProductCode>
+      <EAN>731788320980</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS BLACK MULTI M</ProductDescription>
+      <ProductColour>BLACK MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

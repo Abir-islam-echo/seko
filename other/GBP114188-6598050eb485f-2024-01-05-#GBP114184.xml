@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9862</SequenceNumber>
+    <ToBePackedDate>2024-01-05T13:13:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T13:28:21Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T13:30:05Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5ecb0b25-0320-4fa2-869d-d9dd65c09360</DispatchId>
+    <CourierService/>
+    <Weight>0.38</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ioanna Tryfon</ShipToAttention>
+    <DeliveryAddressLine1>Spaanse Lindebaan 80</DeliveryAddressLine1>
+    <InterfaceRecordId>7194b6c8-dfa8-40c0-9f35-aacd8280fb35</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Grimbergen</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1850</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>BE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00 32 485 32 86 15</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>trifonik@yahoo.gr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114188</SalesOrderNumber>
+    <SalesOrderReference>GE5261130233GB</SalesOrderReference>
+    <DispatchNumber>010284</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036023950981</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T13:10:46Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>114f271d-5cfb-483e-8ff6-4a7e290797fb</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972878</ProductCode>
+      <EAN>724022972878</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS MARIGOLD L</ProductDescription>
+      <ProductColour>MARIGOLD</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

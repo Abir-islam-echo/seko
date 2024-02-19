@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10161</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:34:55Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:36:16Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>04a5e9be-bbc5-4cd0-a80f-3303d08d39db</DispatchId>
+    <CourierService/>
+    <Weight>0.48</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nicole Kotovos</ShipToAttention>
+    <DeliveryAddressLine1>Lesvou 20a</DeliveryAddressLine1>
+    <InterfaceRecordId>c3c133a2-ae0f-4c3d-b4d4-f0c5c6a998bd</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Kifisia</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>145 62</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>306956091885</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>nkotovos@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114417</SalesOrderNumber>
+    <SalesOrderReference>GE5271130933GB</SalesOrderReference>
+    <DispatchNumber>010517</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602678644T</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:12:25Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4a08aae2-3de5-41f0-9cd0-d9c73857d559</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322236</ProductCode>
+      <EAN>731788322236</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS GREY S</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>33556fc9-7ef7-4e98-b00a-7bdc929b76af</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321581</ProductCode>
+      <EAN>731788321581</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

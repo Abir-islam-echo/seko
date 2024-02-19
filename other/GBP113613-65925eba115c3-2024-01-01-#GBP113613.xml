@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9297</SequenceNumber>
+    <ToBePackedDate>2023-12-30T20:08:39Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T06:38:12Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T06:39:50Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>61833c4d-b031-4739-a880-f1b4c345a979</DispatchId>
+    <CourierService/>
+    <Weight>0.18</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>isabelle morin</ShipToAttention>
+    <DeliveryAddressLine1>21 rue Pasteur</DeliveryAddressLine1>
+    <InterfaceRecordId>458945c2-053f-4403-ad90-9806cae1e208</InterfaceRecordId>
+    <DeliveryAddressLine2>chez Francis Metzler</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>BREIL SUR ROYA</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>06540</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>06 11 01 63 44</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>i.morin@hotmail.fr</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113613</SalesOrderNumber>
+    <SalesOrderReference>GE5234839450GB</SalesOrderReference>
+    <DispatchNumber>009682</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155039880170499</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2023-12-30T19:59:22Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9c7799f4-8608-4361-a2b6-0fcb29d07efc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317423</ProductCode>
+      <EAN>731788317423</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2369 12GG 90% WO 10% WS BLACK/MULTI LL</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.18</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

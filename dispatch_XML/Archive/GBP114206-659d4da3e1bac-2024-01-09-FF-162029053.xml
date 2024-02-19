@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10124</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:33:28Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:34:10Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>98f22325-a432-418b-8961-a054f1b8b357</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Carolyn  Ka Man Lam</ShipToAttention>
+    <DeliveryAddressLine1>41D Stubbs Road, Highcliff </DeliveryAddressLine1>
+    <InterfaceRecordId>4ff1f99c-f376-41f3-99d0-2261243f3436</InterfaceRecordId>
+    <DeliveryAddressLine2>Flat B 43F</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Happy Valley</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00000</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>HK</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>90964996</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>carolynlam821@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114206</SalesOrderNumber>
+    <SalesOrderReference>GE5261690990GB</SalesOrderReference>
+    <DispatchNumber>010303</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8220789264</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:32:31Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>86de70df-689e-4546-9f35-249070142051</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312237</ProductCode>
+      <EAN>731788312237</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2354 12GG 90% WO 10% WS BLUE L</ProductDescription>
+      <ProductColour>BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d69e6303-914c-4bde-9259-76afb9670c41</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788312138</ProductCode>
+      <EAN>731788312138</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2353 12GG 90% WO 10% WS PINK L</ProductDescription>
+      <ProductColour>PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>73e55320-cd80-459e-b654-8a73fb78dbd3</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788312633</ProductCode>
+      <EAN>731788312633</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2352B 12GG 90% WO 10% WS CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

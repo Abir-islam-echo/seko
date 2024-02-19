@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10520</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T11:02:39Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:03:34Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5874a1e9-4981-414d-9587-459bb8be3224</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Pauliina Kokko</ShipToAttention>
+    <DeliveryAddressLine1>Kukintotie 8</DeliveryAddressLine1>
+    <InterfaceRecordId>2f24f593-c83d-4b20-8912-c0f802600c7d</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Oulu</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>90540</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>FI</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>358405219667</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ppoyhtari@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114775</SalesOrderNumber>
+    <SalesOrderReference>GE5287458167GB</SalesOrderReference>
+    <DispatchNumber>010885</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503754770195R</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:07:52Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>1faa6f20-7ab6-411b-9ae3-cfb33939dcbd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989937</ProductCode>
+      <EAN>724022989937</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO / 10% WS BLUE/OATMEAL MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>BLUE/OATMEAL MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5b134d0a-ddf7-45b4-b117-f5385044961c</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788329501</ProductCode>
+      <EAN>731788329501</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TQ44 100% ORGANIC COTTON CREAM/NAVY/APPLE RED S</ProductDescription>
+      <ProductColour>CREAM/NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10296</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T11:17:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T11:18:31Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4ae49d2c-f3ca-44e4-8a47-2d75a33ce168</DispatchId>
+    <CourierService/>
+    <Weight>0.28</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kim Borsboom </ShipToAttention>
+    <DeliveryAddressLine1>Hofstrasse 24</DeliveryAddressLine1>
+    <InterfaceRecordId>66af1913-64ba-47ed-9bfc-4ff0f13cfd0f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Pfaeffikon</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>8808</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CH</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>41763078571</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kborsboom@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114556</SalesOrderNumber>
+    <SalesOrderReference>GE5277984177GB</SalesOrderReference>
+    <DispatchNumber>010661</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2195284593</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:18:19Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4946309e-b691-49de-a4b6-5e9855939a22</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321031</ProductCode>
+      <EAN>731788321031</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1906ER 12GG 90% WO 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

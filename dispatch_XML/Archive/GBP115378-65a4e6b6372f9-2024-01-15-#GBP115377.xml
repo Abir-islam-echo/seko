@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10996</SequenceNumber>
+    <ToBePackedDate>2024-01-15T07:02:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T07:58:00Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T07:58:40Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e3844fc9-d3ee-4d36-b55a-5a5236772cd8</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Pamela Powers</ShipToAttention>
+    <DeliveryAddressLine1>2578 N San Miguel Dr</DeliveryAddressLine1>
+    <InterfaceRecordId>6e09d44b-14a6-4030-ab16-5844858d9169</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Orange</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>92867-8605</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>7148784532</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sppowers@socal.rr.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115378</SalesOrderNumber>
+    <SalesOrderReference>GE5311194552GB</SalesOrderReference>
+    <DispatchNumber>011525</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6308308930</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:57:49Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>790b809b-febd-4e64-97e3-e1a3360a33bf</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982099</ProductCode>
+      <EAN>724022982099</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK XS</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

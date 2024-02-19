@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9859</SequenceNumber>
+    <ToBePackedDate>2024-01-05T12:31:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T13:11:26Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T13:15:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d5e4051a-51ad-4afb-9610-a42cfc0428dd</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Bianca Hofmans</ShipToAttention>
+    <DeliveryAddressLine1>Horzelstraat</DeliveryAddressLine1>
+    <InterfaceRecordId>628bec2c-b0dc-43a9-9592-396c0b6fd4f8</InterfaceRecordId>
+    <DeliveryAddressLine2>1</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>2880 Bornem</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2880</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>BE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>32479894800</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>meeus.hofmans@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114172</SalesOrderNumber>
+    <SalesOrderReference>GE5260657067GB</SalesOrderReference>
+    <DispatchNumber>010267</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036023314899</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T12:27:11Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>41faf71a-062e-4396-a0ba-a0cd71eedd9d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788313012</ProductCode>
+      <EAN>731788313012</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2302 100% CO CREAM M</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>12a6aefa-6d50-4f94-b391-49b011bfeb2f</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788312121</ProductCode>
+      <EAN>731788312121</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2353 12GG 90% WO 10% WS PINK M</ProductDescription>
+      <ProductColour>PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

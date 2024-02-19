@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10810</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:33:04Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:36:06Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>0a90b58e-f84d-432d-a842-fd9e0cbe4022</DispatchId>
+    <CourierService/>
+    <Weight>0.71</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Marie  Marchini Camia</ShipToAttention>
+    <DeliveryAddressLine1>Via Boezio 14</DeliveryAddressLine1>
+    <InterfaceRecordId>9cfa07a7-0889-49bf-aa2d-f8d17c26f619</InterfaceRecordId>
+    <DeliveryAddressLine2>Portiere 8h3013 15h3018h30</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Roma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00193</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>333 345 2790</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>marie@fondazionebideri.it</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115064</SalesOrderNumber>
+    <SalesOrderReference>GE5298090919GB</SalesOrderReference>
+    <DispatchNumber>011214</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214409199M</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:14:19Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>83701956-9c1b-42b3-8493-e2c59b7b1f40</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>728238970543</ProductCode>
+      <EAN>728238970543</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f6fd0ba4-6096-41a9-bdfe-66a55de33d79</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>728238598334</ProductCode>
+      <EAN>728238598334</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ220 7GG CASHMERE CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9668</SequenceNumber>
+    <ToBePackedDate>2024-01-04T06:38:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T09:02:34Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T09:05:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>592a433e-0294-40a4-88b7-231591f3b51d</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Barrett Hatcher</ShipToAttention>
+    <DeliveryAddressLine1>191 Race Street</DeliveryAddressLine1>
+    <InterfaceRecordId>1b760abf-874a-4dbf-b431-aae40be655f3</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Denver</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>80206</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>7209799794</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>pphatcher03@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113959</SalesOrderNumber>
+    <SalesOrderReference>GE5253071958GB</SalesOrderReference>
+    <DispatchNumber>010049</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2239557471</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T06:25:13Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9fd0faa1-026a-47aa-957e-3fc8d2ab8dbc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317645</ProductCode>
+      <EAN>731788317645</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2324 12GG 90% WO / 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9189a40d-9825-450e-9d7c-ca76742bf929</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788320973</ProductCode>
+      <EAN>731788320973</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS BLACK MULTI S</ProductDescription>
+      <ProductColour>BLACK MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

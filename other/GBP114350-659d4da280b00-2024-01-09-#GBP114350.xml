@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10107</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:51:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:52:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4156900e-a959-4645-b9c5-cce91c7c3a51</DispatchId>
+    <CourierService/>
+    <Weight>1.46</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Deirdre O connor</ShipToAttention>
+    <DeliveryAddressLine1>1 Brighton Court</DeliveryAddressLine1>
+    <InterfaceRecordId>19546267-db24-47e6-ab76-e609157b9fd8</InterfaceRecordId>
+    <DeliveryAddressLine2>Dublin 18</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Foxrock</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>D18 P961</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>00353861289714</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>deirdre.oconnor@ucd.ie</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114350</SalesOrderNumber>
+    <SalesOrderReference>GE5267643298GB</SalesOrderReference>
+    <DispatchNumber>010450</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036026340732</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:27:27Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3f82b7dc-fa7d-41ea-88f9-abb531f789b1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788325329</ProductCode>
+      <EAN>731788325329</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2362 53% CV/28% PL/19% ME BLACK/GOLD JACQUARD M</ProductDescription>
+      <ProductColour>BLACK/GOLD JACQUARD</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9c716f84-4064-49ce-bcc1-8c1ef97ee9a5</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788324926</ProductCode>
+      <EAN>731788324926</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2364 53% CV/28% PL/19% ME BLACK/GOLD JACQUARD M</ProductDescription>
+      <ProductColour>BLACK/GOLD JACQUARD</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c5550153-8567-4345-928d-8eebf6b52dea</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788325060</ProductCode>
+      <EAN>731788325060</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2363 53% CV/28% PL/19% ME BLACK/GOLD JACQUARD S</ProductDescription>
+      <ProductColour>BLACK/GOLD JACQUARD</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

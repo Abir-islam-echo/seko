@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9442</SequenceNumber>
+    <ToBePackedDate>2024-01-02T07:07:01Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T08:48:49Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T08:51:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>53f78e29-e2b4-4605-ab92-dd10c50cfafd</DispatchId>
+    <CourierService/>
+    <Weight>1.1</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ana Mary Quesada Jimenez</ShipToAttention>
+    <DeliveryAddressLine1>2008 Tall Grass Lane</DeliveryAddressLine1>
+    <InterfaceRecordId>59a855ad-c210-4ff0-90b7-397edf07fa71</InterfaceRecordId>
+    <DeliveryAddressLine2>Unit 205</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Canonsbourg</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>15317</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(724) 9981255</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>amqj1234@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113781</SalesOrderNumber>
+    <SalesOrderReference>GE5244717542GB</SalesOrderReference>
+    <DispatchNumber>009855</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6361874153</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T07:05:02Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>07e4892b-a6b6-468b-84d6-a2842bfab115</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980330</ProductCode>
+      <EAN>724022980330</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TPS2404 100% ORGANIC COTTON CREAM/NAVY LL</ProductDescription>
+      <ProductColour>CREAM/NAVY</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2f29fbe9-c5e7-4ecd-a713-fdd9ef91431e</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022978771</ProductCode>
+      <EAN>724022978771</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2410 12GG 90% WO 10% WS CREAM/MULTI 3L</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ab6ece40-8878-4149-895f-f3687e31ec29</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022978535</ProductCode>
+      <EAN>724022978535</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2403 12GG 90% WO / 10% WS CREAM MULTI 3L</ProductDescription>
+      <ProductColour>CREAM MULTI</ProductColour>
+      <ProductGrossWeight>0.27</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>77ef3b98-b012-48dd-bee6-e5451fbf30a0</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022978412</ProductCode>
+      <EAN>724022978412</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2401 7GG 70% CO / 30% WO CREAM MULTI LL</ProductDescription>
+      <ProductColour>CREAM MULTI</ProductColour>
+      <ProductGrossWeight>0.51</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

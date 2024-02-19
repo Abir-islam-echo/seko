@@ -1,0 +1,123 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10499</SequenceNumber>
+    <ToBePackedDate>2024-01-11T06:22:48Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T09:28:54Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T09:30:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>8715f969-e7ad-4f45-a9fa-88b7788e1a1d</DispatchId>
+    <CourierService/>
+    <Weight>1.16</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nina Qureshi</ShipToAttention>
+    <DeliveryAddressLine1>22 wade dr. </DeliveryAddressLine1>
+    <InterfaceRecordId>c1f453bb-78d2-4cc7-a232-343c46363ea6</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Summit</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>07901</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>3022992137</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ninagq11@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114810</SalesOrderNumber>
+    <SalesOrderReference>GE5289436288GB</SalesOrderReference>
+    <DispatchNumber>010919</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1970153430</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T06:17:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ba3fa71f-32f2-478b-b5eb-62855661f5ac</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321581</ProductCode>
+      <EAN>731788321581</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e226b630-6505-4b76-a02e-b884b98c7040</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788326524</ProductCode>
+      <EAN>731788326524</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa235ec6-8ddf-4f2f-b36b-1eb17efc7596</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022975862</ProductCode>
+      <EAN>724022975862</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS LIGHT OATMEAL M</ProductDescription>
+      <ProductColour>LIGHT OATMEAL</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a3a0ff33-e22f-4694-8f2b-e71bf9257f73</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022975930</ProductCode>
+      <EAN>724022975930</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS LIGHT OATMEAL L</ProductDescription>
+      <ProductColour>LIGHT OATMEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>24259699-0a7b-4bbe-9987-09a646defe3b</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>731788326456</ProductCode>
+      <EAN>731788326456</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

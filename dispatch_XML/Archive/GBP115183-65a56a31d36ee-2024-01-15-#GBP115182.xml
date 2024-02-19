@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11066</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T17:16:59Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:19:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4b18400e-ade8-4ba1-8cdb-71bb3aaa214b</DispatchId>
+    <CourierService/>
+    <Weight>0.28</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Grainne Murphy</ShipToAttention>
+    <DeliveryAddressLine1>13 Cherry Rise, Delgany Wood</DeliveryAddressLine1>
+    <InterfaceRecordId>397604ef-fbe4-4e36-952b-8b29ed817dce</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Greystones</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>A63 YP86</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>087 250 4842</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>grainnedal@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115183</SalesOrderNumber>
+    <SalesOrderReference>GE5303616524GB</SalesOrderReference>
+    <DispatchNumber>011331</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214502888K</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:45:57Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fc884101-0920-4965-859a-438847b005df</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>728238598563</ProductCode>
+      <EAN>728238598563</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

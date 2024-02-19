@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10121</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T12:30:10Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T12:30:46Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d4d5e5a1-7577-44a1-bd42-2c0787555815</DispatchId>
+    <CourierService/>
+    <Weight>0.58</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Rita and Jonathan Lynn</ShipToAttention>
+    <DeliveryAddressLine1>206 Piping Rock Road</DeliveryAddressLine1>
+    <InterfaceRecordId>a6e4f726-e4ed-4e5c-bf4d-ad2a6d72a387</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Locust Valley</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>11560-2509</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(310) 4908175</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>doc.rita@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114202</SalesOrderNumber>
+    <SalesOrderReference>GE5261644042GB</SalesOrderReference>
+    <DispatchNumber>010299</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2027693205</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:31:56Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e5063f98-28aa-4bed-ab97-e14083211648</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322632</ProductCode>
+      <EAN>731788322632</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS JUNGLE GREEN 3L</ProductDescription>
+      <ProductColour>JUNGLE GREEN</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e3c8cd75-dddb-4107-aead-8bd24501d9ed</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022972946</ProductCode>
+      <EAN>724022972946</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS NAVY LL</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

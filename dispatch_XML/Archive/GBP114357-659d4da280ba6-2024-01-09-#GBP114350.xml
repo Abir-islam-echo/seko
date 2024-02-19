@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10108</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:57:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:57:52Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>19aac320-d230-4dfd-adab-ae1cbc705075</DispatchId>
+    <CourierService/>
+    <Weight>0.96</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Magdalena Escalas</ShipToAttention>
+    <DeliveryAddressLine1>Paseo Mallorc 8</DeliveryAddressLine1>
+    <InterfaceRecordId>908a56c5-a917-42ea-88ec-5dd87f946b5f</InterfaceRecordId>
+    <DeliveryAddressLine2>5a</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Palma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>07012</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>ES</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>690 10 56 96</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>magdalenaescalasgarcias@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114357</SalesOrderNumber>
+    <SalesOrderReference>GE5268020240GB</SalesOrderReference>
+    <DispatchNumber>010457</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>6309561661</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:28:41Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>f07c836b-a0e2-4971-93e0-064ba7a727c7</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321581</ProductCode>
+      <EAN>731788321581</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>37ead9c2-6ecb-4d3a-a826-210b7a83f967</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322847</ProductCode>
+      <EAN>731788322847</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8d5f251e-8fd9-4c09-901f-69eaad206bfa</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>769807739864</ProductCode>
+      <EAN>769807739864</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 90% W / 10% WS HOT PINK M</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9a76b165-bfe0-4732-b45c-016b94201d9c</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788314262</ProductCode>
+      <EAN>731788314262</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG 100% WS FUSCIA M</ProductDescription>
+      <ProductColour>FUSCIA</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10699</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:57:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T09:02:16Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>b612b42b-6074-4c08-95d5-e08f586303f3</DispatchId>
+    <CourierService/>
+    <Weight>0.96</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kaysie Rogers</ShipToAttention>
+    <DeliveryAddressLine1>606 Fern St</DeliveryAddressLine1>
+    <InterfaceRecordId>8b212c47-9352-4d14-8ff4-a893d9eaf43a</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>West Palm Beach</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>33401</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2063699422</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kaysiearogers@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114941</SalesOrderNumber>
+    <SalesOrderReference>GE5292684430GB</SalesOrderReference>
+    <DispatchNumber>011058</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>8365049431</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:47:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7666ceb9-c1ab-48f3-aaa7-a98ae9b0ea3d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322847</ProductCode>
+      <EAN>731788322847</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS GREY M</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>962927f0-673a-48aa-8491-9a2116c979ba</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>728238970598</ProductCode>
+      <EAN>728238970598</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE NAVY L</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>eeeab174-7474-48db-bb92-7200112f2773</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>728238598280</ProductCode>
+      <EAN>728238598280</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ218 12GG CASHMERE NAVY L</ProductDescription>
+      <ProductColour>NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2a1a4794-4cbc-4c7d-943e-1a039b2184b0</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>731788321598</ProductCode>
+      <EAN>731788321598</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY L</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

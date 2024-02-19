@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9549</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T09:11:47Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T09:12:45Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9b80361c-36e6-40a2-84dc-a8bf5ba7bf6f</DispatchId>
+    <CourierService/>
+    <Weight>0.67</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Marie  Marchini Camia</ShipToAttention>
+    <DeliveryAddressLine1>Via Boezio 14</DeliveryAddressLine1>
+    <InterfaceRecordId>75d079e7-3403-445a-9e62-3c3e6651e45f</InterfaceRecordId>
+    <DeliveryAddressLine2>Portiere 8h3013 15h3018h30</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Roma</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>00193</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>333 345 2790</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>marie@fondazionebideri.it</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113849</SalesOrderNumber>
+    <SalesOrderReference>GE5248697937GB</SalesOrderReference>
+    <DispatchNumber>009937</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3405686060</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:17:22Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4d345296-ad76-4995-8303-a7ab2fc53491</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>787099417055</ProductCode>
+      <EAN>787099417055</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ220 CASHMERE BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9b57c1f5-7945-4268-8f54-ca10ae6cf869</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>728238598587</ProductCode>
+      <EAN>728238598587</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

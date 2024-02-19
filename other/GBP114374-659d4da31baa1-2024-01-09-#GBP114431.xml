@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10158</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:25:54Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:26:29Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>02660a61-bd1d-451b-94a2-83c5423ecff7</DispatchId>
+    <CourierService/>
+    <Weight>0.55</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Catherine Beattie</ShipToAttention>
+    <DeliveryAddressLine1>70 Alpine Terrace</DeliveryAddressLine1>
+    <InterfaceRecordId>374423b0-a4fe-462b-be17-e989a1d8d212</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mount tamborine</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4272</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AU</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0417 704 819</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>cat.donovan@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114374</SalesOrderNumber>
+    <SalesOrderReference>GE5269326539GB</SalesOrderReference>
+    <DispatchNumber>010475</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2959726814</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:13:47Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>809c7daf-d88f-49c0-a148-8e7cab490b51</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329501</ProductCode>
+      <EAN>731788329501</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TQ44 100% ORGANIC COTTON CREAM/NAVY/APPLE RED S</ProductDescription>
+      <ProductColour>CREAM/NAVY/APPLE RED</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a8f127e2-577e-467b-9660-9eb358f4071d</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990285</ProductCode>
+      <EAN>724022990285</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK S</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

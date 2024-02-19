@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10522</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T11:22:08Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:22:59Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e7683fe4-0b0d-4cd9-82c0-d6db0da39542</DispatchId>
+    <CourierService/>
+    <Weight>0.63</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Elisabeth AuerspergBreunner</ShipToAttention>
+    <DeliveryAddressLine1>Berghof</DeliveryAddressLine1>
+    <InterfaceRecordId>61370bf6-81a6-47d2-b00f-513f20a108d0</InterfaceRecordId>
+    <DeliveryAddressLine2>Unterburgau, 1</DeliveryAddressLine2>
+    <DeliveryAddressLine3>Berghof</DeliveryAddressLine3>
+    <DeliveryAddressCity>Unterach am Attersee</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>4866</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>AT</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>438925545461</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>a.deutsch@fides-fo.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114742</SalesOrderNumber>
+    <SalesOrderReference>GE5286204345GB</SalesOrderReference>
+    <DispatchNumber>010852</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4784939250</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:06:26Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>54708bfe-936b-440d-b95f-f660b4aa4be3</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788317928</ProductCode>
+      <EAN>731788317928</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ220 7GG 100% WS PURE BLUE XS</ProductDescription>
+      <ProductColour>PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>398ae699-7366-4920-92e0-2b7f910e1db7</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788322465</ProductCode>
+      <EAN>731788322465</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 12GG 90% WO / 10% WS TEAL XS</ProductDescription>
+      <ProductColour>TEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

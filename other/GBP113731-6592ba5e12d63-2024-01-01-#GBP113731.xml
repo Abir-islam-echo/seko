@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9304</SequenceNumber>
+    <ToBePackedDate>2024-01-01T13:02:45Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T13:05:13Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T13:06:52Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>ead08f26-8fa2-4b37-80cd-ad8fe4594849</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Annie  Cowan</ShipToAttention>
+    <DeliveryAddressLine1>Rue de la tourelle</DeliveryAddressLine1>
+    <InterfaceRecordId>e4a08b93-b8f4-4273-aa78-7b67c8701c71</InterfaceRecordId>
+    <DeliveryAddressLine2>23</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Brussels</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>1040</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>BE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>32 487 84 55 36</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>brannan.business@proton.me</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113731</SalesOrderNumber>
+    <SalesOrderReference>GE5241660393GB</SalesOrderReference>
+    <DispatchNumber>009803</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988074796m</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-01T12:59:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0ba8ff0f-06dd-44c3-9b30-d7d6b577d7aa</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022978559</ProductCode>
+      <EAN>724022978559</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2404 12GG 90% WO 10% WS NAVY/MULTI S</ProductDescription>
+      <ProductColour>NAVY/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

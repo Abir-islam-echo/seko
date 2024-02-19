@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9300</SequenceNumber>
+    <ToBePackedDate>2024-01-01T09:36:55Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-01T09:50:28Z</ToDispatchDate>
+    <DispatchDate>2024-01-01T09:51:09Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2f1f645f-e3c1-4194-ba09-14ce550714fd</DispatchId>
+    <CourierService/>
+    <Weight>0.47</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Laura Saldana</ShipToAttention>
+    <DeliveryAddressLine1>6275 McCommas Boulevard</DeliveryAddressLine1>
+    <InterfaceRecordId>8facb828-ec59-4b37-9014-9dbe68f398ce</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dallas</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>75214</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>2143568710</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>acelis7@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113717</SalesOrderNumber>
+    <SalesOrderReference>GE5241055792GB</SalesOrderReference>
+    <DispatchNumber>009788</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1756233371</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-01T09:33:10Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>591b46d6-dbee-46f7-96ab-357d4c41be24</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327606</ProductCode>
+      <EAN>731788327606</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2388 12GG 100% WS PINE/NAVY M</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cb4052d5-812a-42a9-8c48-3ba39c49750f</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022978498</ProductCode>
+      <EAN>724022978498</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2403 12GG 90% WO / 10% WS CREAM MULTI S</ProductDescription>
+      <ProductColour>CREAM MULTI</ProductColour>
+      <ProductGrossWeight>0.27</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

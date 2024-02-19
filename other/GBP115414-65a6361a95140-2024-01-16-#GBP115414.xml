@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11171</SequenceNumber>
+    <ToBePackedDate>2024-01-16T06:38:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-16T07:43:47Z</ToDispatchDate>
+    <DispatchDate>2024-01-16T07:44:55Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4068d3f8-d9d3-411f-8a61-13ac492e5afc</DispatchId>
+    <CourierService/>
+    <Weight>0.28</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Lorena Kalcina Uravic</ShipToAttention>
+    <DeliveryAddressLine1>Jurcici 1</DeliveryAddressLine1>
+    <InterfaceRecordId>0e227f44-0a47-40ee-b01c-b0c5c16b8b43</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Kastav</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>51215</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>HR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>092 171 2916</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>lorena.calcina1@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115414</SalesOrderNumber>
+    <SalesOrderReference>GE5312862467GB</SalesOrderReference>
+    <DispatchNumber>011568</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214971170I</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-16T06:36:06Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cb35c91f-2bab-4556-bae3-8b8cbcf3d12f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321567</ProductCode>
+      <EAN>731788321567</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS GREY XS</ProductDescription>
+      <ProductColour>GREY</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

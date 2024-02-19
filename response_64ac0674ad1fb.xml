@@ -1,0 +1,70 @@
+<Response>
+    <Dispatch>
+      <IntegrationId>CCCHIN</IntegrationId>
+      <SequenceNumber>31</SequenceNumber>
+      <ToBePackedDate>2023-03-23T09:11:30Z</ToBePackedDate>
+      <ToDispatchDate>2023-07-06T09:07:56Z</ToDispatchDate>
+      <DispatchDate>2023-07-06T09:09:57Z</DispatchDate>
+      <TrackingUrl>https://www.dpd.co.uk/apps/tracking/?reference=JA484556445GB</TrackingUrl>
+      <DispatchId>50dbf529-f25f-4b45-bcd5-3e7763aaa40e</DispatchId>
+      <CourierService>DPD NEXT DAY</CourierService>
+      <Weight>0.12</Weight>
+      <WeightUOM>KG</WeightUOM>
+      <ShipToAttention>129 shantibag</ShipToAttention>
+      <DeliveryAddressLine1>desi apartment</DeliveryAddressLine1>
+      <InterfaceRecordId>d4cf09cb-941a-42d4-9f9a-9722bb49143d</InterfaceRecordId>
+      <DeliveryAddressLine2/>
+      <DeliveryAddressLine3/>
+      <DeliveryAddressCity>dhaka</DeliveryAddressCity>
+      <DeliveryAddressCounty/>
+      <DeliveryAddressPostCode>1217</DeliveryAddressPostCode>
+      <DeliveryAddressCountry>BD</DeliveryAddressCountry>
+      <DeliveryPhoneNumber/>
+      <DeliveryEmailAddress>bhsam787@gmail.com</DeliveryEmailAddress>
+      <SalesInvoiceNumber/>
+      <TrackingUrlReturn/>
+      <SalesOrderNumber>4920907792555</SalesOrderNumber>
+      <SalesOrderReference>#CPT-1280</SalesOrderReference>
+      <DispatchNumber>000022</DispatchNumber>
+      <CourierName>DPD</CourierName>
+      <CourierRef>JA484556445GB</CourierRef>
+      <DCCode>DCCL01</DCCode>
+      <BeingPickedDate>2023-07-06T09:04:52Z</BeingPickedDate>
+    </Dispatch>
+    <List>
+      <DispatchLineItem>
+        <LineInterfaceRecordId>8e013a43-fddf-4b93-b2d0-c87a869ad8fc</LineInterfaceRecordId>
+        <LineNumber>1</LineNumber>
+        <ProductCode>728238991487</ProductCode>
+        <EAN>728238991487</EAN>
+        <Quantity>1</Quantity>
+        <SerialNumber/>
+        <LotNumber/>
+        <OrderLineMessage/>
+        <RetailComplianceLabel/>
+        <ProductDescription>CHEEKY MIFFY T-SHIRT</ProductDescription>
+        <ProductColour>WHITE</ProductColour>
+        <ProductGrossWeight>0.12</ProductGrossWeight>
+        <ProductSize>L</ProductSize>
+        <BuildKit>false</BuildKit>
+        <IsComponentSKU>false</IsComponentSKU>
+      </DispatchLineItem>
+      <DispatchLineItem>
+        <LineInterfaceRecordId>8e013a43-fddf-4b93-b2d0-c87a869ad8fc</LineInterfaceRecordId>
+        <LineNumber>1</LineNumber>
+        <ProductCode>728238979515</ProductCode>
+        <EAN>728238979515</EAN>
+        <Quantity>1</Quantity>
+        <SerialNumber/>
+        <LotNumber/>
+        <OrderLineMessage/>
+        <RetailComplianceLabel/>
+        <ProductDescription>CHEEKY MIFFY T-SHIRT</ProductDescription>
+        <ProductColour>WHITE</ProductColour>
+        <ProductGrossWeight>0.12</ProductGrossWeight>
+        <ProductSize>L</ProductSize>
+        <BuildKit>false</BuildKit>
+        <IsComponentSKU>false</IsComponentSKU>
+      </DispatchLineItem>
+    </List>
+  </Response>

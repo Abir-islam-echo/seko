@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10148</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:49:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T13:34:44Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T13:35:54Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4ee17ecc-6ca0-4459-b16d-2333dd3fa4ac</DispatchId>
+    <CourierService/>
+    <Weight>0.78</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>HELENA REPOULIS</ShipToAttention>
+    <DeliveryAddressLine1>26, Vas Georgiou B Avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>80bb7b15-693c-4af2-9edf-05c88bd0a1cc</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Piraeus</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>185 34</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GR</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>693 220 2745</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>helena_volosoff@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114239</SalesOrderNumber>
+    <SalesOrderReference>GE5263024740GB</SalesOrderReference>
+    <DispatchNumber>010337</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155036025478534</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:38:20Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6e5063af-d7f8-4f36-85e0-a3e0bcd24b06</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022977538</ProductCode>
+      <EAN>724022977538</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1900ER 12GG 90% WO / 10% WS FLAMINGO PINK/POPPY XS</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c444f0c9-4a8d-4e68-a6be-021f10991ce8</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022970614</ProductCode>
+      <EAN>724022970614</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23106 12GG 90% WO 10% WS FLAMINGO PINK/POPPY S</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c11a3a5f-c7f2-4b4c-9d39-c533ba245418</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022970690</ProductCode>
+      <EAN>724022970690</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23105 12GG 90% WO / 10% WS FLAMINGO PINK/POPPY S</ProductDescription>
+      <ProductColour>FLAMINGO PINK/POPPY</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

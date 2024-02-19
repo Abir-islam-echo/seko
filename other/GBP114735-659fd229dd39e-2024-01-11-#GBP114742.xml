@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10523</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T11:25:54Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T11:28:51Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>100284b4-209b-4ebf-8d55-2bd223cf20a7</DispatchId>
+    <CourierService/>
+    <Weight>0.48</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Simona Lemma</ShipToAttention>
+    <DeliveryAddressLine1>Calle Pico Alcazaba 15</DeliveryAddressLine1>
+    <InterfaceRecordId>b0f88c70-bda3-45f0-9599-eb081871c373</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Estepona</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>29688</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>ES</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>609 17 06 00</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>simonalemma83@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114735</SalesOrderNumber>
+    <SalesOrderReference>GE5286042258GB</SalesOrderReference>
+    <DispatchNumber>010845</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155037546565558</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:02:03Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>abf1403d-3205-499f-a930-6ee8ff780331</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788320867</ProductCode>
+      <EAN>731788320867</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1907ER 12GG 90% WO 10% WS BLACK/MULTI M</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>916c72a0-41ad-4156-bc54-b35f3fc3cde2</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788321031</ProductCode>
+      <EAN>731788321031</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1906ER 12GG 90% WO 10% WS BLACK/MULTI S</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

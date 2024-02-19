@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9700</SequenceNumber>
+    <ToBePackedDate>2024-01-04T13:18:33Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T13:28:47Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T13:29:31Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d5e7586f-b2a4-473d-ba3a-f522396d19a8</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Veronika Hoshika </ShipToAttention>
+    <DeliveryAddressLine1>Odori Nishi 28 chome 1. 18. 105</DeliveryAddressLine1>
+    <InterfaceRecordId>54ba3559-54d8-4f35-8594-4b785218c0dc</InterfaceRecordId>
+    <DeliveryAddressLine2>Branz Maruyama Gaien mae </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Sapporo</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>064-0820</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>JP</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>09013039689</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>vericenikice1@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114058</SalesOrderNumber>
+    <SalesOrderReference>GE5256115721GB</SalesOrderReference>
+    <DispatchNumber>010150</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5155476664</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T13:16:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>e153278a-117d-47c3-829f-92ab52bb1bcf</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312329</ProductCode>
+      <EAN>731788312329</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2355 7GG 90% WO 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

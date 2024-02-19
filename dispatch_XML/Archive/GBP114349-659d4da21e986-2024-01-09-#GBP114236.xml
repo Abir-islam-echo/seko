@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10106</SequenceNumber>
+    <ToBePackedDate>2024-01-07T19:38:14Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T11:45:13Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T11:46:12Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f16ed93b-001d-479b-8a9c-98e955bff9dc</DispatchId>
+    <CourierService/>
+    <Weight>0.94</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Kim Miller</ShipToAttention>
+    <DeliveryAddressLine1>11510 East Lusitano Place</DeliveryAddressLine1>
+    <InterfaceRecordId>6fac082d-cca7-4c1a-9b86-89a9f997a726</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Tucson</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>85748</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(406) 9252133</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>montanaweaver@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114349</SalesOrderNumber>
+    <SalesOrderReference>GE5267502648GB</SalesOrderReference>
+    <DispatchNumber>010449</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1846926992</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-07T19:26:14Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>70453c34-b961-43bc-abab-bed7358d74a9</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788322618</ProductCode>
+      <EAN>731788322618</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2323 12GG 90% WO / 10% WS JUNGLE GREEN L</ProductDescription>
+      <ProductColour>JUNGLE GREEN</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cb50d66b-eb62-48c1-a9bb-6bc6a4f96437</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022989579</ProductCode>
+      <EAN>724022989579</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS NAVY/CREAM/BRIGHT PINK M</ProductDescription>
+      <ProductColour>NAVY/CREAM/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5da98505-fa30-41bf-8c00-d52c7847e69d</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022981719</ProductCode>
+      <EAN>724022981719</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1039 12GG 90% WO / 10% WS BLACK/MULTI M/L</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>M/L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10815</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T08:31:05Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T08:33:48Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f136d4e6-7ba4-4a3b-80e9-2192b70f5de8</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Amy Jennings</ShipToAttention>
+    <DeliveryAddressLine1>1034 Pine Street</DeliveryAddressLine1>
+    <InterfaceRecordId>da35e4cd-035e-478e-b098-8e02e229d4da</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Winnetka</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>60093</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(773) 4569746</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jennings_amy@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115094</SalesOrderNumber>
+    <SalesOrderReference>GE5300160996GB</SalesOrderReference>
+    <DispatchNumber>011242</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>2238950781</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:15:35Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6a436e1d-ffbb-45c3-bfd1-21effb28a3a1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990353</ProductCode>
+      <EAN>724022990353</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK M</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8a3c6d15-16ca-40cf-ab45-7b8a1585010c</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990360</ProductCode>
+      <EAN>724022990360</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23112 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK L</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

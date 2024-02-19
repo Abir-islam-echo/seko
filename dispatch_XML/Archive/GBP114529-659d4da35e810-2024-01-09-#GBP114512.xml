@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10277</SequenceNumber>
+    <ToBePackedDate>2024-01-09T06:31:05Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-09T10:09:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-09T10:10:13Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>862a6baf-ead5-43b0-9d7c-5071d8e89e9f</DispatchId>
+    <CourierService/>
+    <Weight>0.52</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Denise Murphy</ShipToAttention>
+    <DeliveryAddressLine1>Chapel</DeliveryAddressLine1>
+    <InterfaceRecordId>99254ace-7027-456b-af21-2e23b9d7c310</InterfaceRecordId>
+    <DeliveryAddressLine2>Clonroche</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Enniscorthy</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>Y21 X5N0</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>353 87 958 4887</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>denise_butler@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114529</SalesOrderNumber>
+    <SalesOrderReference>GE5276031858GB</SalesOrderReference>
+    <DispatchNumber>010634</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155037540083520</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-09T06:19:16Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa21d70d-be6f-412e-8600-f70f8346d41b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788313012</ProductCode>
+      <EAN>731788313012</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2302 100% CO CREAM M</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0cf9a2bc-385d-45b4-ba40-6b71c9df63fd</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788312121</ProductCode>
+      <EAN>731788312121</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2353 12GG 90% WO 10% WS PINK M</ProductDescription>
+      <ProductColour>PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>053158d6-8663-4d18-b92b-5df1863bd952</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788312220</ProductCode>
+      <EAN>731788312220</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2354 12GG 90% WO 10% WS BLUE M</ProductDescription>
+      <ProductColour>BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

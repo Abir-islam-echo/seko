@@ -1,0 +1,28 @@
+{
+    "name": "echologyx/toll-integraton",
+    "description": "Toll integration app for Shopify",
+    "type": "php-application",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Echologyx",
+            "email": "shuvo.roy@echologyx.com"
+        }
+    ],
+    "require": {
+        "sergeytsalkov/meekrodb": "^2.4",
+        "phpseclib/phpseclib": "^3.0",
+        "shopify/shopify-api": "^1.0",
+        "catfan/medoo": "^2.1",
+        "monolog/monolog": "^2.4",
+        "phpmailer/phpmailer": "^6.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Toll_Integration\\": "inc/"
+        },
+        "files": [
+            "inc/helpers.php"
+        ]
+    }
+}

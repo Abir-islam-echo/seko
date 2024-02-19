@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10498</SequenceNumber>
+    <ToBePackedDate>2024-01-11T06:22:48Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T09:08:09Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T09:08:48Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2b89a9b9-36fc-466c-a057-71392cf8f12f</DispatchId>
+    <CourierService/>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Eunjung Song</ShipToAttention>
+    <DeliveryAddressLine1>728 Peekskill Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>c1fec942-2524-4799-9418-b3c2ac185e3b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Sunnyvale</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94087</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(408) 4315300</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>reginasong@sbcglobal.net</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114808</SalesOrderNumber>
+    <SalesOrderReference>GE5288849923GB</SalesOrderReference>
+    <DispatchNumber>010917</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1482593324</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T06:18:24Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>db349d4d-07a0-4e85-b338-9d8df527ae2d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981740</ProductCode>
+      <EAN>724022981740</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS GREY MARL/CREAM/BLACK S</ProductDescription>
+      <ProductColour>GREY MARL/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7bd2e333-56ab-44a8-8173-dd1ecd6a50f3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022981986</ProductCode>
+      <EAN>724022981986</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI S</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

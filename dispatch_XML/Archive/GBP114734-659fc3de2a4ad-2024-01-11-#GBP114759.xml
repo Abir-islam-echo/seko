@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10507</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T10:23:18Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T10:24:05Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>a7d4c029-574a-4391-9641-f22063b72488</DispatchId>
+    <CourierService/>
+    <Weight>0.63</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Nancy Piner</ShipToAttention>
+    <DeliveryAddressLine1>90 Holman St</DeliveryAddressLine1>
+    <InterfaceRecordId>5ad88c91-6e1a-4c69-bd04-2ba17218eb5d</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Portsmouth</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02871</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(404) 2930486</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jimnancypiner@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114734</SalesOrderNumber>
+    <SalesOrderReference>GE5286039445GB</SalesOrderReference>
+    <DispatchNumber>010844</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1229166551</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:02:36Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9a4f1d5c-5d2c-4f68-b47f-ca1095b38a54</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788305727</ProductCode>
+      <EAN>731788305727</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE PUNCH M</ProductDescription>
+      <ProductColour>PUNCH</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6b2efab6-3de3-4104-bd44-12d4539bd5c3</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788305406</ProductCode>
+      <EAN>731788305406</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KW81 7GG 100% WS PUNCH XS</ProductDescription>
+      <ProductColour>PUNCH</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9839</SequenceNumber>
+    <ToBePackedDate>2024-01-05T06:26:42Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T09:27:17Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T09:28:59Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>15b20971-6c45-4780-9298-908b8e13b439</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>ETHAN OXENDINE</ShipToAttention>
+    <DeliveryAddressLine1>2557 Evergreen Church Rd</DeliveryAddressLine1>
+    <InterfaceRecordId>8e188f6e-69f1-461c-acc0-c1f6ec06cfc0</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Pembroke</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>28372</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(910) 7345199</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ETHANCO@MAIL.COM</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114087</SalesOrderNumber>
+    <SalesOrderReference>GE5256785215GB</SalesOrderReference>
+    <DispatchNumber>010181</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5735008650</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T06:15:46Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4ceb4dd5-a982-4730-96f8-45e14c752872</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788312145</ProductCode>
+      <EAN>731788312145</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2353 12GG 90% WO 10% WS PINK LL</ProductDescription>
+      <ProductColour>PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

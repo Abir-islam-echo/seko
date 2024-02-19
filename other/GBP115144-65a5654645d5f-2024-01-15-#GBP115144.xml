@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11054</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T16:50:56Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T16:53:11Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>df512637-2e43-47e5-bd8a-60b823596888</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Anne Siglinde Hornbach Beckers</ShipToAttention>
+    <DeliveryAddressLine1>Am Johannisberg 11</DeliveryAddressLine1>
+    <InterfaceRecordId>57ce69e0-8c23-43a0-888c-2fd2a3ba91c9</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Bad NeuenahrAhrweiler</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>53474</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>491721317181</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>siglinde.hornbach@t-online.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115144</SalesOrderNumber>
+    <SalesOrderReference>GE5302297130GB</SalesOrderReference>
+    <DispatchNumber>011293</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504241484301E</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:42:11Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>28cce67b-e8d7-4456-b559-316529af17f0</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990117</ProductCode>
+      <EAN>724022990117</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS OATMEAL MEL/CORAL M</ProductDescription>
+      <ProductColour>OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

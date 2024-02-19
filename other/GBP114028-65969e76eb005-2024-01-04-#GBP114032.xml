@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9679</SequenceNumber>
+    <ToBePackedDate>2024-01-04T11:36:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-04T11:54:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-04T11:59:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>f4cebeeb-501d-4c2d-8901-aa53db39fb64</DispatchId>
+    <CourierService/>
+    <Weight>0.85</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Julia van der Meer</ShipToAttention>
+    <DeliveryAddressLine1>Tosca 19</DeliveryAddressLine1>
+    <InterfaceRecordId>72af7932-6fc8-4b9d-bfcc-8ea6b392da56</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Krimpen aan den IJssel</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2926 PK</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>NL</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>06 43481243</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ypm_81@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114028</SalesOrderNumber>
+    <SalesOrderReference>GE5255645853GB</SalesOrderReference>
+    <DispatchNumber>010120</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503988994703B</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-04T11:31:01Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>14648ec3-1024-4173-8994-4257c984c5f2</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022972113</ProductCode>
+      <EAN>724022972113</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS FLAMINGO PINK 3L</ProductDescription>
+      <ProductColour>FLAMINGO PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>699d2134-49d7-4587-98a5-8be7f482f7c7</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022977170</ProductCode>
+      <EAN>724022977170</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KX21 12GG 70%REC ME 30%WS EVENING GREY/CARMINE LL</ProductDescription>
+      <ProductColour>EVENING GREY/CARMINE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

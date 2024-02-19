@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9858</SequenceNumber>
+    <ToBePackedDate>2024-01-05T09:58:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-05T11:42:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-05T11:50:24Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>34276fc0-a9b4-468e-8e99-a1b4c9f5b0f4</DispatchId>
+    <CourierService/>
+    <Weight>1.75</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Qian  Dai</ShipToAttention>
+    <DeliveryAddressLine1>2722 Saint Giles Lane</DeliveryAddressLine1>
+    <InterfaceRecordId>5b2876c6-1cdd-4d8b-8539-9721ffc8bb31</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Mountain View</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94040</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(310) 8808259</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>hidaiqian@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114160</SalesOrderNumber>
+    <SalesOrderReference>GE5260062845GB</SalesOrderReference>
+    <DispatchNumber>010254</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>5415615925</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-05T09:54:18Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>a786a532-6199-41f1-a90b-5e6549a33783</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329181</ProductCode>
+      <EAN>731788329181</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY01 3GG 100% LAMBSWOOL ENERGY BLUE LL</ProductDescription>
+      <ProductColour>ENERGY BLUE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>bad2a2ed-1107-49af-b289-c8b8ce3f0d68</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788316969</ProductCode>
+      <EAN>731788316969</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2335 3GG 90% WO 10% WS BLACK/MULTI XS</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c0e6c9fa-37e5-480b-a833-1a58e58ba9a7</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788317546</ProductCode>
+      <EAN>731788317546</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2345 5GG 90% WO / 10% WS BLACK/MULTI LL</ProductDescription>
+      <ProductColour>BLACK/MULTI</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

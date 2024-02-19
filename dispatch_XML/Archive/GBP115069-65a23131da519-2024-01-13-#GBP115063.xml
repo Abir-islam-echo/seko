@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10811</SequenceNumber>
+    <ToBePackedDate>2024-01-13T06:20:32Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-13T06:36:50Z</ToDispatchDate>
+    <DispatchDate>2024-01-13T06:39:39Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>314e59b1-e6d5-4c12-bb24-b64a4a71ffc0</DispatchId>
+    <CourierService/>
+    <Weight>0.24</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Bianca Maria Manhart</ShipToAttention>
+    <DeliveryAddressLine1>Mattheiser Acht 18</DeliveryAddressLine1>
+    <InterfaceRecordId>0b621b79-7d76-4484-954d-58609f522763</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Konz</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>54329</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>4915159418189</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>bmmanhart@t-online.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115069</SalesOrderNumber>
+    <SalesOrderReference>GE5298464951GB</SalesOrderReference>
+    <DispatchNumber>011219</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15504214424230Z</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-13T06:09:18Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2aa73288-ae0f-43d3-8c13-dc9c270333e1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022973530</ProductCode>
+      <EAN>724022973530</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>AU21 12GG 90% WO / 10% WS HIGH RISK RED OS</ProductDescription>
+      <ProductColour>HIGH RISK RED</ProductColour>
+      <ProductGrossWeight>0.04</ProductGrossWeight>
+      <ProductSize>OS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>58d96b8a-28d0-4238-ae0a-aef1ee68d4df</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788315955</ProductCode>
+      <EAN>731788315955</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2392 12GG 90% WO / 10% WS CANDY APPLE RED/CREAM S</ProductDescription>
+      <ProductColour>CANDY APPLE RED/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

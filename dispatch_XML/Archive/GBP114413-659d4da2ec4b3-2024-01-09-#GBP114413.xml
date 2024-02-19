@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10160</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:27:51Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T15:32:21Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T15:33:08Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c4325f31-8468-42fc-ada4-bddc6e7c04de</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Riona Hegarty</ShipToAttention>
+    <DeliveryAddressLine1>89 Coppinger Glade</DeliveryAddressLine1>
+    <InterfaceRecordId>a2cfdeb3-dca9-48ab-9c22-e1d6a03c0ca6</InterfaceRecordId>
+    <DeliveryAddressLine2>Blackrock</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Dublin</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>A94 AD83</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>IE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>086 805 1739</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>rionaandmichael@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114413</SalesOrderNumber>
+    <SalesOrderReference>GE5270971950GB</SalesOrderReference>
+    <DispatchNumber>010513</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602675805W</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:17:46Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5b3be24f-8d55-4191-b08b-115b2fc4e4b7</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788329853</ProductCode>
+      <EAN>731788329853</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23104 12GG 90% WO / 10% WS NAVY/CORAL PINK M</ProductDescription>
+      <ProductColour>NAVY/CORAL PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

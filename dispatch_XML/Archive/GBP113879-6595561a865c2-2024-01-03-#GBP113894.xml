@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9567</SequenceNumber>
+    <ToBePackedDate>2024-01-03T12:21:34Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T12:37:33Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T12:38:13Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e5457098-8190-484d-b46b-7862e5b8dcee</DispatchId>
+    <CourierService/>
+    <Weight>0.6</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Steve Lane</ShipToAttention>
+    <DeliveryAddressLine1>2466 Francisco Street</DeliveryAddressLine1>
+    <InterfaceRecordId>bf83261e-3b9a-4f6d-ac78-67899182d417</InterfaceRecordId>
+    <DeliveryAddressLine2># 104</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>San Francisco</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>94123</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(510) 2066084</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>drsdldns@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113879</SalesOrderNumber>
+    <SalesOrderReference>GE5250544817GB</SalesOrderReference>
+    <DispatchNumber>009966</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1673069532</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T12:14:16Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>33f17eef-e410-4580-9f43-5b9ea7e7bf50</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788327644</ProductCode>
+      <EAN>731788327644</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS SOFT TRUFFLE/CHARCOAL XS</ProductDescription>
+      <ProductColour>SOFT TRUFFLE/CHARCOAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8b91b781-4c50-4a7b-96cc-16c51b37efe0</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788327804</ProductCode>
+      <EAN>731788327804</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS PINE/NAVY LL</ProductDescription>
+      <ProductColour>PINE/NAVY</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3247740a-92b3-4995-9043-804f483241d8</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788327705</ProductCode>
+      <EAN>731788327705</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2389 12GG 100% WS NAVY/SAFFRON XS</ProductDescription>
+      <ProductColour>NAVY/SAFFRON</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

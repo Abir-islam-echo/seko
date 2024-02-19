@@ -1,0 +1,140 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10696</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:39:03Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:49:04Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>baff0141-e608-4bc6-95b6-411f448e9976</DispatchId>
+    <CourierService/>
+    <Weight>2.57</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Christine Kessel Knauf</ShipToAttention>
+    <DeliveryAddressLine1>Adalbertstrasse 24</DeliveryAddressLine1>
+    <InterfaceRecordId>95b70718-0d8d-4a30-b441-2da2ebefd083</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Duesseldorf</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>40545</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>01511 8519997</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>kessel-knauf@gmx.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114894</SalesOrderNumber>
+    <SalesOrderReference>GE5291181997GB</SalesOrderReference>
+    <DispatchNumber>011009</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155037549841652</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:43:57Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>629eb635-7e55-49f9-a1c6-a6bcbf89a313</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788305727</ProductCode>
+      <EAN>731788305727</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG CASHMERE PUNCH M</ProductDescription>
+      <ProductColour>PUNCH</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>839d259e-1c9b-41f7-8bf3-8b0e2eaff376</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788318369</ProductCode>
+      <EAN>731788318369</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2318 7GG 100% WS PURE BLUE M</ProductDescription>
+      <ProductColour>PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>006f74bd-79e0-4660-97c8-f30686ce9d1c</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>731788318475</ProductCode>
+      <EAN>731788318475</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2318 7GG 100% WS POWDER PINK S</ProductDescription>
+      <ProductColour>POWDER PINK</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>20113c64-9204-4976-b9e7-edaa1acf5ea5</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022973462</ProductCode>
+      <EAN>724022973462</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2380 12GG 90% WO / 10% WS BLACK S/M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>S/M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa703560-3149-4a5b-9749-034ddce2ac9c</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>731788328573</ProductCode>
+      <EAN>731788328573</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KY07 5GG 90% W 10% WS BLACK/CREAM M</ProductDescription>
+      <ProductColour>BLACK/CREAM</ProductColour>
+      <ProductGrossWeight>0.4</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5358afc1-7c6b-4792-afcd-4cfe0399d71a</LineInterfaceRecordId>
+      <LineNumber>6</LineNumber>
+      <ProductCode>724022977040</ProductCode>
+      <EAN>724022977040</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KX21 12GG 70%REC ME 30%WS EVENING GREY/CARMINE M</ProductDescription>
+      <ProductColour>EVENING GREY/CARMINE</ProductColour>
+      <ProductGrossWeight>0.65</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

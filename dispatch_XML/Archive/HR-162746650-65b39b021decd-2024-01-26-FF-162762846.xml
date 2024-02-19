@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>12084</SequenceNumber>
+    <ToBePackedDate>2024-01-26T09:53:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-26T10:10:43Z</ToDispatchDate>
+    <DispatchDate>2024-01-26T11:33:29Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>d2d0de55-1152-4f62-afa0-97d4e171711a</DispatchId>
+    <CourierService/>
+    <Weight>0.27</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>Messologiou 5A Agios Stefanos</DeliveryAddressLine1>
+    <InterfaceRecordId>7090deba-b5ee-4476-9113-84410de9564b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>48352991@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-162746650</SalesOrderNumber>
+    <SalesOrderReference>5108291108942</SalesOrderReference>
+    <DispatchNumber>012444</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>5264745301</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-26T09:52:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c45b1223-2a99-41cb-9e2b-d0b6fad9d0dd</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>787099417352</ProductCode>
+      <EAN>787099417352</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ218 CASHMERE BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.27</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

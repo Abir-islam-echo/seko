@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10504</SequenceNumber>
+    <ToBePackedDate>2024-01-11T07:16:19Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T10:17:56Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T10:18:39Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>b0d126f3-a797-4ba8-a9b4-7c906d178234</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Joyce OConnor</ShipToAttention>
+    <DeliveryAddressLine1>123 Finlay St</DeliveryAddressLine1>
+    <InterfaceRecordId>b25f7aa6-f078-498d-ab3b-0c07cd218c5f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Staten Island</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10307-1652</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>9173643586</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ocojoyce@aol.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114746</SalesOrderNumber>
+    <SalesOrderReference>GE5286268656GB</SalesOrderReference>
+    <DispatchNumber>010856</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4784985726</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-11T07:08:20Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>cbf8d279-32d4-4bd7-ad93-015d9c79f2cf</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788318185</ProductCode>
+      <EAN>731788318185</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ218 12GG 100% WS PURE BLUE M</ProductDescription>
+      <ProductColour>PURE BLUE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

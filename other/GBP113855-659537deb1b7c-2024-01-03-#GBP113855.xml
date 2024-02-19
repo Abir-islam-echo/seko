@@ -1,0 +1,157 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9555</SequenceNumber>
+    <ToBePackedDate>2024-01-03T07:18:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-03T10:22:41Z</ToDispatchDate>
+    <DispatchDate>2024-01-03T10:23:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>958f89a3-82f9-4381-bdad-015e34d776a8</DispatchId>
+    <CourierService/>
+    <Weight>1.81</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ana Mary Quesada Jimenez</ShipToAttention>
+    <DeliveryAddressLine1>2008 Tall Grass Lane</DeliveryAddressLine1>
+    <InterfaceRecordId>4013ccab-b386-4974-9f9f-152c131c550c</InterfaceRecordId>
+    <DeliveryAddressLine2>Unit 205</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Canonsbourg</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>15317</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(724) 9981255</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>amqj1234@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113855</SalesOrderNumber>
+    <SalesOrderReference>GE5249391875GB</SalesOrderReference>
+    <DispatchNumber>009943</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3541891194</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-03T07:11:11Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4efb5e25-e65a-4907-9a50-0e8cf4b44000</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982112</ProductCode>
+      <EAN>724022982112</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK M</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8921a14b-a82f-472d-bd33-82231f8f2b69</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022982280</ProductCode>
+      <EAN>724022982280</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2428 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BUTTER YELLOW M</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BUTTER YELLOW</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b2d671f3-d0b9-4978-9610-33f4ad38b249</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022982020</ProductCode>
+      <EAN>724022982020</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI 3L</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c9c2f949-6a59-47c1-b80e-ce404f833f7e</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022981849</ProductCode>
+      <EAN>724022981849</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS PISTACHIO GREEN/CREAM/BLACK 3L</ProductDescription>
+      <ProductColour>PISTACHIO GREEN/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>649f8d0c-1f27-49d1-ae73-29d39231b802</LineInterfaceRecordId>
+      <LineNumber>5</LineNumber>
+      <ProductCode>724022982143</ProductCode>
+      <EAN>724022982143</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK 3L</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0fb9a9f6-4661-455c-9b7d-a6c45fc7aa15</LineInterfaceRecordId>
+      <LineNumber>6</LineNumber>
+      <ProductCode>724022982310</ProductCode>
+      <EAN>724022982310</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2428 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BUTTER YELLOW 3L</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BUTTER YELLOW</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c56e7fe7-ac75-464d-bbff-5ef266550cfe</LineInterfaceRecordId>
+      <LineNumber>7</LineNumber>
+      <ProductCode>724022989135</ProductCode>
+      <EAN>724022989135</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KK27B 5GG 90% WO / 10% WS CREAM/RED LL</ProductDescription>
+      <ProductColour>CREAM/RED</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10698</SequenceNumber>
+    <ToBePackedDate>2024-01-12T06:54:08Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-12T08:53:26Z</ToDispatchDate>
+    <DispatchDate>2024-01-12T08:56:11Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e72da3f1-af2a-4543-984a-721ad5c6ed51</DispatchId>
+    <CourierService/>
+    <Weight>0.63</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Eleni Loizou</ShipToAttention>
+    <DeliveryAddressLine1>12 Charalambos Pettemerides Street</DeliveryAddressLine1>
+    <InterfaceRecordId>58eeef8e-f955-46d0-b4cc-3dcd3afbd993</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Nicosia</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>2042</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>CY</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0035799370106</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>ec_loizou@cytanet.com.cy</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114934</SalesOrderNumber>
+    <SalesOrderReference>GE5292370150GB</SalesOrderReference>
+    <DispatchNumber>011051</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>3750263602</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-12T06:47:49Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2ac5f788-f752-4ac4-ae6b-e50cd9ed8f38</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990179</ProductCode>
+      <EAN>724022990179</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23113 7GG 90% WO / 10% WS NAVY/BLUE M</ProductDescription>
+      <ProductColour>NAVY/BLUE</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2c26b66f-e69f-45c7-a151-dcce9ce56054</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022989500</ProductCode>
+      <EAN>724022989500</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ83 B 12GG 90% WO / 10% WS GREY MEL/OATMEAL MEL/CORAL S</ProductDescription>
+      <ProductColour>GREY MEL/OATMEAL MEL/CORAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

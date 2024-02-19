@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>11060</SequenceNumber>
+    <ToBePackedDate>2024-01-15T14:28:07Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T17:06:46Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T17:08:35Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>88e4b134-b646-438c-b294-e60262e2d891</DispatchId>
+    <CourierService/>
+    <Weight>0.66</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ines Rudolph</ShipToAttention>
+    <DeliveryAddressLine1>Loretoweg 3</DeliveryAddressLine1>
+    <InterfaceRecordId>576ef967-e486-4abc-8869-3145f0eec4ef</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Landshut</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>84024</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>491705555188</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>serissa_ines.rudolph@icloud.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115170</SalesOrderNumber>
+    <SalesOrderReference>GE5303107274GB</SalesOrderReference>
+    <DispatchNumber>011318</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>155042144976167</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-14T06:36:11Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9956f1bc-9586-44f3-8218-0690e57186a8</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321383</ProductCode>
+      <EAN>731788321383</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS VIVID VIOLET S</ProductDescription>
+      <ProductColour>VIVID VIOLET</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0849b893-b786-4f0f-b2ab-8548e6faf73a</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788300463</ProductCode>
+      <EAN>731788300463</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2326 12GG 90% WO / 10% WS BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

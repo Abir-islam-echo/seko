@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10152</SequenceNumber>
+    <ToBePackedDate>2024-01-08T10:49:58Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-08T13:40:49Z</ToDispatchDate>
+    <DispatchDate>2024-01-08T13:42:44Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>9d0cef06-ed69-4613-9c21-722b4a5985fe</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Felicitas von Lovenberg</ShipToAttention>
+    <DeliveryAddressLine1>Wolfratshauser Str 30</DeliveryAddressLine1>
+    <InterfaceRecordId>fdaad331-9bb7-481f-83e0-43c069e19e3d</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Geretsried</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>82538</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>DE</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>491715375308</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>f.v.lovenberg@web.de</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114279</SalesOrderNumber>
+    <SalesOrderReference>GE5265298226GB</SalesOrderReference>
+    <DispatchNumber>010378</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>15503602578635J</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-08T10:34:33Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3255e42c-cfe4-48ee-9789-6b6e708e39bc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982112</ProductCode>
+      <EAN>724022982112</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2404 12GG 90% WO / 10% WS DEEP NAVY/CREAM/BLACK M</ProductDescription>
+      <ProductColour>DEEP NAVY/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

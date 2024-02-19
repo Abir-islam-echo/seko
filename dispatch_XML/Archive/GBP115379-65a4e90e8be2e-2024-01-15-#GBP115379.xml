@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10997</SequenceNumber>
+    <ToBePackedDate>2024-01-15T07:02:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-15T08:00:40Z</ToDispatchDate>
+    <DispatchDate>2024-01-15T08:01:41Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>2b552472-aeb3-47bf-8f9b-fe9102d80702</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Olga Pinson</ShipToAttention>
+    <DeliveryAddressLine1>351 Winchester st</DeliveryAddressLine1>
+    <InterfaceRecordId>1d2aa471-6f3e-41bf-bfe0-d1b2dee0e603</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>NEWTON HIGHLANDS</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>02461</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(617) 5300100</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>olgapinson@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP115379</SalesOrderNumber>
+    <SalesOrderReference>GE5311233158GB</SalesOrderReference>
+    <DispatchNumber>011526</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1422093223</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-15T06:58:48Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>69695241-cfcc-45e9-ab67-b21215f43f77</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>769807739673</ProductCode>
+      <EAN>769807739673</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2321 90% W / 10% WS HOT PINK L</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

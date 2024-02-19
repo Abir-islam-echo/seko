@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>10546</SequenceNumber>
+    <ToBePackedDate>2024-01-11T15:11:53Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-11T16:06:12Z</ToDispatchDate>
+    <DispatchDate>2024-01-11T16:07:02Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>8d4b9db6-ff24-4512-ba2a-ca871fa7f69f</DispatchId>
+    <CourierService/>
+    <Weight>0.45</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Tamura Yoshiki</ShipToAttention>
+    <DeliveryAddressLine1>hiroo 3choume 5bannchi 22gou</DeliveryAddressLine1>
+    <InterfaceRecordId>9a3f4113-39e5-49c5-941c-d8cb6fa3d2b7</InterfaceRecordId>
+    <DeliveryAddressLine2>HirooQuelle202</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Shibuya</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>150-0012</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>JP</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>0364279853</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>tmykr4@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP114687</SalesOrderNumber>
+    <SalesOrderReference>GE5284860507GB</SalesOrderReference>
+    <DispatchNumber>010795</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>1271330141</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-10T11:21:34Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>dd4f4266-78a9-40b1-a98a-626f895668c2</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022989166</ProductCode>
+      <EAN>724022989166</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KK27B 5GG 90% WO / 10% WS BLACK/RED M</ProductDescription>
+      <ProductColour>BLACK/RED</ProductColour>
+      <ProductGrossWeight>0.45</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>9465</SequenceNumber>
+    <ToBePackedDate>2024-01-02T12:04:46Z</ToBePackedDate>
+    <ToDispatchDate>2024-01-02T13:31:16Z</ToDispatchDate>
+    <DispatchDate>2024-01-02T13:31:55Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e39c7ed9-43df-4c3a-a5b9-640cd4e3a074</DispatchId>
+    <CourierService/>
+    <Weight>0.67</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jessica Spence</ShipToAttention>
+    <DeliveryAddressLine1>210 W 78th St</DeliveryAddressLine1>
+    <InterfaceRecordId>c7b36a50-58d6-4017-be90-6372347da02a</InterfaceRecordId>
+    <DeliveryAddressLine2>10A </DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>New York</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>10024</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>US</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>(773) 5054049</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jessicaalice.spence@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP113790</SalesOrderNumber>
+    <SalesOrderReference>GE5245525261GB</SalesOrderReference>
+    <DispatchNumber>009866</DispatchNumber>
+    <CourierName>GLOBALE</CourierName>
+    <CourierRef>4806781755</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-01-02T11:54:28Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>8c3aafef-d4e9-4dfc-a5ed-59d251cfd76a</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788318482</ProductCode>
+      <EAN>731788318482</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2318 7GG 100% WS POWDER PINK M</ProductDescription>
+      <ProductColour>POWDER PINK</ProductColour>
+      <ProductGrossWeight>0.39</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>35cc30e6-f531-4196-93fe-1029b4130806</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>731788318901</ProductCode>
+      <EAN>731788318901</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KJ222 12GG 100% WS POWDER PINK M</ProductDescription>
+      <ProductColour>POWDER PINK</ProductColour>
+      <ProductGrossWeight>0.28</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>
