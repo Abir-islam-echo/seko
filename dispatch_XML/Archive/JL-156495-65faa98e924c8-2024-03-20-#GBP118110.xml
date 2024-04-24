@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14159</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:33:45Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027235GB</TrackingUrl>
+    <DispatchId>1ead33ce-001a-464e-bc7b-b2dbde5321a7</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mrs Charlie Zhao</ShipToAttention>
+    <DeliveryAddressLine1>7 Hainthorpe Road</DeliveryAddressLine1>
+    <InterfaceRecordId>acbdde9a-8475-4b86-bba7-4f61553185a3</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>London</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>SE27 0PL</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447469243295</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>charliejane71@yahoo.co.uk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156495</SalesOrderNumber>
+    <SalesOrderReference>5579054284885</SalesOrderReference>
+    <DispatchNumber>014605</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027235GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:10:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>0b220dc6-360d-4edc-9737-e79f2463f6b1</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>746935732004</ProductCode>
+      <EAN>746935732004</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KH103E 12GG 90% WO 10% WS NAVY/CREAM/RED S</ProductDescription>
+      <ProductColour>NAVY/CREAM/RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

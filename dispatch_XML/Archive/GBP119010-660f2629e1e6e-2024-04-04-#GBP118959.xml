@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>15124</SequenceNumber>
+    <ToBePackedDate>2024-04-04T13:58:54Z</ToBePackedDate>
+    <ToDispatchDate>2024-04-04T14:59:39Z</ToDispatchDate>
+    <DispatchDate>2024-04-04T22:11:20Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193034112GB</TrackingUrl>
+    <DispatchId>b367f4d3-e222-4d67-8f75-4a3bb382ce4f</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.63</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Lynn McGarrity</ShipToAttention>
+    <DeliveryAddressLine1>6 Innerleithen Way</DeliveryAddressLine1>
+    <InterfaceRecordId>3e59e9fe-5e8b-4c46-98d9-9b31bada148c</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Perth</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>PH1 1RN</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+17869611194</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>lynnmcgarrity@aol.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP119010</SalesOrderNumber>
+    <SalesOrderReference>5177278136398</SalesOrderReference>
+    <DispatchNumber>015573</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193034112GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-04-04T13:48:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>40c05e95-0326-4a92-8ef1-07540cbefecb</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990254</ProductCode>
+      <EAN>724022990254</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23111 7GG 90% WO / 10% WS CREAM/GREY MEL/BRIGHT PINK LL</ProductDescription>
+      <ProductColour>CREAM/GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>19dd19a1-973b-4285-8f4c-26c9b8b1b157</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022989760</ProductCode>
+      <EAN>724022989760</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS GREY MEL/BRIGHT PINK L</ProductDescription>
+      <ProductColour>GREY MEL/BRIGHT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

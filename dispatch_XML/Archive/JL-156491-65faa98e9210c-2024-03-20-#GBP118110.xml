@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14145</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:44:20Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027099GB</TrackingUrl>
+    <DispatchId>43bdcec8-fda5-42a9-b75e-2569a74b2de6</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.4</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Miss Anne Garrihy</ShipToAttention>
+    <DeliveryAddressLine1>75 Dukes Wood Drive</DeliveryAddressLine1>
+    <InterfaceRecordId>b3fd61d2-f145-47cb-ab37-51a6ca0f62d2</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Gerrards Cross</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>SL9 7LQ</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447717718496</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>anne.garrihy@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156491</SalesOrderNumber>
+    <SalesOrderReference>5578792075349</SalesOrderReference>
+    <DispatchNumber>014585</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027099GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:09:49Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>768f85f5-bdf8-4466-bbf9-1aba56c6b6d0</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022993415</ProductCode>
+      <EAN>724022993415</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS POWDER BLUE/CREAM M</ProductDescription>
+      <ProductColour>POWDER BLUE/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>b580f9a5-b555-483d-bbab-7a3f760a7634</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022993422</ProductCode>
+      <EAN>724022993422</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS POWDER BLUE/CREAM L</ProductDescription>
+      <ProductColour>POWDER BLUE/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

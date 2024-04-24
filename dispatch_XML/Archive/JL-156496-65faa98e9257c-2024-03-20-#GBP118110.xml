@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14162</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:42:19Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027261GB</TrackingUrl>
+    <DispatchId>e2862942-a21e-486f-aaaf-cbd11648f45d</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Ms deborah morris</ShipToAttention>
+    <DeliveryAddressLine1>4 Hazeldown Avenue</DeliveryAddressLine1>
+    <InterfaceRecordId>4a1fb56c-aa5a-44fb-b445-ce00b923ee91</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Weymouth</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>DT3 6HT</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447740196541</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>richard.morris44@btopenworld.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156496</SalesOrderNumber>
+    <SalesOrderReference>5579095375957</SalesOrderReference>
+    <DispatchNumber>014608</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027261GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:12:04Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>55c7ef3d-0e73-4046-b2d3-dcb3b546a70f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982426</ProductCode>
+      <EAN>724022982426</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TSS2401 100% CO CREAM/MULTI LL</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

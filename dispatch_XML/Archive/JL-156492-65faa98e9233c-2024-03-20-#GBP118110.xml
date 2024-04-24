@@ -1,0 +1,89 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14154</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:35:53Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027187GB</TrackingUrl>
+    <DispatchId>88644f0c-c41d-4134-a3ba-683d978350fa</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>1.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mrs Sarah EDWARDS</ShipToAttention>
+    <DeliveryAddressLine1>54 Edgar Road</DeliveryAddressLine1>
+    <InterfaceRecordId>28514b2c-e212-42ec-b795-f8dcb63b7fd6</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Winchester</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>SO23 9TN</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447543658925</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sarahimogen@hotmail.co.uk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156492</SalesOrderNumber>
+    <SalesOrderReference>5578875011157</SalesOrderReference>
+    <DispatchNumber>014595</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027187GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:10:18Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>074140dc-bf83-47b5-bf05-80ed84ca5d95</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022993156</ProductCode>
+      <EAN>724022993156</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2487 12GG 90% WO / 10% WS NAVY/CREAM XS</ProductDescription>
+      <ProductColour>NAVY/CREAM</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>01d0a0fb-80ab-43ff-ad6f-6d2580c34ef2</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022984376</ProductCode>
+      <EAN>724022984376</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2415 7GG 90% WO / 10% WS CREAM XS</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3e2a1694-e6dd-42f9-9908-a54683e3cfb0</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022985250</ProductCode>
+      <EAN>724022985250</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2415 7GG 90% WO / 10% WS CREAM/NAVY XS</ProductDescription>
+      <ProductColour>CREAM/NAVY</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

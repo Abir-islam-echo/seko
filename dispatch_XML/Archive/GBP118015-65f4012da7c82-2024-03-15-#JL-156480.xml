@@ -1,0 +1,111 @@
+
+
+
+
+
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14027</SequenceNumber>
+    <ToBePackedDate>2024-03-14T12:18:55Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-14T12:39:31Z</ToDispatchDate>
+    <DispatchDate>2024-03-15T07:59:26Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193026385GB</TrackingUrl>
+    <DispatchId>81ea1a25-6172-4311-b04f-077b3291ced5</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.98</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jayne Gregg</ShipToAttention>
+    <DeliveryAddressLine1>119 Killagan Road</DeliveryAddressLine1>
+    <InterfaceRecordId>af7e9b23-0abf-4e43-974f-6d352520343d</InterfaceRecordId>
+    <DeliveryAddressLine2>Glarryford</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Ballymena</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>BT44 9PS</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>07931 468114</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>gandjgregg@btinternet.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP118015</SalesOrderNumber>
+    <SalesOrderReference>5153330069582</SalesOrderReference>
+    <DispatchNumber>014455</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193026385GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-14T12:12:44Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5d437a20-34d1-4a34-869e-537a1356bb6d</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788321758</ProductCode>
+      <EAN>731788321758</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS HOT PINK S</ProductDescription>
+      <ProductColour>HOT PINK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>db421a2a-2154-4057-a0a9-65cb9596bf72</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022990865</ProductCode>
+      <EAN>724022990865</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS PINK LEMONADE S</ProductDescription>
+      <ProductColour>PINK LEMONADE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>babf8e47-eb2a-4b0b-af14-a44c70bd407e</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022975916</ProductCode>
+      <EAN>724022975916</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS LIGHT OATMEAL S</ProductDescription>
+      <ProductColour>LIGHT OATMEAL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>baty8e47-eb5a-4a0b-ag14-a45c70bd417e</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022991572</ProductCode>
+      <EAN>724022991572</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS PINK LEMONADE XS</ProductDescription>
+      <ProductColour>PINK LEMONADE</ProductColour>
+      <ProductGrossWeight>0.38</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -13,12 +13,12 @@ $sftp = new \Toll_Integration\RemoteSFTP();
 //$sam = $api->getOrder('4777522724942');
 //print_r($sam);
 // print_r($api->getOrder('5255641235759'));
-// $fruits = array("5029819220046","5029819121742","5029814730830","5029805064270","5029800247374","5029798871118","5029792219214","5029790548046","5029787729998");
+// $fruits = array();
 // foreach ($fruits as $fruit) {
 //     $xml->generateOrdersXML($fruit);
 // }
 
-$xml->generateOrdersXML('5127439712334');
+$xml->generateOrdersXML('4260586946609');
 
 
 

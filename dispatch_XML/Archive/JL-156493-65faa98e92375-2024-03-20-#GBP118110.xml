@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14155</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:31:33Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027195GB</TrackingUrl>
+    <DispatchId>0c51f863-5a6a-4ed8-8e5c-39977cde9c28</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.5</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Mrs Jennifer Stipe</ShipToAttention>
+    <DeliveryAddressLine1>Finches Acre</DeliveryAddressLine1>
+    <InterfaceRecordId>a3e9f07e-62d2-4d90-851b-dc3a19a364c6</InterfaceRecordId>
+    <DeliveryAddressLine2> Thursley Road</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Elstead</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>GU8 6DG</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447872544841</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jennifer.stipe@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156493</SalesOrderNumber>
+    <SalesOrderReference>5578879336533</SalesOrderReference>
+    <DispatchNumber>014597</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027195GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:11:47Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>5ce7b6a9-3167-45b2-8ba4-e34397ca7c06</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022988985</ProductCode>
+      <EAN>724022988985</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>DY73 100% CO NAVY/CREAM 10</ProductDescription>
+      <ProductColour>NAVY/CREAM</ProductColour>
+      <ProductGrossWeight>0.5</ProductGrossWeight>
+      <ProductSize>10</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

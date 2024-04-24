@@ -21,7 +21,7 @@ class XML
 
     public function generateOrdersXML($orderID = '')
     {
-        
+
         if (!empty($orderID)) {
             $orders[] = $this->api->getOrder($orderID) ? $this->api->getOrder($orderID)['order'] : [];
         } else {
@@ -113,13 +113,29 @@ class XML
             $ordersXML->Request->addChild('WebSalesOrder');
             isset($order['name']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderNumber', $order['name']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderNumber', ' ');
 
-
-            if (!empty($order['note_attributes']) && str_contains($order['tags'], 'Globale::') !== false) {
+            // AB Check order note attribute
+            function isNoteAttributeAvailable($order, $attribute)
+            {
                 foreach ($order['note_attributes'] as $note_attribute) {
-                    if ($note_attribute['name'] == "GEOrderId") {
-                        $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $note_attribute['value']);
+                    if ($note_attribute['name'] == $attribute) {
+                        return $note_attribute['value'];
                     }
                 }
+                return false;
+            }
+            // AB Check order note attribute
+
+            if (!empty($order['note_attributes']) && str_contains($order['tags'], 'Globale::') !== false) {
+                // foreach ($order['note_attributes'] as $note_attribute) {
+                //     if ($note_attribute['name'] == "GEOrderId") {
+                //         $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $note_attribute['value']);
+                //     }
+                // }
+                isNoteAttributeAvailable($order, "GEOrderId") && $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', isNoteAttributeAvailable($order, "GEOrderId"));
+            } else if (!empty($order['note_attributes']) && str_contains($order['tags'], 'The Bay') !== false) {
+                isNoteAttributeAvailable($order, "Order_id") && $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', isNoteAttributeAvailable($order, "Order_id"));
+
+                isNoteAttributeAvailable($order, "Mirakl order link") && $ordersXML->Request->WebSalesOrder->addChild('OrderLink', isNoteAttributeAvailable($order, "Mirakl order link"));
             } else {
                 isset($order['name']) ? $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', $order['id']) : $ordersXML->Request->WebSalesOrder->addChild('SalesOrderReference', ' ');
             }
@@ -260,10 +276,23 @@ class XML
             } else if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Shop Premium Outlets')) {
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
+            } elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'The Bay')) {
+                $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
+                $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
+                $ordersXML->Request->WebSalesOrder->addChild('ShippingTerm', 'DDP');
+            } elseif (str_contains($order['name'], 'ZL') !== false) {
+                $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
+                $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
+                // if (isset($orders[0]['note_attributes'])) {
+                //     $ordersXML->Request->WebSalesOrder->addChild('SpecialInstructions', $orders[0]['note_attributes'][4]['value']);
+                // }
+                if (!empty($order['note_attributes'])) {
+                    isNoteAttributeAvailable($order, "Delivery note URL 1") && $ordersXML->Request->WebSalesOrder->addChild('SpecialInstructions', isNoteAttributeAvailable($order, "Delivery note URL 1"));
+                }
             }
 
 
-            if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], '24S')) {
+            if ((isset($orders[0]['tags']) && str_contains($orders[0]['tags'], '24S')) || (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'The Bay'))) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_6');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_6');
             } elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Harper')) {
@@ -291,10 +320,18 @@ class XML
             } elseif (str_contains($order['name'], '#JL')) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_9');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_9');
+            } elseif (str_contains($order['name'], 'ZL') !== false) {
+                $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_10');
+                $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_10');
             } else {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', $this->getPackageType($order));
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', $this->getPackageType($order));
             }
+
+            // elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'The Bay')) {
+            //     $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_3');
+            //     $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_3');
+            // }
 
 
             $ordersXML->Request->WebSalesOrder->addChild('OrderType', 'Web');

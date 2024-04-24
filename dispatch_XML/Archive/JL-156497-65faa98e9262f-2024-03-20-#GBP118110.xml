@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14165</SequenceNumber>
+    <ToBePackedDate>2024-03-19T21:09:11Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T21:17:18Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027292GB</TrackingUrl>
+    <DispatchId>92d45671-53e3-4cd1-afdc-0e195445d270</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Leslie Gilman</ShipToAttention>
+    <DeliveryAddressLine1>Statfold Farm</DeliveryAddressLine1>
+    <InterfaceRecordId>fd35fc34-0386-4542-9c82-f4e17e5b7f52</InterfaceRecordId>
+    <DeliveryAddressLine2>Clifton Lane</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Tamworth</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>B79 0AE</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447855895226</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>lesley.gilman@statfoldfarm.co.uk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156497</SalesOrderNumber>
+    <SalesOrderReference>5579262459989</SalesOrderReference>
+    <DispatchNumber>014612</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027292GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T21:06:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>d2f50d2b-bb62-41f6-ba4a-2eef164c1a48</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022993446</ProductCode>
+      <EAN>724022993446</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW23110 12GG 90% WO / 10% WS POWDER BLUE/CREAM 3L</ProductDescription>
+      <ProductColour>POWDER BLUE/CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>3L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

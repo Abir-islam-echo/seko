@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>14158</SequenceNumber>
+    <ToBePackedDate>2024-03-19T19:14:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-03-19T19:40:30Z</ToDispatchDate>
+    <DispatchDate>2024-03-20T08:52:25Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193027227GB</TrackingUrl>
+    <DispatchId>0201ac2b-ad42-45ae-ba5e-6dddcb180e29</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Emily  Maitlis</ShipToAttention>
+    <DeliveryAddressLine1>Church Farm</DeliveryAddressLine1>
+    <InterfaceRecordId>98ac13aa-6d3b-44c7-95a9-8604a6546d81</InterfaceRecordId>
+    <DeliveryAddressLine2>Pett Road</DeliveryAddressLine2>
+    <DeliveryAddressLine3>Pett</DeliveryAddressLine3>
+    <DeliveryAddressCity>Hastings</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>TN35 4HE</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447894838631</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>emily.maitlis@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#JL-156494</SalesOrderNumber>
+    <SalesOrderReference>5579044094037</SalesOrderReference>
+    <DispatchNumber>014604</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193027227GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-03-19T19:11:24Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>28cb55f7-5ed0-41dd-8789-f072ebf49196</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022981733</ProductCode>
+      <EAN>724022981733</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS GREY MARL/CREAM/BLACK XS</ProductDescription>
+      <ProductColour>GREY MARL/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>
