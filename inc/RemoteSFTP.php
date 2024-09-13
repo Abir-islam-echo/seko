@@ -88,10 +88,10 @@ class RemoteSFTP
             //  echo '</pre>';
 
             if ($fullFilmentStatus) {
-                
-             echo '<pre> remoteSftp $xmlItems';
-             print_r($fullFilmentStatus);
-             echo '</pre>';
+
+                echo '<pre> remoteSftp $xmlItems';
+                print_r($fullFilmentStatus);
+                echo '</pre>';
                 //$this->moveDespatchedFile($value, 'dispatch_XML/', 'dispatch_XML/Archive/');
                 rename($dispatchLocation . $value, $dispatchLocation . 'Archive/' . $value);
             }
@@ -103,17 +103,18 @@ class RemoteSFTP
     public function getDespatchedFileSeparator()
     {
         $xmlItems = $this->scanDirectory(APP_FOLDER . 'Push/Dispatch_Con/');
-        $test = [];
+        $orderIds = [];
         foreach ($xmlItems as $key => $value) {
-
             if ($value && (strpos($value, 'PT') !== 0 && strpos($value, 'TT') !== 0)) {
                 $fullFilmentStatus = $this->fileSeparator($this->sftp->get(APP_FOLDER . 'Push/Dispatch_Con/' . $value), $value);
 
                 if ($fullFilmentStatus) {
                     $this->moveDespatchedFile($value, APP_FOLDER . 'Push/Dispatch_Con/', APP_FOLDER . 'Push/Dispatch_Con/Archive/');
                 }
+                $orderIds[] = $value;
             }
         }
+        return implode(',', $orderIds);
     }
 
     // fullfillment of each response
@@ -171,21 +172,27 @@ class RemoteSFTP
             }
         }
         $temp1 = (array) $xmlFile['Dispatch'];
+        $CustomerOrderId = '';
+        if (str_contains($temp1['SalesOrderNumber'], '#EBay-')) {
+            isset($temp1['SalesInvoiceNumber']) ? $CustomerOrderId = $temp1['SalesInvoiceNumber'] : $CustomerOrderId = $temp1['SalesOrderReference'];
+        } else {
+            $CustomerOrderId = $temp1['SalesOrderReference'];
+        }
 
         $data = [
             "order_id" => $temp1['SalesOrderNumber'],
-            "customer_order_id" => $temp1['SalesOrderReference'],
+            "customer_order_id" => $CustomerOrderId,
             "tracking_number" => $temp1['CourierRef'],
             "tracking_url" => $temp1['TrackingUrl'],
             "line_items" => $line_tems,
             "tracking_company" => $temp1['CourierName']
-
         ];
 
 
         // // AB    
-        // echo '<pre>rs';
-        // print_r($data);
+        echo '<pre>rs';
+        print_r($data);
+        echo '</pre>';
         // // AB
         return $this->api->fullFillmentOrder($data);
     }

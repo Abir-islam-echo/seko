@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>16853</SequenceNumber>
+    <ToBePackedDate>2024-05-23T13:44:06Z</ToBePackedDate>
+    <ToDispatchDate>2024-05-23T13:46:11Z</ToDispatchDate>
+    <DispatchDate>2024-05-23T22:11:05Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193043091GB</TrackingUrl>
+    <DispatchId>14f7d62c-09b1-488d-a19b-91deb218d95b</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Charlotte Thomas (lottie_3958)</ShipToAttention>
+    <DeliveryAddressLine1>1 Forest Hall Cottages Forest Hall Road</DeliveryAddressLine1>
+    <InterfaceRecordId>8a443e36-f1e9-4f7c-8d89-a226c316db8c</InterfaceRecordId>
+    <DeliveryAddressLine2>ebayb8tvjv6</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>STANSTED</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>CM24 8TU</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>7738008903</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>bounce-c1-bdtymd@mail.codisto.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber>5656834867285</SalesInvoiceNumber>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#EBay-156910</SalesOrderNumber>
+    <SalesOrderReference>02-11611-75857</SalesOrderReference>
+    <DispatchNumber>017331</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193043091GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-05-23T13:40:45Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>77f1c53f-9dce-4671-885b-363891dc3849</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980163</ProductCode>
+      <EAN>724022980163</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TPS2402 100% ORGANIC COTTON CREAM M</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

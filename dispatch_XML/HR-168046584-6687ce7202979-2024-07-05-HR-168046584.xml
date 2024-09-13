@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>18784</SequenceNumber>
+    <ToBePackedDate>2024-07-05T09:20:57Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-05T10:10:37Z</ToDispatchDate>
+    <DispatchDate>2024-07-05T10:39:51Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4c5c8967-2dec-4ecc-9c95-36cde3ce595f</DispatchId>
+    <CourierService/>
+    <Weight>0.26</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>8 Harley gardens Chelsea</DeliveryAddressLine1>
+    <InterfaceRecordId>b584fc60-6bfc-4bb0-bdb1-067faf003dd9</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>43996871@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168046584</SalesOrderNumber>
+    <SalesOrderReference>5278086037582</SalesOrderReference>
+    <DispatchNumber>019324</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>8199334975</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-05T09:20:14Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3018da0c-52f5-4f94-99c5-1f26ea8f439e</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022996829</ProductCode>
+      <EAN>724022996829</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2433 100% CO CREAM/MULTI L</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.26</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

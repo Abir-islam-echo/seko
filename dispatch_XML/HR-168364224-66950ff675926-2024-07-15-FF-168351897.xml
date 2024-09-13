@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19514</SequenceNumber>
+    <ToBePackedDate>2024-07-15T09:39:48Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-15T11:22:00Z</ToDispatchDate>
+    <DispatchDate>2024-07-15T12:00:47Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>20478aa1-5819-4697-983e-5a97db645e11</DispatchId>
+    <CourierService/>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>Flat C, 30th Floor, Tower 6, The Coronation, 1 Yau Cheung Road, Yau Ma Teii, Kowloon</DeliveryAddressLine1>
+    <InterfaceRecordId>4ae118ca-8084-4166-98bb-1b046a9dcd51</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>334999124@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168364224</SalesOrderNumber>
+    <SalesOrderReference>5287680671822</SalesOrderReference>
+    <DispatchNumber>020040</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>4563516904</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-15T09:28:08Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>c837ddc4-833d-4c8c-87bb-b4be28577464</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982389</ProductCode>
+      <EAN>724022982389</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TSS2401 100% CO CREAM/MULTI XS</ProductDescription>
+      <ProductColour>CREAM/MULTI</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

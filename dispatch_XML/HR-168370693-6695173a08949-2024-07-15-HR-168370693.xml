@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19534</SequenceNumber>
+    <ToBePackedDate>2024-07-15T09:52:59Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-15T11:51:55Z</ToDispatchDate>
+    <DispatchDate>2024-07-15T12:21:33Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>5192e78b-de55-446c-8381-c24bafe7611f</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>475 Washington Blvd Apt 4601N</DeliveryAddressLine1>
+    <InterfaceRecordId>4d4e9f23-d612-4bd1-915c-58c17610371e</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>58340149@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168370693</SalesOrderNumber>
+    <SalesOrderReference>5287837007950</SalesOrderReference>
+    <DispatchNumber>020069</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>2656697676</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-15T09:40:46Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>3b05c298-265d-4a68-8bde-7d6c29a57466</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022983324</ProductCode>
+      <EAN>724022983324</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2322 12GG 90% WO / 10% WS PINK LEMONADE XS</ProductDescription>
+      <ProductColour>PINK LEMONADE</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

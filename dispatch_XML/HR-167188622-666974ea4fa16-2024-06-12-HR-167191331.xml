@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>17628</SequenceNumber>
+    <ToBePackedDate>2024-06-12T08:43:54Z</ToBePackedDate>
+    <ToDispatchDate>2024-06-12T08:51:47Z</ToDispatchDate>
+    <DispatchDate>2024-06-12T10:06:37Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>4562e04d-e867-457d-9278-95c614161804</DispatchId>
+    <CourierService/>
+    <Weight>0.12</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>83 middle way</DeliveryAddressLine1>
+    <InterfaceRecordId>281e7b55-50ff-4497-9809-6b64e1dd65b2</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>44101476@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-167188622</SalesOrderNumber>
+    <SalesOrderReference>5254844776526</SalesOrderReference>
+    <DispatchNumber>018147</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>2132006656</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-06-12T08:41:05Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4ccc1e5b-b0bc-4b91-8349-5250f88bf64f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980095</ProductCode>
+      <EAN>724022980095</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TPS2401 100% ORGANIC COTTON CREAM XS</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

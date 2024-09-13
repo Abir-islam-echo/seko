@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19351</SequenceNumber>
+    <ToBePackedDate>2024-07-12T18:00:15Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-12T18:57:43Z</ToDispatchDate>
+    <DispatchDate>2024-07-12T22:11:05Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193058564GB</TrackingUrl>
+    <DispatchId>2b8d1ffe-fbcc-4a02-8b77-1d1b730beeaa</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Serena Baird</ShipToAttention>
+    <DeliveryAddressLine1>9 Church Street Watlington OXFORDSHIRE </DeliveryAddressLine1>
+    <InterfaceRecordId>5171dd71-06d3-4258-942a-b514d8020e52</InterfaceRecordId>
+    <DeliveryAddressLine2>9 Church Street</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Watlington Oxfordshire</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>OX49 5QP</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>07787 510391</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>serenabaird3@gmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP122543</SalesOrderNumber>
+    <SalesOrderReference>5285171363918</SalesOrderReference>
+    <DispatchNumber>019903</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193058564GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-12T17:47:59Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>15aa90d3-1988-45c9-8f8a-9ead83f05da9</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>731788300227</ProductCode>
+      <EAN>731788300227</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KPS2324 12GG 90% WO / 10% WS BLACK M</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

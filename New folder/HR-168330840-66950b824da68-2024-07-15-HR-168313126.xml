@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19496</SequenceNumber>
+    <ToBePackedDate>2024-07-15T09:25:09Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-15T09:47:19Z</ToDispatchDate>
+    <DispatchDate>2024-07-15T11:36:15Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>e428d50c-aa56-4aee-a19b-cd0a9bccf0b1</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>87-135 Brompton Road Knightsbridge</DeliveryAddressLine1>
+    <InterfaceRecordId>cac35781-8079-4de0-90d2-32d9780314a5</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>0@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168330840</SalesOrderNumber>
+    <SalesOrderReference>5285996527694</SalesOrderReference>
+    <DispatchNumber>019948</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>2404213980</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-15T09:18:31Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>9139e38d-52fa-4def-90b1-0547c94e7523</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022990803</ProductCode>
+      <EAN>724022990803</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2383 12GG 90% WO / 10% WS MINT GREEN S</ProductDescription>
+      <ProductColour>MINT GREEN</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -86,6 +86,9 @@ class API
 
     public function getOrder($orderID)
     {
+        echo '<pre> data from API.php';
+        print_r($orderID);
+        echo '</pre>';
         $orders = $this->clientRest->get(
             "orders/" . $orderID
         );
@@ -139,8 +142,9 @@ class API
 
         // getting order ID from XML file
         $orderID = $data['customer_order_id'];
-        // echo '<pre> data';
-        // print_r($data);
+        echo '<pre> data from API.php';
+        print_r($data);
+        echo '</pre>';
 
         //AB 6:30pm 1/17/2024
         if (str_contains($orderID, 'GE') && str_contains($orderID, 'GB')) {
@@ -151,6 +155,7 @@ class API
         if (empty($this->getOrder($orderID))) {
             return false;
         }
+
 
         // get fulfillment data for a particular order
         $fulfillmentData = $this->getFulfillment($orderID);
@@ -279,7 +284,7 @@ class API
                     "tracking_info" => [
                         "number" => $data['tracking_number'],
                         "url" => $data['tracking_url'],
-                        "company" => 'DPD UK'                                                                                                           
+                        "company" => 'DPD UK'
                     ],
                     'line_items_by_fulfillment_order' => [
                         $line_items_by_fulfillment_order

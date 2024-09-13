@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19543</SequenceNumber>
+    <ToBePackedDate>2024-07-15T09:52:59Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-15T11:54:24Z</ToDispatchDate>
+    <DispatchDate>2024-07-15T12:30:01Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>cbc30af6-b6b6-4e28-9786-469e206e931a</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>Flat B 46F Blk3 Liberte 833 Lai Chi Kok Road</DeliveryAddressLine1>
+    <InterfaceRecordId>365f22c2-20cf-4f2e-9ae8-1b47d8814694</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>44086613@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168386328</SalesOrderNumber>
+    <SalesOrderReference>5288421097550</SalesOrderReference>
+    <DispatchNumber>020104</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>2656708946</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-15T09:38:21Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>460da820-0429-41e1-ade8-d4cae0c08e14</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022982006</ProductCode>
+      <EAN>724022982006</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2403 12GG 90% WO / 10% WS GREY MARL/MULTI L</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -18,7 +18,14 @@ $sftp = new \Toll_Integration\RemoteSFTP();
 //     $xml->generateOrdersXML($fruit);
 // }
 
-$xml->generateOrdersXML('4260586946609');
+// $xml->generateOrdersXML('5230647312462'); //swap
+// $xml->generateOrdersXML('5655652401237');
+// $xml->generateOrdersXML('5172725219406'); //BT
+// $xml->generateOrdersXML('5194018947150'); //IM
+// $xml->generateOrdersXML('5164077875278'); //JE
+// $xml->generateOrdersXML('5166609760334'); //GY
+$xml->generateOrdersXML('5284860067972');
+
 
 
 

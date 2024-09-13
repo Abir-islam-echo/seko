@@ -35,7 +35,7 @@ define('CURRENTSITE', $site);
 require_once dirname( dirname(__FILE__) ). "/app.php";
 $xml = new \Toll_Integration\XML();
 $db = new \Toll_Integration\DB();
-
+-
 foreach ($db->getOrders() as $order) {
     
     $xml->generateOrdersXML($order['order_number']);

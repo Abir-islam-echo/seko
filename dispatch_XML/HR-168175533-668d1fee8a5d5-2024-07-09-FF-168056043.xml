@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>19113</SequenceNumber>
+    <ToBePackedDate>2024-07-09T08:11:10Z</ToBePackedDate>
+    <ToDispatchDate>2024-07-09T08:18:21Z</ToDispatchDate>
+    <DispatchDate>2024-07-09T11:25:41Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>93a04815-7e2d-460c-8c88-558487d6284b</DispatchId>
+    <CourierService/>
+    <Weight>0.32</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>5 LYSIA STREET</DeliveryAddressLine1>
+    <InterfaceRecordId>97d6cd81-40dc-4d8d-9f79-6749e87faf28</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>44013050@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>HR-168175533</SalesOrderNumber>
+    <SalesOrderReference>5281607221326</SalesOrderReference>
+    <DispatchNumber>019639</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>2378536823</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-07-09T08:08:37Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>53928c58-886e-4015-ae18-bfd5f4f47e8b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022980118</ProductCode>
+      <EAN>724022980118</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TPS2401 100% ORGANIC COTTON CREAM M</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.12</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>4fea662d-82c6-4cd6-9cf9-6a1ed38ce0b1</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022981818</ProductCode>
+      <EAN>724022981818</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2401 12GG 90% WO / 10% WS PISTACHIO GREEN/CREAM/BLACK M</ProductDescription>
+      <ProductColour>PISTACHIO GREEN/CREAM/BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

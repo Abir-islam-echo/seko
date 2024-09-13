@@ -8,8 +8,10 @@ $xml = new \Toll_Integration\XML();
 $db = new \Toll_Integration\DB();
 
 foreach ($db->getOrders() as $order) {
-    $xml->generateOrdersXML($order['order_number']);
+    $orderPutStatus = $xml->generateOrdersXML($order['order_number']);
     $order['status'] = 1;
     $order['action'] = 'update';
-    $db->processOrderNumber($order);
+    if ($orderPutStatus) {
+        $db->processOrderNumber($order);
+    }
 }
