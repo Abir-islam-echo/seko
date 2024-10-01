@@ -392,6 +392,9 @@ class XML
             } elseif ($this->isStaff($order)) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
+            } elseif (isset($order['tags']) && str_contains($order['tags'], 'personalised')) {
+                $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
+                $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
             } else {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', $this->getPackageType($order));
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', $this->getPackageType($order));
@@ -414,47 +417,57 @@ class XML
             $ordersXML->Request->addChild('DeliveryDetails');
 
 
-            isset($order['customer']['default_address']['city']) ? $ordersXML->Request->DeliveryDetails->addChild('City', $order['customer']['default_address']['city']) : $ordersXML->Request->DeliveryDetails->addChild('City', $order['shipping_address']['city']);
-            isset($order['shipping_address']['country_code']) ? $ordersXML->Request->DeliveryDetails->addChild('CountryCode', $order['shipping_address']['country_code']) : $ordersXML->Request->DeliveryDetails->addChild('CountryCode', ' ');
-            isset($order['contact_email']) ? $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', $order['contact_email']) : $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', ' ');
-            isset($order['shipping_address']['first_name']) ? $ordersXML->Request->DeliveryDetails->addChild('FirstName', $order['shipping_address']['first_name']) : $ordersXML->Request->DeliveryDetails->addChild('FirstName', ' ');
-            isset($order['shipping_address']['last_name']) ? $ordersXML->Request->DeliveryDetails->addChild('LastName', $order['shipping_address']['last_name']) : $ordersXML->Request->DeliveryDetails->addChild('LastName', ' ');
-
-
-
-            if (isset($order['shipping_address']['company']) && !empty($order['shipping_address']['company'])) {
-
-                $data1 = $this->checkSpecialCharacter($order['shipping_address']['company']);
-                $ordersXML->Request->DeliveryDetails->addChild('Line1', $data1);
-
-                if (isset($order['shipping_address']['address1'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line2', $this->checkSpecialCharacter($order['shipping_address']['address1']));
-                }
-
-                if (isset($order['shipping_address']['address2'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line3', $this->checkSpecialCharacter($order['shipping_address']['address2']));
-                }
-
-                if (isset($order['shipping_address']['address3'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line4', $this->checkSpecialCharacter($order['shipping_address']['address3']));
-                }
+            if ($order['tags'] == 'personalised') {
+                $ordersXML->Request->DeliveryDetails->addChild('City', 'London');
+                $ordersXML->Request->DeliveryDetails->addChild('CountryCode', 'GB');
+                $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', 'info@chintiandparker.com');
+                $ordersXML->Request->DeliveryDetails->addChild('FirstName', 'STORE');
+                $ordersXML->Request->DeliveryDetails->addChild('LastName', 'PERSONALISATION');
+                $ordersXML->Request->DeliveryDetails->addChild('Line1', 'Chinti and Parker');
+                $ordersXML->Request->DeliveryDetails->addChild('Line2', '322 Kings Road');
+                $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', '+44 7562 208415');
+                $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', 'SW3 5UH');
             } else {
+                isset($order['customer']['default_address']['city']) ? $ordersXML->Request->DeliveryDetails->addChild('City', $order['customer']['default_address']['city']) : $ordersXML->Request->DeliveryDetails->addChild('City', $order['shipping_address']['city']);
+                isset($order['shipping_address']['country_code']) ? $ordersXML->Request->DeliveryDetails->addChild('CountryCode', $order['shipping_address']['country_code']) : $ordersXML->Request->DeliveryDetails->addChild('CountryCode', ' ');
+                isset($order['contact_email']) ? $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', $order['contact_email']) : $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', ' ');
+                isset($order['shipping_address']['first_name']) ? $ordersXML->Request->DeliveryDetails->addChild('FirstName', $order['shipping_address']['first_name']) : $ordersXML->Request->DeliveryDetails->addChild('FirstName', ' ');
+                isset($order['shipping_address']['last_name']) ? $ordersXML->Request->DeliveryDetails->addChild('LastName', $order['shipping_address']['last_name']) : $ordersXML->Request->DeliveryDetails->addChild('LastName', ' ');
 
-                if (isset($order['shipping_address']['address1'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line1', $this->checkSpecialCharacter($order['shipping_address']['address1']));
+                if (isset($order['shipping_address']['company']) && !empty($order['shipping_address']['company'])) {
+
+                    $data1 = $this->checkSpecialCharacter($order['shipping_address']['company']);
+                    $ordersXML->Request->DeliveryDetails->addChild('Line1', $data1);
+
+                    if (isset($order['shipping_address']['address1'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line2', $this->checkSpecialCharacter($order['shipping_address']['address1']));
+                    }
+
+                    if (isset($order['shipping_address']['address2'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line3', $this->checkSpecialCharacter($order['shipping_address']['address2']));
+                    }
+
+                    if (isset($order['shipping_address']['address3'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line4', $this->checkSpecialCharacter($order['shipping_address']['address3']));
+                    }
+                } else {
+
+                    if (isset($order['shipping_address']['address1'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line1', $this->checkSpecialCharacter($order['shipping_address']['address1']));
+                    }
+
+                    if (isset($order['shipping_address']['address2'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line2', $this->checkSpecialCharacter($order['shipping_address']['address2']));
+                    }
+
+                    if (isset($order['shipping_address']['address3'])) {
+                        $ordersXML->Request->DeliveryDetails->addChild('Line3', $this->checkSpecialCharacter($order['shipping_address']['address3']));
+                    }
                 }
 
-                if (isset($order['shipping_address']['address2'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line2', $this->checkSpecialCharacter($order['shipping_address']['address2']));
-                }
-
-                if (isset($order['shipping_address']['address3'])) {
-                    $ordersXML->Request->DeliveryDetails->addChild('Line3', $this->checkSpecialCharacter($order['shipping_address']['address3']));
-                }
+                isset($order['shipping_address']['phone']) ? $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', $order['shipping_address']['phone']) : $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', ' ');
+                isset($order['shipping_address']['zip']) && !empty($order['shipping_address']['zip']) ? $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', $order['shipping_address']['zip']) : $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', '00000');
             }
-
-            isset($order['shipping_address']['phone']) ? $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', $order['shipping_address']['phone']) : $ordersXML->Request->DeliveryDetails->addChild('PhoneNumber', ' ');
-            isset($order['shipping_address']['zip']) && !empty($order['shipping_address']['zip']) ? $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', $order['shipping_address']['zip']) : $ordersXML->Request->DeliveryDetails->addChild('PostcodeZip', '00000');
 
 
 
