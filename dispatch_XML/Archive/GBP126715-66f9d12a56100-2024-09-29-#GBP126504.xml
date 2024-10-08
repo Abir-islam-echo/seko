@@ -1,0 +1,106 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>24314</SequenceNumber>
+    <ToBePackedDate>2024-09-29T20:07:54Z</ToBePackedDate>
+    <ToDispatchDate>2024-09-29T20:40:42Z</ToDispatchDate>
+    <DispatchDate>2024-09-29T22:11:01Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193087407GB</TrackingUrl>
+    <DispatchId>fd1d8617-5307-496f-821c-5d8f09ebae84</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>0.8</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Jacinta Alderton</ShipToAttention>
+    <DeliveryAddressLine1>16 Frank Dixon Way</DeliveryAddressLine1>
+    <InterfaceRecordId>06b74e75-36d0-4d14-9f62-279e655ef46f</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>London</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>SE21 7ET</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>07921436737</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>jacintaalderton@hotmail.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP126715</SalesOrderNumber>
+    <SalesOrderReference>11152357458299</SalesOrderReference>
+    <DispatchNumber>024971</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193087407GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-09-29T20:04:39Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fa28af38-31c7-4a2b-b897-4208419db16b</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022913642</ProductCode>
+      <EAN>724022913642</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2429 16GG 100% ME GREY MARL XS</ProductDescription>
+      <ProductColour>GREY MARL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>XS</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>ff620678-ff50-4169-9c7c-869a45ef5e9a</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022913628</ProductCode>
+      <EAN>724022913628</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2429 16GG 100% ME CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>916a84ac-acd3-4db9-96c9-29431fa09126</LineInterfaceRecordId>
+      <LineNumber>3</LineNumber>
+      <ProductCode>724022921012</ProductCode>
+      <EAN>724022921012</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2467 16GG 100% ME GREY MARL L</ProductDescription>
+      <ProductColour>GREY MARL</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>dc9e071d-05a9-48d2-9e3c-e64550842ffc</LineInterfaceRecordId>
+      <LineNumber>4</LineNumber>
+      <ProductCode>724022920961</ProductCode>
+      <EAN>724022920961</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2467 16GG 100% ME CREAM L</ProductDescription>
+      <ProductColour>CREAM</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -51,25 +51,32 @@ class XML
         return false;
     }
     // AB Check order note attribute
-    // Function to check if a line item is a swap protect item
-    public function isSwapProtectItem($lineItem, $swapProtectProductId)
-    {
-        return $lineItem['product_id'] === $swapProtectProductId;
-    }
 
-    // Function to remove swap protect items from the order
-    public function removeSwapProtectItems($order, $swapProtectProductId)
+    public function removeSpecificItems($order, $productIdsToRemove)
     {
-        $order['line_items'] = array_filter($order['line_items'], function ($lineItem) use ($swapProtectProductId) {
-            return !($this->isSwapProtectItem($lineItem, $swapProtectProductId));
-        });
-
-        // Re-index the array to ensure there are no gaps
-        $order['line_items'] = array_values($order['line_items']);
+        // Filter out items whose product_id matches any of the IDs in $productIdsToRemove
+        $order['line_items'] = array_values(array_filter($order['line_items'], function ($lineItem) use ($productIdsToRemove) {
+            // Check if the line item's product_id is not in the array of IDs to remove
+            return !in_array($lineItem['product_id'], $productIdsToRemove);
+        }));
 
         return $order;
     }
 
+
+    public function checkAvailableItemProperty($order, $name, $value)
+    {
+        foreach ($order['line_items'] as $key => $item) {
+            if (isset($item['properties'])) {
+                foreach ($item['properties'] as $key => $property) {
+                    if ($property['name'] == $name && $property['value'] == $value) {
+                        return $property['value'];
+                    }
+                }
+            }
+        }
+        return false;
+    }
 
     public function generateOrdersXML($orderID = '')
     {
@@ -129,17 +136,15 @@ class XML
             $isSelectedGiftCard = array_filter($lineItemsArray, array($this, "checkedGiftCardItem"));
             $isSelectedOtherItems = array_filter($lineItemsArray, array($this, "checkedOtherItems"));
 
-            // Define the product ID for swap protect
-            $swapProtectProductId = 7404001919054;
+            // product IDs to remove
+            // $swapProtectProductId = 7404001919054;
+            // $personalisationChargeProductId = 14586113556859;
 
-            // Check if there are any swap protect items in the order
-            $hasSwapProtect = array_filter($order['line_items'], function ($lineItem) use ($swapProtectProductId) {
-                return $this->isSwapProtectItem($lineItem, $swapProtectProductId);
-            });
-            // If there are swap protect items, remove them from the order
-            if (count($hasSwapProtect) > 0) {
-                $order = $this->removeSwapProtectItems($order, $swapProtectProductId);
-            }
+            // Define the product IDs for items to remove
+            $productIdsToRemove = [7404001919054, 14586113556859];
+
+            // Remove the specified items from the order
+            $order = $this->removeSpecificItems($order, $productIdsToRemove);
 
             if (count($isSelectedJumper) === 0 && count($isSelectedTattoos) >= 1 && count($isSelectedOtherItems) >= 1) {
                 //no selected Jumpers but tattoo sheet and another items
@@ -386,13 +391,13 @@ class XML
             } elseif (str_contains($order['name'], 'ZL') !== false) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_10');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_10');
-            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false) {
+            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false || str_contains($order['name'], '#MPUSD') !== false) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_3');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_3');
             } elseif ($this->isStaff($order)) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
-            } elseif (isset($order['tags']) && str_contains($order['tags'], 'personalised')) {
+            } elseif (isset($order['tags']) && (str_contains($order['tags'], 'personalised') || $this->checkAvailableItemProperty($order, '_type', 'personalised'))) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
             } else {
@@ -417,7 +422,7 @@ class XML
             $ordersXML->Request->addChild('DeliveryDetails');
 
 
-            if ($order['tags'] == 'personalised') {
+            if ($order['tags'] == 'personalised' || $this->checkAvailableItemProperty($order, '_type', 'personalised')) {
                 $ordersXML->Request->DeliveryDetails->addChild('City', 'London');
                 $ordersXML->Request->DeliveryDetails->addChild('CountryCode', 'GB');
                 $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', 'info@chintiandparker.com');
