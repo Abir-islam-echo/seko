@@ -397,7 +397,7 @@ class XML
             } elseif ($this->isStaff($order)) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
-            } elseif (isset($order['tags']) && (str_contains($order['tags'], 'personalised') || $this->checkAvailableItemProperty($order, '_type', 'personalised'))) {
+            } elseif (str_contains($order['tags'], 'personalised') || $this->checkAvailableItemProperty($order, '_type', 'personalised')) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_8');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_8');
             } else {
@@ -422,7 +422,7 @@ class XML
             $ordersXML->Request->addChild('DeliveryDetails');
 
 
-            if ($order['tags'] == 'personalised' || $this->checkAvailableItemProperty($order, '_type', 'personalised')) {
+            if (str_contains($order['tags'], 'personalised') || $this->checkAvailableItemProperty($order, '_type', 'personalised')) {
                 $ordersXML->Request->DeliveryDetails->addChild('City', 'London');
                 $ordersXML->Request->DeliveryDetails->addChild('CountryCode', 'GB');
                 $ordersXML->Request->DeliveryDetails->addChild('EmailAddress', 'info@chintiandparker.com');

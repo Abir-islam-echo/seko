@@ -86,9 +86,9 @@ class API
 
     public function getOrder($orderID)
     {
-        echo '<pre> data from API.php';
-        print_r($orderID);
-        echo '</pre>';
+        // echo '<pre> data from API.php';
+        // print_r($orderID);
+        // echo '</pre>';
         $orders = $this->clientRest->get(
             "orders/" . $orderID
         );
@@ -136,15 +136,30 @@ class API
         return [];
     }
 
+    public function checkAvailableItemProperty($order, $name, $value)
+    {
+        foreach ($order['line_items'] as $key => $item) {
+            if (isset($item['properties'])) {
+                foreach ($item['properties'] as $key => $property) {
+                    if ($property['name'] == $name && $property['value'] == $value) {
+                        return $property['value'];
+                    }
+                }
+            }
+        }
+        return false;
+    }
+
 
     public function fullFillmentOrder($data)
     {
 
         // getting order ID from XML file
         $orderID = $data['customer_order_id'];
-        echo '<pre> data from API.php';
-        print_r($data);
-        echo '</pre>';
+
+        // echo '<pre> data from API.php';
+        // print_r($data);
+        // echo '</pre>';
 
         //AB 6:30pm 1/17/2024
         if (str_contains($orderID, 'GE') && str_contains($orderID, 'GB')) {
@@ -152,7 +167,9 @@ class API
         }
         //AB 6:30pm 1/17/2024
 
-        if (empty($this->getOrder($orderID))) {
+        $orderData = $this->getOrder($orderID);
+
+        if (empty($orderData)) {
             return false;
         }
 
@@ -162,7 +179,12 @@ class API
 
 
         // fetch order info from order ID
-        $orderArray = $this->getOrder($orderID)['order'];
+        $orderArray = $orderData['order'];
+
+        // stopping fulfillment for personalised order
+        if (str_contains($orderArray['tags'], 'personalised') || $this->checkAvailableItemProperty($orderArray, '_type', 'personalised')) {
+            return true;
+        }
 
 
         /**
@@ -315,8 +337,8 @@ class API
 
         }
 
-        echo '<pre> api getDecodedBody()';
-        print_r($orders->getDecodedBody());
+        // echo '<pre> api getDecodedBody()';
+        // print_r($orders->getDecodedBody());
 
         if ($orders->getStatusCode() == 201) {
             return true;

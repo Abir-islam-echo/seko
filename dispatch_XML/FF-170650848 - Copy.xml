@@ -1,0 +1,107 @@
+<Responses><Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>24671</SequenceNumber>
+    <ToBePackedDate>2024-10-04T10:38:38Z</ToBePackedDate>
+    <ToDispatchDate>2024-10-04T11:26:03Z</ToDispatchDate>
+    <DispatchDate>2024-10-04T11:26:32Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>69262f90-acef-425f-8e07-efc37a649f9a</DispatchId>
+    <CourierService/>
+    <Weight>0.43</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>1 Albion Road</DeliveryAddressLine1>
+    <InterfaceRecordId>004b7194-a3ee-48c9-b73e-2cbbc5eb1c2a</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>0@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>FF-170650848</SalesOrderNumber>
+    <SalesOrderReference>11157554430331</SalesOrderReference>
+    <DispatchNumber>025274</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>779009744660</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-10-04T10:30:50Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>2b2f41ba-b191-43e6-aedf-08fc0e5c51cc</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022985298</ProductCode>
+      <EAN>724022985298</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KSS2415 7GG 90% WO / 10% WS CREAM/NAVY LL</ProductDescription>
+      <ProductColour>CREAM/NAVY</ProductColour>
+      <ProductGrossWeight>0.43</ProductGrossWeight>
+      <ProductSize>LL</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>24672</SequenceNumber>
+    <ToBePackedDate>2024-10-04T10:38:43Z</ToBePackedDate>
+    <ToDispatchDate>2024-10-04T11:28:27Z</ToDispatchDate>
+    <DispatchDate>2024-10-04T11:29:00Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>6a4cef29-4207-4bbd-a2d1-fd9815c5f7e3</DispatchId>
+    <CourierService/>
+    <Weight>0.2</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>Via pier paolo pasolini 74 milano</DeliveryAddressLine1>
+    <InterfaceRecordId>8eac1d59-735e-4c15-88aa-924663a309b9</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>368244096@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>FF-170653222</SalesOrderNumber>
+    <SalesOrderReference>11157679833467</SalesOrderReference>
+    <DispatchNumber>025280</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>779009721924</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-10-04T10:27:35Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>18cc9e64-b5de-43e3-8668-6a948aa26a47</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022914786</ProductCode>
+      <EAN>724022914786</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2446 12GG 90% WO / 10% WS BLACK S</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>S</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

@@ -89,9 +89,9 @@ class RemoteSFTP
 
             if ($fullFilmentStatus) {
 
-                echo '<pre> remoteSftp $xmlItems';
-                print_r($fullFilmentStatus);
-                echo '</pre>';
+                // echo '<pre> remoteSftp $xmlItems';
+                // print_r($fullFilmentStatus);
+                // echo '</pre>';
                 //$this->moveDespatchedFile($value, 'dispatch_XML/', 'dispatch_XML/Archive/');
                 rename($dispatchLocation . $value, $dispatchLocation . 'Archive/' . $value);
             }
@@ -190,9 +190,9 @@ class RemoteSFTP
 
 
         // // AB    
-        echo '<pre>rs';
-        print_r($data);
-        echo '</pre>';
+        // echo '<pre>rs';
+        // print_r($data);
+        // echo '</pre>';
         // // AB
         return $this->api->fullFillmentOrder($data);
     }

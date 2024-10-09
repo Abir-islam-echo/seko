@@ -25,13 +25,13 @@ $sftp = new \Toll_Integration\RemoteSFTP();
 // $xml->generateOrdersXML('5164077875278'); //JE
 // $xml->generateOrdersXML('5166609760334'); //GY
 // $xml->generateOrdersXML('11153300029819');
-$xml->generateOrdersXML('4338455445553'); //#MPUSD-1858
+// $xml->generateOrdersXML('4338455445553'); //#MPUSD-1858
 // $xml->generateOrdersXML('4339314917425'); //#MPUSD-1859
 
 
 
 
-// $sftp->getDespatchedFileFullfilment();
+$sftp->getDespatchedFileFullfilment();
 // AB    
 // echo '<pre>';
 // $newData = (array) $api->getOrder('5082674528334');
