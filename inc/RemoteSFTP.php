@@ -127,13 +127,14 @@ class RemoteSFTP
             $xmlResponse = simplexml_load_string($xmlFile);
         }
 
-        // echo '<pre> remoteSftp xmlResponse';
-        // print_r($xmlResponse);
-        // echo '</pre> remoteSftp xmlResponse';
+        
 
         if (empty($xmlResponse)) {
             return false;
         }
+        echo '<pre> remoteSftp xmlResponse';
+        print_r($xmlResponse);
+        echo '</pre> remoteSftp xmlResponse';
 
 
         $response = isset($xmlResponse->Response) ? (array) $xmlResponse->Response : '';
@@ -174,10 +175,11 @@ class RemoteSFTP
         $temp1 = (array) $xmlFile['Dispatch'];
         $CustomerOrderId = '';
         if (str_contains($temp1['SalesOrderNumber'], '#EBay-')) {
-            isset($temp1['SalesInvoiceNumber']) ? $CustomerOrderId = $temp1['SalesInvoiceNumber'] : $CustomerOrderId = $temp1['SalesOrderReference'];
+            (isset($temp1['SalesInvoiceNumber']) && !empty($temp1['SalesInvoiceNumber'])) ? $CustomerOrderId = $temp1['SalesInvoiceNumber'] : $CustomerOrderId = $temp1['SalesOrderReference'];
         } else {
             $CustomerOrderId = $temp1['SalesOrderReference'];
         }
+
 
         $data = [
             "order_id" => $temp1['SalesOrderNumber'],
@@ -189,11 +191,11 @@ class RemoteSFTP
         ];
 
 
-        // // AB    
-        // echo '<pre>rs';
-        // print_r($data);
-        // echo '</pre>';
-        // // AB
+        // AB    
+        echo '<pre>rs';
+        print_r($data);
+        echo '</pre>';
+        // AB
         return $this->api->fullFillmentOrder($data);
     }
 

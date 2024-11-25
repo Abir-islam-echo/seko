@@ -1,0 +1,72 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>29464</SequenceNumber>
+    <ToBePackedDate>2024-11-18T21:56:27Z</ToBePackedDate>
+    <ToDispatchDate>2024-11-18T22:36:58Z</ToDispatchDate>
+    <DispatchDate>2024-11-18T22:37:35Z</DispatchDate>
+    <TrackingUrl/>
+    <DispatchId>c123d353-2276-4c5e-ac6f-cfb60cb47d71</DispatchId>
+    <CourierService/>
+    <Weight>0.47</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>FarFetch Seko Logistics</ShipToAttention>
+    <DeliveryAddressLine1>Via Cortivo 10 Ticino</DeliveryAddressLine1>
+    <InterfaceRecordId>ef2cb288-5a2c-4aca-9765-b6e8e7f2ae8b</InterfaceRecordId>
+    <DeliveryAddressLine2/>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Milton Keynes</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>MK10 0DF</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber/>
+    <DeliveryEmailAddress>32197737@farfetch.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>FF-171803143</SalesOrderNumber>
+    <SalesOrderReference>11252184777083</SalesOrderReference>
+    <DispatchNumber>030162</DispatchNumber>
+    <CourierName>Customer Collect</CourierName>
+    <CourierRef>770026705989</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-11-18T21:45:53Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>042df0de-e83c-4aa9-ab8d-d4247e33ea89</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>724022908952</ProductCode>
+      <EAN>724022908952</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>CP1907ER 12GG 90% WO / 10% WS GREY MARL/MULTI M</ProductDescription>
+      <ProductColour>GREY MARL/MULTI</ProductColour>
+      <ProductGrossWeight>0.27</ProductGrossWeight>
+      <ProductSize>M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>fe023d2c-97b6-450e-870a-3e99b8586624</LineInterfaceRecordId>
+      <LineNumber>2</LineNumber>
+      <ProductCode>724022914687</ProductCode>
+      <EAN>724022914687</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2443 12GG 90% WO / 10% WS VELVET RED L</ProductDescription>
+      <ProductColour>VELVET RED</ProductColour>
+      <ProductGrossWeight>0.2</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

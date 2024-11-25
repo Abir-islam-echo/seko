@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>29617</SequenceNumber>
+    <ToBePackedDate>2024-11-19T06:25:46Z</ToBePackedDate>
+    <ToDispatchDate>2024-11-19T06:35:41Z</ToDispatchDate>
+    <DispatchDate>2024-11-19T23:10:40Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GF193117072GB</TrackingUrl>
+    <DispatchId>de676ff9-f1c3-46c1-98b3-efacbf486031</DispatchId>
+    <CourierService>Tracked Standard No Sig</CourierService>
+    <Weight>7.36</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Sonia Brian</ShipToAttention>
+    <DeliveryAddressLine1>St John’s Building, 79 Marsham Street</DeliveryAddressLine1>
+    <InterfaceRecordId>c3ea6908-ef9c-4b21-adaa-96a39bd1de8e</InterfaceRecordId>
+    <DeliveryAddressLine2>519</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>London</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>SW1P 4SB</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>+447773846928</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>sonia@soniabrian.co.uk</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#GBP130844</SalesOrderNumber>
+    <SalesOrderReference>11264207192443</SalesOrderReference>
+    <DispatchNumber>030503</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GF193117072GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-11-19T06:19:04Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>6ffb45f5-2d55-4ac2-a411-650104434b55</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>743966325670</ProductCode>
+      <EAN>743966325670</EAN>
+      <Quantity>2</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>KAW2380 12GG 90% WO 10% WS NANCY PINK S/M</ProductDescription>
+      <ProductColour>NANCY PINK</ProductColour>
+      <ProductGrossWeight>0.54</ProductGrossWeight>
+      <ProductSize>S/M</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

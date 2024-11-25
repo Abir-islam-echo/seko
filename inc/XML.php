@@ -15,21 +15,15 @@ class XML
         $this->api = new API();
         $this->db = new DB();
         $this->remoteSftp = new \Toll_Integration\RemoteSFTP();
-
     }
 
     // function isNorthernIrelandDelivery
     public function isNorthernIrelandDelivery($order)
     {
-        if (
-            ($order['shipping_address']['zip'][0] == 'B' && $order['shipping_address']['zip'][1] == 'T')
-            || ($order['shipping_address']['zip'][0] == 'I' && $order['shipping_address']['zip'][1] == 'M')
-            || ($order['shipping_address']['zip'][0] == 'J' && $order['shipping_address']['zip'][1] == 'E')
-            || ($order['shipping_address']['zip'][0] == 'G' && $order['shipping_address']['zip'][1] == 'Y')
-        ) {
-            return true;
-        }
-        return false;
+        $validPrefixes = ['BT', 'IM', 'JE', 'GY'];
+        $zip = strtoupper(substr($order['shipping_address']['zip'], 0, 2));
+
+        return in_array($zip, $validPrefixes);
     }
     // function is Staff from C&P
     public function isStaff($order)
@@ -94,17 +88,15 @@ class XML
 
         foreach ($orders as $key => $order) {
             $this->isNorthernIrelandDelivery($order);
-            echo '<pre> XML ORDER data ';
+            // echo '<pre> XML ORDER data ';
             // print_r($order['shipping_address']['zip'][0]);
             // print_r(str_contains($order['shipping_address']['zip'], 'BT'));
-            echo '</pre>';
+            // echo '</pre>';
 
             if ((str_contains($order['shipping_lines'][0]['title'], 'Express Courier') || str_contains($order['shipping_lines'][0]['title'], 'Standard Courier')) && (!str_contains($order['tags'], 'Globale::'))) {
 
                 return false;
-
-            }
-            ;
+            };
 
             if (str_contains($order['name'], 'SGC-')) {
                 return false;
@@ -123,11 +115,8 @@ class XML
                 if ($order['line_items'][0]['product_id'] === 1718097084531) {
                     break;
                 }
-            }
-            ;
-            echo '<pre> XML ORDER';
-            print_r($order);
-            echo '</pre>';
+            };
+
 
             $lineItemsArray = $order['line_items'];
             $isPackageType7 = false;
@@ -149,14 +138,12 @@ class XML
             if (count($isSelectedJumper) === 0 && count($isSelectedTattoos) >= 1 && count($isSelectedOtherItems) >= 1) {
                 //no selected Jumpers but tattoo sheet and another items
                 $order = $this->removeTattoofromItems($order);
-            }
-            ;
+            };
 
             if (count($isSelectedJumper) >= 1 && count($isSelectedTattoos) >= 1 && count($isSelectedOtherItems) >= 1) {
                 //no selected Jumpers but tattoo sheet and another items
                 $order = $this->removeTattoofromItems($order);
-            }
-            ;
+            };
 
             if (count($isSelectedJumper) >= 1 && count($isSelectedTattoos) >= 1 && count($isSelectedOtherItems) === 0) {
                 //no selected Jumpers but tattoo sheet and another items
@@ -258,7 +245,6 @@ class XML
                     $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
                 }
-
             }
 
             if (str_contains($order['name'], '#GBP') === false && isset($order['shipping_lines']) && isset($order['shipping_lines'][0]['title']) && str_contains($order['shipping_lines'][0]['title'], 'Standard Delivery') !== false) {
@@ -290,7 +276,6 @@ class XML
                     $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DPD');
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'PLNEXTDAY');
                 }
-
             }
 
             if (str_contains($order['tags'], 'Harper') !== false) {
@@ -340,11 +325,10 @@ class XML
                     $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
                     $ordersXML->Request->WebSalesOrder->addChild('ShippingTerm', 'DDU');
                 }
-
             } else if (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Shop Premium Outlets')) {
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
-            } elseif (isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'The Bay')) {
+            } elseif ((isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'The Bay')) || (str_contains($order['name'], '#MPUSD') && str_contains($orders[0]['tags'], 'Mirakl'))) {
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'DHL');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'DHLIREM');
                 $ordersXML->Request->WebSalesOrder->addChild('ShippingTerm', 'DDP');
@@ -354,7 +338,7 @@ class XML
                 if (!empty($order['note_attributes'])) {
                     $this->isNoteAttributeAvailable($order, "Delivery note URL 1") && $ordersXML->Request->WebSalesOrder->addChild('SpecialInstructions', $this->isNoteAttributeAvailable($order, "Delivery note URL 1"));
                 }
-            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false) {
+            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false || isset($orders[0]['tags']) && str_contains($orders[0]['tags'], 'Swap exchange')) {
                 $ordersXML->Request->WebSalesOrder->addChild('CourierName', 'Royal Mail');
                 $ordersXML->Request->WebSalesOrder->addChild('CourierService', 'RMTRACKEDSTDNOSIG');
             }
@@ -391,7 +375,7 @@ class XML
             } elseif (str_contains($order['name'], 'ZL') !== false) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_10');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_10');
-            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false || str_contains($order['name'], '#MPUSD') !== false) {
+            } elseif (str_contains($order['name'], '#EBay-') !== false || str_contains($order['name'], 'SW-') !== false || str_contains($order['name'], '#MPUSD')) {
                 $ordersXML->Request->WebSalesOrder->addChild('Notes', 'Package_Type_3');
                 $ordersXML->Request->WebSalesOrder->addChild('GroupReference', 'Package_Type_3');
             } elseif ($this->isStaff($order)) {
@@ -485,7 +469,8 @@ class XML
 
             $ordersXML->Request->addChild('List');
 
-            $order = $this->checkDuplicate($order);
+            // $order = $this->checkDuplicate($order);
+            $order = $this->mergeDuplicateSkuLineItems($order);
 
             foreach ($order['line_items'] as $line_key => $line_item) {
                 $ordersXML->Request->List->addChild('SalesOrderLineItem');
@@ -538,42 +523,89 @@ class XML
 
 
             $ordersXML->asXML($xmlFile);
-
-
+            echo '<pre> XML ORDER DATA Abir';
+            print_r($order);
+            echo '</pre>';
 
             return $this->remoteSftp->putFile($xmlFile, APP_FOLDER . 'Load/Web_Sales_Orders/');
             // unlink($xmlFile);
         }
     }
 
-    public function checkDuplicate($order)
+    // public function checkDuplicate($order)
+    // {
+    //     $lineItemSkus = [];
+    //     $duplicateArr = [];
+    //     $flag = true;
+    //     foreach ($order['line_items'] as $line_key => $line_item) {
+    //         $lineItemSkus[] = $line_item['sku'];
+    //     }
+    //     $duplicateArrCounts = array_count_values($lineItemSkus);
+    //     foreach ($duplicateArrCounts as $key => $duplicateArrCount) {
+    //         if ($duplicateArrCount > 1) {
+    //             $duplicateArr[$key] = $duplicateArrCount;
+    //         }
+    //     }
+    //     foreach ($order['line_items'] as $line_key => $line_item) {
+    //         foreach ($duplicateArr as $key => $duplicateCount) {
+    //             if ($line_item['sku'] == $key && $flag == true) {
+    //                 $flag = false;
+    //                 $order['line_items'][$line_key]['quantity'] = $line_item['quantity'] * $duplicateCount;
+    //             } elseif ($line_item['sku'] == $key && $flag == false) {
+    //                 unset($order['line_items'][$line_key]);
+    //                 $flag = true;
+    //             }
+    //         }
+    //     }
+    //     $order['line_items'] = array_values($order['line_items']);
+    //     return $order;
+    // }
+
+
+
+
+    // ABIR
+    public function mergeDuplicateSkuLineItems($order)
     {
-        $lineItemSkus = [];
-        $duplicateArr = [];
-        $flag = true;
-        foreach ($order['line_items'] as $line_key => $line_item) {
-            $lineItemSkus[] = $line_item['sku'];
+        $totalQuantitiesBySku = [];  // Stores the summed quantities for each SKU
+
+        // First pass: Calculate the total quantity for each SKU
+        foreach ($order['line_items'] as $lineItem) {
+            $sku = $lineItem['sku'];
+
+            // Initialize the quantity counter for this SKU if not already set
+            if (!isset($totalQuantitiesBySku[$sku])) {
+                $totalQuantitiesBySku[$sku] = 0;
+            }
+
+            // Add the line item quantity to the total for this SKU
+            $totalQuantitiesBySku[$sku] += $lineItem['quantity'];
         }
-        $duplicateArrCounts = array_count_values($lineItemSkus);
-        foreach ($duplicateArrCounts as $key => $duplicateArrCount) {
-            if ($duplicateArrCount > 1) {
-                $duplicateArr[$key] = $duplicateArrCount;
+
+        $processedSkus = [];  // Tracks SKUs already consolidated
+
+        // Second pass: Adjust quantities in the first occurrence and remove duplicates
+        foreach ($order['line_items'] as $index => &$lineItem) {
+            $sku = $lineItem['sku'];
+
+            // Check if we are handling the first occurrence of this SKU
+            if (!isset($processedSkus[$sku])) {
+                // Set the quantity to the total calculated in the first pass
+                $lineItem['quantity'] = $totalQuantitiesBySku[$sku];
+                $processedSkus[$sku] = true;  // Mark this SKU as processed
+            } else {
+                // Remove any subsequent occurrences of this SKU
+                unset($order['line_items'][$index]);
             }
         }
-        foreach ($order['line_items'] as $line_key => $line_item) {
-            foreach ($duplicateArr as $key => $duplicateCount) {
-                if ($line_item['sku'] == $key && $flag == true) {
-                    $flag = false;
-                    $order['line_items'][$line_key]['quantity'] = $line_item['quantity'] * $duplicateCount;
-                } elseif ($line_item['sku'] == $key && $flag == false) {
-                    unset($order['line_items'][$line_key]);
-                    $flag = true;
-                }
-            }
-        }
+
+        // Reindex the line items array to maintain a clean array
         $order['line_items'] = array_values($order['line_items']);
+
         return $order;
     }
+
+    // ABIR
 
 
     public function orderType($orderName, $email, $order_number, $customerName)
@@ -813,8 +845,7 @@ class XML
             if ($id === 6886488473678) {
                 unset($order['line_items'][$line_key]);
             }
-        }
-        ;
+        };
         $order['line_items'] = array_values($order['line_items']);
 
         return $order;
@@ -827,8 +858,7 @@ class XML
             if ($id === 1718097084531) {
                 unset($order['line_items'][$line_key]);
             }
-        }
-        ;
+        };
         $order['line_items'] = array_values($order['line_items']);
 
         return $order;

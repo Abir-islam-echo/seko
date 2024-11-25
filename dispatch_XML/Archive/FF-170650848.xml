@@ -59,7 +59,7 @@
     <ToDispatchDate>2024-10-04T11:28:27Z</ToDispatchDate>
     <DispatchDate>2024-10-04T11:29:00Z</DispatchDate>
     <TrackingUrl/>
-    <DispatchId>6a4cef29-4207-4bbd-a2d1-fd9815c5f7e3</DispatchId>
+    <DispatchId>6a4cef29-4207-4bbd-a2d1-fd9812c5f7e3</DispatchId>
     <CourierService/>
     <Weight>0.2</Weight>
     <WeightUOM>KG</WeightUOM>
@@ -76,8 +76,8 @@
     <DeliveryEmailAddress>368244096@farfetch.com</DeliveryEmailAddress>
     <SalesInvoiceNumber/>
     <TrackingUrlReturn/>
-    <SalesOrderNumber>FF-170653222</SalesOrderNumber>
-    <SalesOrderReference>11157679833467</SalesOrderReference>
+    <SalesOrderNumber>#GBP127291</SalesOrderNumber>
+    <SalesOrderReference>11164082536827</SalesOrderReference>
     <DispatchNumber>025280</DispatchNumber>
     <CourierName>Customer Collect</CourierName>
     <CourierRef>779009721924</CourierRef>
@@ -86,9 +86,9 @@
   </Dispatch>
   <List>
     <DispatchLineItem>
-      <LineInterfaceRecordId>18cc9e64-b5de-43e3-8668-6a948aa26a47</LineInterfaceRecordId>
+      <LineInterfaceRecordId>18cc9e64-b5de-43e3-8668-3a948aa26a47</LineInterfaceRecordId>
       <LineNumber>1</LineNumber>
-      <ProductCode>724022914786</ProductCode>
+      <ProductCode>743966316548</ProductCode>
       <EAN>724022914786</EAN>
       <Quantity>1</Quantity>
       <SerialNumber/>

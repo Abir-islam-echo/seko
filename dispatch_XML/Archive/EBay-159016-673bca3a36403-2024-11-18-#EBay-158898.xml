@@ -1,0 +1,55 @@
+<Responses>
+<Response>
+  <Dispatch>
+    <IntegrationId>CCCHIN</IntegrationId>
+    <SequenceNumber>29501</SequenceNumber>
+    <ToBePackedDate>2024-11-18T19:26:26Z</ToBePackedDate>
+    <ToDispatchDate>2024-11-18T19:38:43Z</ToDispatchDate>
+    <DispatchDate>2024-11-18T23:10:21Z</DispatchDate>
+    <TrackingUrl>https://www.royalmail.com/track-your-item#/tracking-results/GE115656351GB</TrackingUrl>
+    <DispatchId>827ba3a2-7be8-461c-ac6a-a295f0114299</DispatchId>
+    <CourierService>Tracked Next Day No Sig</CourierService>
+    <Weight>0.5</Weight>
+    <WeightUOM>KG</WeightUOM>
+    <ShipToAttention>Oonagh Turnbull</ShipToAttention>
+    <DeliveryAddressLine1>12 Church Lane Valley Farmhouse</DeliveryAddressLine1>
+    <InterfaceRecordId>55e16ce6-3d00-4b85-95f0-70e4ef284daa</InterfaceRecordId>
+    <DeliveryAddressLine2>Redmile</DeliveryAddressLine2>
+    <DeliveryAddressLine3/>
+    <DeliveryAddressCity>Nottingham</DeliveryAddressCity>
+    <DeliveryAddressCounty/>
+    <DeliveryAddressPostCode>NG13 0GE</DeliveryAddressPostCode>
+    <DeliveryAddressCountry>GB</DeliveryAddressCountry>
+    <DeliveryPhoneNumber>07890 526450</DeliveryPhoneNumber>
+    <DeliveryEmailAddress>oonaghturnbull@yahoo.com</DeliveryEmailAddress>
+    <SalesInvoiceNumber/>
+    <TrackingUrlReturn/>
+    <SalesOrderNumber>#EBay-159016</SalesOrderNumber>
+    <SalesOrderReference>5871020703829</SalesOrderReference>
+    <DispatchNumber>030243</DispatchNumber>
+    <CourierName>Royal Mail</CourierName>
+    <CourierRef>GE115656351GB</CourierRef>
+    <DCCode>DCCL01</DCCode>
+    <BeingPickedDate>2024-11-18T19:26:10Z</BeingPickedDate>
+  </Dispatch>
+  <List>
+    <DispatchLineItem>
+      <LineInterfaceRecordId>7daed42a-88c9-46a1-83d2-56575a5acc8f</LineInterfaceRecordId>
+      <LineNumber>1</LineNumber>
+      <ProductCode>743966312274</ProductCode>
+      <EAN>743966312274</EAN>
+      <Quantity>1</Quantity>
+      <SerialNumber/>
+      <LotNumber/>
+      <OrderLineMessage/>
+      <RetailComplianceLabel/>
+      <ProductDescription>TAW2412 100% CO BLACK L</ProductDescription>
+      <ProductColour>BLACK</ProductColour>
+      <ProductGrossWeight>0.5</ProductGrossWeight>
+      <ProductSize>L</ProductSize>
+      <BuildKit>false</BuildKit>
+      <IsComponentSKU>false</IsComponentSKU>
+    </DispatchLineItem>
+  </List>
+</Response>
+</Responses>

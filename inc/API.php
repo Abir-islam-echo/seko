@@ -157,9 +157,9 @@ class API
         // getting order ID from XML file
         $orderID = $data['customer_order_id'];
 
-        // echo '<pre> data from API.php';
-        // print_r($data);
-        // echo '</pre>';
+        echo '<pre> data from API.php';
+        print_r($data);
+        echo '</pre>';
 
         //AB 6:30pm 1/17/2024
         if (str_contains($orderID, 'GE') && str_contains($orderID, 'GB')) {
@@ -176,6 +176,9 @@ class API
 
         // get fulfillment data for a particular order
         $fulfillmentData = $this->getFulfillment($orderID);
+        echo '<pre> data from API.php';
+        print_r($fulfillmentData);
+        echo '</pre>';
 
 
         // fetch order info from order ID
@@ -239,9 +242,9 @@ class API
         }
 
         /** Filtering already fulfillItems */
-        // echo '<pre> line_items_ids';
-        // print_r($line_items_ids);
-        // echo '</pre>';
+        echo '<pre> line_items_ids';
+        print_r($orderArray);
+        echo '</pre>';
         foreach ($line_items_ids as $key => $line_items_id) {
             if ($line_items_id['fulfillment_status'] == 'fulfilled') {
                 unset($line_items_ids[$key]);
@@ -337,8 +340,9 @@ class API
 
         }
 
-        // echo '<pre> api getDecodedBody()';
-        // print_r($orders->getDecodedBody());
+        echo '<pre> api getDecodedBody()';
+        print_r($orderArray);
+        print_r($orders->getDecodedBody());
 
         if ($orders->getStatusCode() == 201) {
             return true;
